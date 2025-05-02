@@ -1,0 +1,2010 @@
+[
+  {
+    "id": "geographical_feature_00001",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "کوه کرکس",
+    "name": "نطنز",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00002",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "کوه کرکس",
+    "name": "فریدن",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00003",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "کوه دنا",
+    "name": "فریدون",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00004",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "ارتفاعات",
+    "name": "کوه صفه",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00005",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "ارتفاعات",
+    "name": "مناطق مرتفع",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00006",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "دشت‌ها",
+    "name": "دشت چاله",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00007",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "مناطق مرتفع غربی و جنوبی",
+    "name": "بادهای سرد",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00008",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "شهرها در ناحیۀ کوهپایه ای",
+    "name": "چادگان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00009",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "شهرها در ناحیۀ کوهپایه ای",
+    "name": "میمه",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00010",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "شهرها در ناحیۀ کوهپایه ای",
+    "name": "دهاقان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00011",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "شهرها در ناحیۀ کوهپایه ای",
+    "name": "قمصر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00012",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "شهرها در ناحیۀ کوهپایه ای",
+    "name": "باغبهادران",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00013",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "بیابان‌ها",
+    "name": "خور و بیابانک",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00014",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "بیابان‌ها",
+    "name": "نایین",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00015",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "بیابان‌ها",
+    "name": "اردستان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00016",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "بیابان‌ها",
+    "name": "دهند",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00017",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "بیابان‌ها",
+    "name": "آران و بیدگل",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00018",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "بیابان‌ها",
+    "name": "کاشان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00019",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "رودخانه زاینده رود",
+    "name": "زاینده‌رود",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00020",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "تونل‌های کارون و دز",
+    "name": "تونل کوهرنگ",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00021",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "ناحیه‌های کویری و بیابانی",
+    "name": "شوری زارها",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00022",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "گسل‌ها",
+    "name": "گسل‌های فعال",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00023",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "چشمه‌های طبیعی",
+    "name": "چشمهٔ اسکندریه",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00024",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "چشمه‌های طبیعی",
+    "name": "چشمهٔ قریه",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00025",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "چشمه‌های طبیعی",
+    "name": "باغ تاالر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00026",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "غارهای طبیعی",
+    "name": "غار تاالر",
+    "images": []
+  },
+  {
+    "id": "tourist_attraction_00027",
+    "province": "اصفهان",
+    "category": "tourist_attraction",
+    "section": "قلعهٔ کهرشاهی",
+    "name": "قلعهٔ کهرشاهی",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": ""
+  },
+  {
+    "id": "tourist_attraction_00028",
+    "province": "اصفهان",
+    "category": "tourist_attraction",
+    "section": "قلعه علی زیارت کاغذی",
+    "name": "قلعه علی زیارت کاغذی",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": ""
+  },
+  {
+    "id": "tourist_attraction_00029",
+    "province": "اصفهان",
+    "category": "tourist_attraction",
+    "section": "کاخ چهلستون",
+    "name": "کاخ چهلستون",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": ""
+  },
+  {
+    "id": "tourist_attraction_00030",
+    "province": "اصفهان",
+    "category": "tourist_attraction",
+    "section": "کاخ عالی اللّٰه",
+    "name": "کاخ عالی اللّٰه",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": ""
+  },
+  {
+    "id": "tourist_attraction_00031",
+    "province": "اصفهان",
+    "category": "tourist_attraction",
+    "section": "کاخ هشت بهشت (نیری)",
+    "name": "کاخ هشت بهشت (نیری)",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": ""
+  },
+  {
+    "id": "vegetation_00032",
+    "province": "اصفهان",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "تراگ",
+    "images": []
+  },
+  {
+    "id": "vegetation_00033",
+    "province": "اصفهان",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "گز",
+    "images": []
+  },
+  {
+    "id": "vegetation_00034",
+    "province": "اصفهان",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "کاج",
+    "images": []
+  },
+  {
+    "id": "vegetation_00035",
+    "province": "اصفهان",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "اوکالیپتوس",
+    "images": []
+  },
+  {
+    "id": "vegetation_00036",
+    "province": "اصفهان",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "گل های غالب گیاهی",
+    "images": []
+  },
+  {
+    "id": "topography_00037",
+    "province": "اصفهان",
+    "category": "topography",
+    "section": "ناحیهٔ بلند (پایکوه)",
+    "name": "ناحیهٔ بلند (پایکوه)",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00038",
+    "province": "اصفهان",
+    "category": "topography",
+    "section": "ناحیهٔ هموار (دشت)",
+    "name": "ناحیهٔ هموار (دشت)",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00039",
+    "province": "اصفهان",
+    "category": "topography",
+    "section": "ناحیهٔ کوهستانی",
+    "name": "ناحیهٔ کوهستانی",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00040",
+    "province": "اصفهان",
+    "category": "topography",
+    "section": "رشته کوه‌های زاگرس",
+    "name": "رشته کوه‌های زاگرس",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00041",
+    "province": "اصفهان",
+    "category": "topography",
+    "section": "مناطق پست",
+    "name": "مناطق پست",
+    "images": [],
+    "description": "ارتفاع پایین‌تر باعث بارش بیشتر می‌شود."
+  },
+  {
+    "id": "geographical_feature_00042",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "کوهکوهستان",
+    "name": "کوه گیسکان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00043",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "کوهکوهستان",
+    "name": "کوه خورموج",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00044",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "کوهکوهستان",
+    "name": "کوه سیاه",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00045",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "کوهکوهستان",
+    "name": "کوه کارتنگ",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00046",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "کوهکوهستان",
+    "name": "کوه نوکند",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00047",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "دشت‌ها",
+    "name": "دشت پلنگ",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00048",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "دشت‌ها",
+    "name": "دشت الور",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00049",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "دشت‌ها",
+    "name": "دشت ارم",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00050",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "دشت‌ها",
+    "name": "دشت بوشکان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00051",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "دشت‌ها",
+    "name": "دشت آبدان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00052",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "رود مند",
+    "name": "پلنگ",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00053",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "رود مند",
+    "name": "باغان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00054",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "جنگل‌ها",
+    "name": "جنگل‌های طبیعی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00055",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "مراتع",
+    "name": "مراتع",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00056",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "بیابان",
+    "name": "بیابان‌های استان بوشهر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00057",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "گسل‌های زاگرس",
+    "name": "گسل زاگرس",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00058",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "گسل‌های خورموج",
+    "name": "گسل خورموج",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00059",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "مناطق ییالقی",
+    "name": "دشتستان-دشتی-تنگستان-دیر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00060",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "بازی‌های محلی",
+    "name": "هل هله گرگ چنبری",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00061",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "بازی‌های محلی",
+    "name": "چوکیلیشکل",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00062",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "شهرک‌های تاریخی",
+    "name": "ریشهر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00063",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "شهرک‌های تاریخی",
+    "name": "توز",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00064",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "شهرک‌های تاریخی",
+    "name": "سینیز",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00065",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "شهرک‌های تاریخی",
+    "name": "راشهر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00066",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "بندر بوشهر",
+    "name": "خلیج فارس",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00067",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "مدرسۀ سعادت بوشهر",
+    "name": "مدرسهٔ سعادت",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00068",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "سواحل",
+    "name": "سواحل بندر بوشهر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00069",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "سواحل",
+    "name": "سواحل گناوه",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00070",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "سواحل",
+    "name": "سواحل دیلم",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00071",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "سواحل",
+    "name": "جزایر خارک",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00072",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "گنبد نمکی جاشک",
+    "name": "غارهای کوه نمک",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00073",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "جنگل‌های حرا",
+    "name": "جنگل حرا مند",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00074",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "تاالب",
+    "name": "تاالب حلّه",
+    "images": []
+  },
+  {
+    "id": "tourist_attraction_00075",
+    "province": "بوشهر",
+    "category": "tourist_attraction",
+    "section": "گنبد نمکی جاشک",
+    "name": "گنبد نمکی جاشک",
+    "images": [],
+    "year_built": "",
+    "constructor": "سری هرمز",
+    "architect": "نا مشخص",
+    "description": "گنبد نمکی جاشک، یکی از مشهورترین گنبدهای نمکی ایران، از سنگ‌های تشکیل شده است که در دوران‌های کامبرین و پالئوزوئیک تشکیل شده‌اند.  وجود این گنبدها به دلیل چگالی کم نمک و گسل کازرون است."
+  },
+  {
+    "id": "tourist_attraction_00076",
+    "province": "بوشهر",
+    "category": "tourist_attraction",
+    "section": "جزیره خارک",
+    "name": "جزیره خارک",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": ""
+  },
+  {
+    "id": "tourist_attraction_00077",
+    "province": "بوشهر",
+    "category": "tourist_attraction",
+    "section": "عسلویه",
+    "name": "عسلویه",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": ""
+  },
+  {
+    "id": "tourist_attraction_00078",
+    "province": "بوشهر",
+    "category": "tourist_attraction",
+    "section": "پارک جنگلی نای بند",
+    "name": "پارک جنگلی نای بند",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "یکی از زیباترین مناظر طبیعی در سواحل استان بوشهر"
+  },
+  {
+    "id": "tourist_attraction_00079",
+    "province": "بوشهر",
+    "category": "tourist_attraction",
+    "section": "عمارت امیریه",
+    "name": "عمارت امیریه",
+    "images": [],
+    "year_built": "دورۀ قاجار",
+    "constructor": "",
+    "architect": "",
+    "description": "شورای شهر کنونی"
+  },
+  {
+    "id": "vegetation_00080",
+    "province": "بوشهر",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "جغیم",
+    "images": []
+  },
+  {
+    "id": "vegetation_00081",
+    "province": "بوشهر",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "انجیر",
+    "images": []
+  },
+  {
+    "id": "vegetation_00082",
+    "province": "بوشهر",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "بنه",
+    "images": []
+  },
+  {
+    "id": "vegetation_00083",
+    "province": "بوشهر",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "نخلستان",
+    "images": []
+  },
+  {
+    "id": "topography_00084",
+    "province": "بوشهر",
+    "category": "topography",
+    "section": "کوه پردیس",
+    "name": "کوه پردیس",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00085",
+    "province": "بوشهر",
+    "category": "topography",
+    "section": "شکل‌های آبگرم",
+    "name": "شکل‌های آبگرم",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "geographical_feature_00086",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "رشته کوه زاگرس",
+    "name": "کوه زردکوه",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00087",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "سیل‌ها",
+    "name": "آثار لغزش در کوه‌ها",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00088",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "چشمه‌ها",
+    "name": "چشمه دیمه",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00089",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "سدها",
+    "name": "سد کارون",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00090",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "سدها",
+    "name": "سد بیدکان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00091",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "سدها",
+    "name": "سد نصیرآباد",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00092",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "سدها",
+    "name": "سد خرسان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00093",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "جنگل‌های زاگرسی",
+    "name": "درختان دیگر (ارژن، افرا، ارس، و غیره)",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00094",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "مناطق تاریخی",
+    "name": "منطقه گندمان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00095",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "مناطق تاریخی",
+    "name": "منطقه رار",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00096",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "مناطق تاریخی",
+    "name": "منطقه میزدج",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00097",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "قلعه‌های تاریخی",
+    "name": "قلعه ستوده",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00098",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "قلعه‌های تاریخی",
+    "name": "قلعه امیر مفخم",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00099",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "منطقه الر",
+    "name": "کیار",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00100",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "شهیدان مدافع حرم",
+    "name": "علیرضا جیالن",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00101",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "شهیدان مدافع حرم",
+    "name": "محمدحسن قاسمی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00102",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "شهیدان مدافع حرم",
+    "name": "اله سلیمانی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00103",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "geographical_feature",
+    "section": "شهیدان مدافع حرم",
+    "name": "عزت فصل پنجم",
+    "images": []
+  },
+  {
+    "id": "topography_00104",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "topography",
+    "section": "زاگرس مرتفع",
+    "name": "زاگرس مرتفع",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00105",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "topography",
+    "section": "زمین مرتفع کوهستانی",
+    "name": "زمین مرتفع کوهستانی",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00106",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "topography",
+    "section": "دره های استان",
+    "name": "دره های استان",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00107",
+    "province": "چهارمحال‌و‌بختیاری",
+    "category": "topography",
+    "section": "کوه های مرتفع",
+    "name": "کوه های مرتفع",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "geographical_feature_00108",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "زاگرس",
+    "name": "کوه زاگرس",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00109",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "گسل‌ها",
+    "name": "گسل‌های فعال",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00110",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "گنبد‌های نمکی",
+    "name": "گنبد‌های الرستان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00111",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "گنبد‌های نمکی",
+    "name": "گنبد‌های جنوب شرقی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00112",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "رود کر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00113",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "کوه سفید",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00114",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "رودها",
+    "name": "کُر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00115",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "دریاچه ها",
+    "name": "دریاچه مهارلو",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00116",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "دریاچه ها",
+    "name": "دریاچه پریشان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00117",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "دریاچه ها",
+    "name": "دریاچه طشک",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00118",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "کوهستان‌ها",
+    "name": "کوهنجان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00119",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "درختواره‌های قابل جابه‌جایی",
+    "name": "درختان بلوط",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00120",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "مجموعه روستایی",
+    "name": "روستاهای دشت",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00121",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "مجموعه روستایی",
+    "name": "روستاهای کوهستانی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00122",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "نواحی با تراکم جمعیت",
+    "name": "شیراز",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00123",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "نواحی با تراکم جمعیت",
+    "name": "مرودشت",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00124",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "نواحی با تراکم جمعیت",
+    "name": "فسا",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00125",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "نواحی با تراکم جمعیت",
+    "name": "کازرون",
+    "images": []
+  },
+  {
+    "id": "tourist_attraction_00126",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "تخت جمشید",
+    "name": "تخت جمشید",
+    "images": [],
+    "year_built": "",
+    "constructor": "داریوش",
+    "architect": "بی‌دانی",
+    "description": "یکی از افتخارات فرهنگی فارس"
+  },
+  {
+    "id": "tourist_attraction_00127",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "نقش رستم",
+    "name": "نقش رستم",
+    "images": [],
+    "year_built": "",
+    "constructor": "بی‌دانی",
+    "architect": "بی‌دانی",
+    "description": "یک اثر هنری باستانی"
+  },
+  {
+    "id": "tourist_attraction_00128",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "آرامگاه حافظ",
+    "name": "آرامگاه حافظ",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": ""
+  },
+  {
+    "id": "tourist_attraction_00129",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "تاج محل",
+    "name": "تاج محل",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "میرزاعیسی",
+    "description": "ساخت این بنا توسط میرزاعیسی انجام شد."
+  },
+  {
+    "id": "topography_00130",
+    "province": "فارس",
+    "category": "topography",
+    "section": "کوه سفید",
+    "name": "کوه سفید",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00131",
+    "province": "فارس",
+    "category": "topography",
+    "section": "رانش زمین",
+    "name": "رانش زمین",
+    "images": [],
+    "description": "رانش زمین در مناطق کوهستانی به دلیل جذب آب ناشی از بارندگی رخ می‌دهد.، این پدیده باعث حرکت الیه‌های سطحی و تخریب می‌شود."
+  },
+  {
+    "id": "topography_00132",
+    "province": "فارس",
+    "category": "topography",
+    "section": "گسل‌ها و شیب‌های طبقاتی",
+    "name": "گسل‌ها و شیب‌های طبقاتی",
+    "images": [],
+    "description": "عامل ایجاد دریاچه‌ها"
+  },
+  {
+    "id": "geographical_feature_00133",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "کریم قرآن",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00134",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه های زاگرس",
+    "name": "کوه الف)",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00135",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه های زاگرس",
+    "name": "کوه ح)",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00136",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه های زاگرس",
+    "name": "کوه ج)",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00137",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه های زاگرس",
+    "name": "کوه د)",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00138",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه های زاگرس",
+    "name": "کوه ه)",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00139",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "جنگل‌ها",
+    "name": "جنگل‌های زاگرسی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00140",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "بادهای محلی",
+    "name": "باد آشوب",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00141",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "بادهای محلی",
+    "name": "باد حیران",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00142",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "بادهای محلی",
+    "name": "باد چوغان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00143",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "بادهای محلی",
+    "name": "باد زیر روز",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00144",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "بادهای محلی",
+    "name": "باد زمستان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00145",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "بادهای محلی",
+    "name": "باد سفلی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00146",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "رود مارون",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00147",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوهها",
+    "name": "کوه سرخ",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00148",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "گیاهان",
+    "name": "ذب پر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00149",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "گیاهان",
+    "name": "بابا آدم",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00150",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "گیاهان",
+    "name": "پونهٔ وحشی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00151",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "گیاهان",
+    "name": "استبرق",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00152",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "گیاهان",
+    "name": "شقایق",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00153",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "گیاهان",
+    "name": "پنیرک (توله) می (برنجاس)",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00154",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "گسل ها",
+    "name": "گسل رگ سفید",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00155",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "گسل ها",
+    "name": "گسل آغاجاری",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00156",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "رشته کوه‌های زاگرس",
+    "name": "سلسله کوه‌ها",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00157",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "محوطه های پارینه سنگی",
+    "name": "دالیل",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00158",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "محوطه های پارینه سنگی",
+    "name": "کالچو",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00159",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "محوطه های پارینه سنگی",
+    "name": "سمغون",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00160",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "تپه های باستانی",
+    "name": "تپه ده و ده",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00161",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "تپه های باستانی",
+    "name": "تل خسرو",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00162",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "پل قدیمی پاتاوه",
+    "name": "پل تخت شاه نشین",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00163",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "رودخانه ها",
+    "name": "رودخانه زاب",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00164",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوهستان ها",
+    "name": "کوه دالگاه",
+    "images": []
+  },
+  {
+    "id": "tourist_attraction_00165",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "tourist_attraction",
+    "section": "مسجد جامع شیراز",
+    "name": "مسجد جامع شیراز",
+    "images": [],
+    "year_built": "628 هجری شمسی",
+    "constructor": "امیران عباسی",
+    "architect": "علی‌خان",
+    "description": "یکی از مهم‌ترین مساجد تاریخی ایران"
+  },
+  {
+    "id": "tourist_attraction_00166",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "tourist_attraction",
+    "section": "پل پاتاوه",
+    "name": "پل پاتاوه",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": ""
+  },
+  {
+    "id": "vegetation_00167",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "جنگل‌ها",
+    "images": []
+  },
+  {
+    "id": "vegetation_00168",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "مراتع",
+    "images": []
+  },
+  {
+    "id": "vegetation_00169",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "گیاهان خوراکی",
+    "images": []
+  },
+  {
+    "id": "vegetation_00170",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "ریواس صنعتی و دارویی",
+    "images": []
+  },
+  {
+    "id": "topography_00171",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "topography",
+    "section": "زاگرس",
+    "name": "زاگرس",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00172",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "topography",
+    "section": "ارتفاعات و تپه ماهورها",
+    "name": "ارتفاعات و تپه ماهورها",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00173",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "topography",
+    "section": "دشت‌های جنوب غرب",
+    "name": "دشت‌های جنوب غرب",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00174",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "topography",
+    "section": "مناطق مرتفع",
+    "name": "مناطق مرتفع",
+    "images": [],
+    "description": "جاشیر، چویل"
+  },
+  {
+    "id": "topography_00175",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "topography",
+    "section": "مناطق مرکزی و شمال",
+    "name": "مناطق مرکزی و شمال",
+    "images": [],
+    "description": "یاسوج، سیهای خشک"
+  },
+  {
+    "id": "topography_00176",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "topography",
+    "section": "مناطق نیمه استپی",
+    "name": "مناطق نیمه استپی",
+    "images": [],
+    "description": "بهمئی"
+  },
+  {
+    "id": "topography_00177",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "topography",
+    "section": "مناطق مرتفع و باالتر از شود",
+    "name": "مناطق مرتفع و باالتر از شود",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00178",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "topography",
+    "section": "چهل قله با ارتفاع از حدود متر",
+    "name": "چهل قله با ارتفاع از حدود متر",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00179",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "topography",
+    "section": "تپه ماهورها",
+    "name": "تپه ماهورها",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00180",
+    "province": "کهگیلویه‌و‌بویراحمد",
+    "category": "topography",
+    "section": "دشت‌های مهم",
+    "name": "دشت‌های مهم",
+    "images": [],
+    "description": "ساختمان روستایی متنوع"
+  },
+  {
+    "id": "geographical_feature_00181",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "کوهستان‌ها",
+    "name": "زاگرس هرمزگان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00182",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "جزایر",
+    "name": "جزیرهٔ هرمز",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00183",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "گنبدهای نمکی",
+    "name": "گچین",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00184",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "گنبدهای نمکی",
+    "name": "بستک",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00185",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "گنبدهای نمکی",
+    "name": "جناح",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00186",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "گنبدهای نمکی",
+    "name": "پل",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00187",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "گنبدهای نمکی",
+    "name": "لمزان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00188",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "گنبدهای نمکی",
+    "name": "هرمز",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00189",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "گنبدهای نمکی",
+    "name": "الرک",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00190",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "گنبدهای نمکی",
+    "name": "ابوموسی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00191",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "گل فشان‌ها",
+    "name": "گل فشان گوان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00192",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "خورها",
+    "name": "خور خوران",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00193",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "ارتفاعات",
+    "name": "کوه گنو",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00194",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "رودها",
+    "name": "رود میناب",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00195",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "رودها",
+    "name": "رود مهران",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00196",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "رودها",
+    "name": "رودان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00197",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "رودها",
+    "name": "جغین",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00198",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "جنگل‌های مانگرو",
+    "name": "جنگل خلیج فارس",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00199",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "جنگل‌های مانگرو",
+    "name": "دریای عمان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00200",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "مراتع",
+    "name": "شتر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00201",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "مراتع",
+    "name": "قوچ",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00202",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "مراتع",
+    "name": "پلنگ",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00203",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "کشند قرمز",
+    "name": "Harmful Algae Bloom",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00204",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "شهرستان‌ها",
+    "name": "شهرستان بندرعباس",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00205",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "شهرستان‌ها",
+    "name": "شهرستان جاسک",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00206",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "دهستان‌ها",
+    "name": "دهستان جاسک",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00207",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "روسته‌ها",
+    "name": "روستای درون میناب",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00208",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "مجتمع بندری شهیدرجایی",
+    "name": "بندر لنگه جنوبی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00209",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "زبان",
+    "name": "ترکیبی از کلمات محلی و زبان‌های دیگر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00210",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "مسجدها",
+    "name": "مسجد شیخ برخ",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00211",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "نخلستان‌ها",
+    "name": "نخلستان آباد",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00212",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "نخلستان‌ها",
+    "name": "نخلستان میناب",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00213",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "تنگه هرمز",
+    "name": "تنگه هرمز",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00214",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "نیایشگاه مینو",
+    "name": "نی نیایشگاه",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00215",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "تپه‌های مورو شکل",
+    "name": "تپه مورو",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00216",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "دریاچه‌های عمان",
+    "name": "دریاچه های عمان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00217",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "دریای مکران",
+    "name": "بحر مکران",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00218",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "گنبد‌های نمکی",
+    "name": "گنبد نمکی قشم",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00219",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "گنبد‌های نمکی",
+    "name": "گنبد نمکی هرمز",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00220",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "ارتفاعات گنو",
+    "name": "هماگ",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00221",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "کیش",
+    "name": "چشمه‌های کیش",
+    "images": []
+  },
+  {
+    "id": "tourist_attraction_00222",
+    "province": "هرمزگان",
+    "category": "tourist_attraction",
+    "section": "گنبد‌های نمکی",
+    "name": "گنبد‌های نمکی",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "گنبد‌های نمکی به دلیل شکل‌های زیبا و طبیعی، جاذبه‌ای علمی و گردشگری هستند."
+  },
+  {
+    "id": "tourist_attraction_00223",
+    "province": "هرمزگان",
+    "category": "tourist_attraction",
+    "section": "جنگل حرا",
+    "name": "جنگل حرا",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "جنگل حرا با پرندگان زیبا و طبیعت بکر، از مناطق جذاب توریستی استان است."
+  },
+  {
+    "id": "vegetation_00224",
+    "province": "هرمزگان",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "استبرق",
+    "images": []
+  },
+  {
+    "id": "vegetation_00225",
+    "province": "هرمزگان",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "تج",
+    "images": []
+  },
+  {
+    "id": "vegetation_00226",
+    "province": "هرمزگان",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "چوچ",
+    "images": []
+  },
+  {
+    "id": "vegetation_00227",
+    "province": "هرمزگان",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "آکاسیای چتری",
+    "images": []
+  },
+  {
+    "id": "vegetation_00228",
+    "province": "هرمزگان",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "کهور",
+    "images": []
+  },
+  {
+    "id": "vegetation_00229",
+    "province": "هرمزگان",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "کلیر",
+    "images": []
+  },
+  {
+    "id": "vegetation_00230",
+    "province": "هرمزگان",
+    "category": "vegetation",
+    "section": "پوشش گیاهی",
+    "name": "کنار",
+    "images": []
+  },
+  {
+    "id": "topography_00231",
+    "province": "هرمزگان",
+    "category": "topography",
+    "section": "ناهمواری‌های هرمزگان",
+    "name": "ناهمواری‌های هرمزگان",
+    "images": [],
+    "description": "این ناهمواری‌ها شامل دشت‌های هموار، جلگه های پست، کوه های بلند و جزایر جذاب و دیدنی است."
+  },
+  {
+    "id": "topography_00232",
+    "province": "هرمزگان",
+    "category": "topography",
+    "section": "ارتفاعات بخش جنوب شرقی (واحد مکران و بشاگرد)",
+    "name": "ارتفاعات بخش جنوب شرقی (واحد مکران و بشاگرد)",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00233",
+    "province": "هرمزگان",
+    "category": "topography",
+    "section": "گسل میناب",
+    "name": "گسل میناب",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00234",
+    "province": "هرمزگان",
+    "category": "topography",
+    "section": "دشت‌های هرمزگان",
+    "name": "دشت‌های هرمزگان",
+    "images": [],
+    "description": "سطوح گسترده‌ای در امتداد خط ساحلی"
+  },
+  {
+    "id": "topography_00235",
+    "province": "هرمزگان",
+    "category": "topography",
+    "section": "جلگه های استان",
+    "name": "جلگه های استان",
+    "images": [],
+    "description": "در امتداد دریای عمان"
+  },
+  {
+    "id": "topography_00236",
+    "province": "هرمزگان",
+    "category": "topography",
+    "section": "تپه‌های شن‌زا",
+    "name": "تپه‌های شن‌زا",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00237",
+    "province": "هرمزگان",
+    "category": "topography",
+    "section": "ناهمواری‌های کوهستانی",
+    "name": "ناهمواری‌های کوهستانی",
+    "images": [],
+    "description": ""
+  },
+  {
+    "id": "topography_00238",
+    "province": "هرمزگان",
+    "category": "topography",
+    "section": "کوه های گنو",
+    "name": "کوه های گنو",
+    "images": [],
+    "description": ""
+  }
+]
