@@ -1,0 +1,2574 @@
+[
+  {
+    "id": "geographical_feature_00001",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "rivers",
+    "name": "زاینده‌رود",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00002",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "rivers",
+    "name": "پالسجان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00003",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "rivers",
+    "name": "ماربر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00004",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "rivers",
+    "name": "مرغاب",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00005",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "rivers",
+    "name": "سولیکان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00006",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "rivers",
+    "name": "گلپایگان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00007",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "rivers",
+    "name": "هرگان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00008",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "mountains",
+    "name": "کوه صفه",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00009",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "mountains",
+    "name": "رشته‌کوه کرکس",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00010",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "mountains",
+    "name": "کوه دالانکوه",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00011",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "mountains",
+    "name": "ارتفاعات زاگرس (شاهان‌کوه، دنا، دامنه)",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00012",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "lakes_and_wetlands",
+    "name": "گاوخونی (تالاب بین‌المللی)",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00013",
+    "province": "اصفهان",
+    "category": "geographical_feature",
+    "section": "lakes_and_wetlands",
+    "name": "انارک (چاهک‌آب پوشیده از نمک و رس)",
+    "images": []
+  },
+  {
+    "id": "vegetation_00014",
+    "province": "اصفهان",
+    "category": "vegetation",
+    "section": "بیابان‌های مرکزی",
+    "name": "بیابان‌های مرکزی",
+    "images": [],
+    "species": [
+      "گون‌های مقاوم",
+      "گونه‌های کمیاب"
+    ],
+    "quality": []
+  },
+  {
+    "id": "vegetation_00015",
+    "province": "اصفهان",
+    "category": "vegetation",
+    "section": "مراتع",
+    "name": "مراتع",
+    "images": [],
+    "species": [],
+    "quality": [
+      "خوب",
+      "متوسط",
+      "ضعیف"
+    ]
+  },
+  {
+    "id": "vegetation_00016",
+    "province": "اصفهان",
+    "category": "vegetation",
+    "section": "جنگل‌های زاگرس",
+    "name": "جنگل‌های زاگرس",
+    "images": [],
+    "species": [
+      "بلوط",
+      "بنۀ"
+    ],
+    "quality": []
+  },
+  {
+    "id": "topography_00017",
+    "province": "اصفهان",
+    "category": "topography",
+    "section": "اقلیم",
+    "name": "اقلیم",
+    "images": [],
+    "description": [
+      "بیابانی",
+      "نیمه‌بیابانی",
+      "نیمه‌مرطوب"
+    ]
+  },
+  {
+    "id": "topography_00018",
+    "province": "اصفهان",
+    "category": "topography",
+    "section": "دشت‌ها و چاله‌ها",
+    "name": "دشت‌ها و چاله‌ها",
+    "images": [],
+    "description": [
+      "دشت مهیار",
+      "دشت گلپایگان",
+      "کویر جرقویه"
+    ]
+  },
+  {
+    "id": "topography_00019",
+    "province": "اصفهان",
+    "category": "topography",
+    "section": "کوهستان و پیش‌کوه‌ها",
+    "name": "کوهستان و پیش‌کوه‌ها",
+    "images": [],
+    "description": [
+      "رشته‌کوه زاگرس",
+      "رشته‌کوه‌های مرکزی"
+    ]
+  },
+  {
+    "id": "natural_resource_00020",
+    "province": "اصفهان",
+    "category": "natural_resource",
+    "section": "آب",
+    "name": "آب",
+    "images": [],
+    "description": [
+      "رودخانه‌های دائمی و فصلی",
+      "چاه‌ها و قنات‌ها"
+    ]
+  },
+  {
+    "id": "natural_resource_00021",
+    "province": "اصفهان",
+    "category": "natural_resource",
+    "section": "معادن",
+    "name": "معادن",
+    "images": [],
+    "description": [
+      "طلای موته",
+      "سنگ‌آهن مبارکه",
+      "مرمر کاشان",
+      "فلوارژان (سرب و روی)"
+    ]
+  },
+  {
+    "id": "natural_resource_00022",
+    "province": "اصفهان",
+    "category": "natural_resource",
+    "section": "خاک",
+    "name": "خاک",
+    "images": [],
+    "description": [
+      "حاصلخیز دشت‌ها",
+      "نمک‌زارهای بیابانی",
+      "خاک‌های کوهپایه‌ای"
+    ]
+  },
+  {
+    "id": "environmental_issue_00023",
+    "province": "اصفهان",
+    "category": "environmental_issue",
+    "section": "air_pollution",
+    "name": "صنایع بزرگ (فولاد، ذوب‌آهن)",
+    "images": []
+  },
+  {
+    "id": "environmental_issue_00024",
+    "province": "اصفهان",
+    "category": "environmental_issue",
+    "section": "air_pollution",
+    "name": "وسایل نقلیه فرسوده",
+    "images": []
+  },
+  {
+    "id": "environmental_issue_00025",
+    "province": "اصفهان",
+    "category": "environmental_issue",
+    "section": "water_pollution",
+    "name": "پساب کشاورزی",
+    "images": []
+  },
+  {
+    "id": "environmental_issue_00026",
+    "province": "اصفهان",
+    "category": "environmental_issue",
+    "section": "water_pollution",
+    "name": "فاضلاب شهری",
+    "images": []
+  },
+  {
+    "id": "environmental_issue_00027",
+    "province": "اصفهان",
+    "category": "environmental_issue",
+    "section": "water_pollution",
+    "name": "پساب صنعتی",
+    "images": []
+  },
+  {
+    "id": "environmental_issue_00028",
+    "province": "اصفهان",
+    "category": "environmental_issue",
+    "section": "desertification",
+    "name": "پیشروی کویر",
+    "images": []
+  },
+  {
+    "id": "environmental_issue_00029",
+    "province": "اصفهان",
+    "category": "environmental_issue",
+    "section": "desertification",
+    "name": "توفان‌های گرد و غبار",
+    "images": []
+  },
+  {
+    "id": "environmental_issue_00030",
+    "province": "اصفهان",
+    "category": "environmental_issue",
+    "section": "deforestation",
+    "name": "قطع درختان بلوط",
+    "images": []
+  },
+  {
+    "id": "environmental_issue_00031",
+    "province": "اصفهان",
+    "category": "environmental_issue",
+    "section": "deforestation",
+    "name": "گسترش بیابان‌زایی",
+    "images": []
+  },
+  {
+    "id": "climate_change_impact_00032",
+    "province": "اصفهان",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "تکرار خشکسالی‌های شدید",
+    "images": []
+  },
+  {
+    "id": "climate_change_impact_00033",
+    "province": "اصفهان",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "کاهش رواناب رودها و ذخیره‌سازی سدها",
+    "images": []
+  },
+  {
+    "id": "climate_change_impact_00034",
+    "province": "اصفهان",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "افزایش توفان‌های گرد و غبار",
+    "images": []
+  },
+  {
+    "id": "climate_change_impact_00035",
+    "province": "اصفهان",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "یخبندان‌های بی‌سابقه",
+    "images": []
+  },
+  {
+    "id": "tourist_attraction_00036",
+    "province": "اصفهان",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "میدان نقش جهان",
+    "images": [],
+    "year_built": 1598,
+    "constructor": "شاه عباس اول",
+    "architect": "محمدرضا ابن حسین اصفهانی",
+    "description": "یکی از بزرگ‌ترین میدان‌های جهان و اثر ثبت‌شده در یونسکو."
+  },
+  {
+    "id": "tourist_attraction_00037",
+    "province": "اصفهان",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "پل خواجو",
+    "images": [],
+    "year_built": 1650,
+    "constructor": "شاه عباس دوم",
+    "architect": "نامشخص",
+    "description": "زیباترین پل تاریخ ایران با معماری بی‌نظیر."
+  },
+  {
+    "id": "tourist_attraction_00038",
+    "province": "اصفهان",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "کاخ چهل‌ستون",
+    "images": [],
+    "year_built": 1647,
+    "constructor": "شاه عباس دوم",
+    "architect": "شیخ‌بهایی",
+    "description": "کاخ باشکوه با نقاشی‌های تاریخی و معماری صفوی."
+  },
+  {
+    "id": "tourist_attraction_00039",
+    "province": "اصفهان",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "مسجد شیخ لطف‌الله",
+    "images": [],
+    "year_built": 1619,
+    "constructor": "شاه عباس اول",
+    "architect": "محمدرضا اصفهانی",
+    "description": "مسجدی منحصر به فرد با کاشیکاری‌های بی‌نظیر."
+  },
+  {
+    "id": "economic_capability_00040",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "agriculture - major_crops",
+    "name": "گندم",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00041",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "agriculture - major_crops",
+    "name": "جو",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00042",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "agriculture - major_crops",
+    "name": "برنج",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00043",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "agriculture - major_crops",
+    "name": "پنبه",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00044",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "agriculture - horticulture",
+    "name": "انار",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00045",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "agriculture - horticulture",
+    "name": "سیب",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00046",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "agriculture - horticulture",
+    "name": "خرما",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00047",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "agriculture - horticulture",
+    "name": "گل محمدی",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00048",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "agriculture - livestock",
+    "name": "گاو و گوسفند",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00049",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "agriculture - livestock",
+    "name": "بز",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00050",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "agriculture - livestock",
+    "name": "شتر",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00051",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "agriculture - beekeeping",
+    "name": "عسل خوانسار",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00052",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "industry - heavy",
+    "name": "فولاد مبارکه",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00053",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "industry - heavy",
+    "name": "ذوب‌آهن",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00054",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "industry - petrochemical",
+    "name": "پالایشگاه اصفهان",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00055",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "industry - mining",
+    "name": "طلای موته",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00056",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "industry - mining",
+    "name": "سنگ‌آهن چغارت",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00057",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "industry - handicrafts",
+    "name": "قالیبافی نایین",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00058",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "industry - handicrafts",
+    "name": "مجسمه‌سازی ابیانه",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00059",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "tourism - annual_visitors_domestic",
+    "name": "308292",
+    "images": []
+  },
+  {
+    "id": "economic_capability_00060",
+    "province": "اصفهان",
+    "category": "economic_capability",
+    "section": "tourism - annual_visitors_foreign",
+    "name": "53614",
+    "images": []
+  },
+  {
+    "id": "human_geography_00061",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "political_divisions - counties",
+    "name": "28",
+    "images": []
+  },
+  {
+    "id": "human_geography_00062",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "political_divisions - districts",
+    "name": "56",
+    "images": []
+  },
+  {
+    "id": "human_geography_00063",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "political_divisions - cities",
+    "name": "114",
+    "images": []
+  },
+  {
+    "id": "human_geography_00064",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "political_divisions - villages",
+    "name": "132",
+    "images": []
+  },
+  {
+    "id": "human_geography_00065",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "population - total_2016",
+    "name": "5120850",
+    "images": []
+  },
+  {
+    "id": "human_geography_00066",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "population - urban",
+    "name": "4507309",
+    "images": []
+  },
+  {
+    "id": "human_geography_00067",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "population - rural",
+    "name": "613073",
+    "images": []
+  },
+  {
+    "id": "human_geography_00068",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "population - growth_rate_2011_2016",
+    "name": "0.97",
+    "images": []
+  },
+  {
+    "id": "human_geography_00069",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "settlements - major_cities",
+    "name": "اصفهان",
+    "images": []
+  },
+  {
+    "id": "human_geography_00070",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "settlements - major_cities",
+    "name": "کاشان",
+    "images": []
+  },
+  {
+    "id": "human_geography_00071",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "settlements - major_cities",
+    "name": "خمینی‌شهر",
+    "images": []
+  },
+  {
+    "id": "human_geography_00072",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "settlements - major_cities",
+    "name": "نجف‌آباد",
+    "images": []
+  },
+  {
+    "id": "human_geography_00073",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "settlements - major_villages",
+    "name": "ابیانه",
+    "images": []
+  },
+  {
+    "id": "human_geography_00074",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "settlements - major_villages",
+    "name": "ورزنه",
+    "images": []
+  },
+  {
+    "id": "human_geography_00075",
+    "province": "اصفهان",
+    "category": "human_geography",
+    "section": "settlements - major_villages",
+    "name": "نوش‌آباد",
+    "images": []
+  },
+  {
+    "id": "culture_and_custom_00076",
+    "province": "اصفهان",
+    "category": "culture_and_custom",
+    "section": "languages_dialects",
+    "name": "فارسی معیار",
+    "images": []
+  },
+  {
+    "id": "culture_and_custom_00077",
+    "province": "اصفهان",
+    "category": "culture_and_custom",
+    "section": "languages_dialects",
+    "name": "ابیانه‌ای",
+    "images": []
+  },
+  {
+    "id": "culture_and_custom_00078",
+    "province": "اصفهان",
+    "category": "culture_and_custom",
+    "section": "languages_dialects",
+    "name": "ورزنه‌ای",
+    "images": []
+  },
+  {
+    "id": "culture_and_custom_00079",
+    "province": "اصفهان",
+    "category": "culture_and_custom",
+    "section": "languages_dialects",
+    "name": "قمیشی",
+    "images": []
+  },
+  {
+    "id": "culture_and_custom_00080",
+    "province": "اصفهان",
+    "category": "culture_and_custom",
+    "section": "folk_literature",
+    "name": "حکایت‌های قابوس‌نامه",
+    "images": []
+  },
+  {
+    "id": "culture_and_custom_00081",
+    "province": "اصفهان",
+    "category": "culture_and_custom",
+    "section": "folk_literature",
+    "name": "ضرب‌المثل‌های محلی",
+    "images": []
+  },
+  {
+    "id": "culture_and_custom_00082",
+    "province": "اصفهان",
+    "category": "culture_and_custom",
+    "section": "folk_literature",
+    "name": "آوازی‌های الالویی",
+    "images": []
+  },
+  {
+    "id": "culture_and_custom_00083",
+    "province": "اصفهان",
+    "category": "culture_and_custom",
+    "section": "festivals",
+    "name": "چهارشنبه‌سوری",
+    "images": []
+  },
+  {
+    "id": "culture_and_custom_00084",
+    "province": "اصفهان",
+    "category": "culture_and_custom",
+    "section": "festivals",
+    "name": "نوروز",
+    "images": []
+  },
+  {
+    "id": "culture_and_custom_00085",
+    "province": "اصفهان",
+    "category": "culture_and_custom",
+    "section": "festivals",
+    "name": "عزاداری محرم",
+    "images": []
+  },
+  {
+    "id": "culture_and_custom_00086",
+    "province": "اصفهان",
+    "category": "culture_and_custom",
+    "section": "festivals",
+    "name": "قالیشویی مشهد اردهال",
+    "images": []
+  },
+  {
+    "id": "culture_and_custom_00087",
+    "province": "اصفهان",
+    "category": "culture_and_custom",
+    "section": "traditional_clothing",
+    "name": "چادر سفید ورزنه",
+    "images": []
+  },
+  {
+    "id": "culture_and_custom_00088",
+    "province": "اصفهان",
+    "category": "culture_and_custom",
+    "section": "traditional_clothing",
+    "name": "لباس ابیانه‌ای",
+    "images": []
+  },
+  {
+    "id": "historical_heritage_00089",
+    "province": "اصفهان",
+    "category": "historical_heritage",
+    "section": "prehistoric_sites",
+    "name": "غار قلعهبزی",
+    "images": []
+  },
+  {
+    "id": "historical_heritage_00090",
+    "province": "اصفهان",
+    "category": "historical_heritage",
+    "section": "prehistoric_sites",
+    "name": "تپه سیلک",
+    "images": []
+  },
+  {
+    "id": "historical_heritage_00091",
+    "province": "اصفهان",
+    "category": "historical_heritage",
+    "section": "prehistoric_sites",
+    "name": "تل شاهی سمیرم",
+    "images": []
+  },
+  {
+    "id": "historical_heritage_00092",
+    "province": "اصفهان",
+    "category": "historical_heritage",
+    "section": "sassanid_sites",
+    "name": "آتشکده ماربین",
+    "images": []
+  },
+  {
+    "id": "historical_heritage_00093",
+    "province": "اصفهان",
+    "category": "historical_heritage",
+    "section": "sassanid_sites",
+    "name": "قلعه نخلک",
+    "images": []
+  },
+  {
+    "id": "historical_heritage_00094",
+    "province": "اصفهان",
+    "category": "historical_heritage",
+    "section": "sassanid_sites",
+    "name": "طاقچه بت",
+    "images": []
+  },
+  {
+    "id": "historical_heritage_00095",
+    "province": "اصفهان",
+    "category": "historical_heritage",
+    "section": "islami_dynasties",
+    "name": "آل‌بویه",
+    "images": []
+  },
+  {
+    "id": "historical_heritage_00096",
+    "province": "اصفهان",
+    "category": "historical_heritage",
+    "section": "islami_dynasties",
+    "name": "سلجوقی",
+    "images": []
+  },
+  {
+    "id": "historical_heritage_00097",
+    "province": "اصفهان",
+    "category": "historical_heritage",
+    "section": "islami_dynasties",
+    "name": "صفوی",
+    "images": []
+  },
+  {
+    "id": "historical_heritage_00098",
+    "province": "اصفهان",
+    "category": "historical_heritage",
+    "section": "notable_figures",
+    "name": "ابن‌سینا (پزشک و فیلسوف)",
+    "images": []
+  },
+  {
+    "id": "historical_heritage_00099",
+    "province": "اصفهان",
+    "category": "historical_heritage",
+    "section": "notable_figures",
+    "name": "خواجه‌نظام‌الملک (وزیر سلجوقی)",
+    "images": []
+  },
+  {
+    "id": "historical_heritage_00100",
+    "province": "اصفهان",
+    "category": "historical_heritage",
+    "section": "notable_figures",
+    "name": "شیخ‌بهایی (معمار صفوی)",
+    "images": []
+  },
+  {
+    "id": "historical_heritage_00101",
+    "province": "اصفهان",
+    "category": "historical_heritage",
+    "section": "notable_figures",
+    "name": "کمال‌الملک (نقاش معاصر)",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00102",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "رودخانه مند",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00103",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "رودخانه شاپور",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00104",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "رودخانه دالکی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00105",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "رودخانه حله",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00106",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "کوه مند",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00107",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "کوه نوکند",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00108",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "کوه سیاه",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00109",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "کوه خورموج",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00110",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "گنبد نمکی جاشک",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00111",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "تالاب‌ها و سواحل",
+    "name": "جنگل حرا",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00112",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "تالاب‌ها و سواحل",
+    "name": "خور نایبند",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00113",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "تالاب‌ها و سواحل",
+    "name": "سواحل ماسه‌ای دیلم",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00114",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "تالاب‌ها و سواحل",
+    "name": "سواحل سیراف",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00115",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "پوشش گیاهی",
+    "name": "جنگل‌های گز",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00116",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "پوشش گیاهی",
+    "name": "جنگل‌های کنار",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00117",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "پوشش گیاهی",
+    "name": "جنگل بادام کوهی و بنه",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00118",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "پوشش گیاهی",
+    "name": "جنگل حرا",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00119",
+    "province": "بوشهر",
+    "category": "geographical_feature",
+    "section": "پوشش گیاهی",
+    "name": "گونه‌های گیاهی بیابانی",
+    "images": []
+  },
+  {
+    "id": "topography_00120",
+    "province": "بوشهر",
+    "category": "topography",
+    "section": "اقلیم استان",
+    "name": "اقلیم استان",
+    "images": [],
+    "description": [
+      "گرم و خشک ساحلی با رطوبت بالا",
+      "گرم و خشک داخلی با رطوبت کم",
+      "تابستان‌های طولانی و زمستان‌های معتدل"
+    ]
+  },
+  {
+    "id": "topography_00121",
+    "province": "بوشهر",
+    "category": "topography",
+    "section": "دشت‌ها و جلگه‌ها",
+    "name": "دشت‌ها و جلگه‌ها",
+    "images": [],
+    "description": [
+      "دشت الور",
+      "دشت پلنگ",
+      "دشت ارم و بوشکان",
+      "دشت آبدان",
+      "جلگه ساحلی خوزستان"
+    ]
+  },
+  {
+    "id": "topography_00122",
+    "province": "بوشهر",
+    "category": "topography",
+    "section": "ویژگی‌های زمین‌شناسی",
+    "name": "ویژگی‌های زمین‌شناسی",
+    "images": [],
+    "description": [
+      "گسل کازرون–قطر",
+      "وجود گنبدهای نمکی",
+      "زمینه سنگ آهک و گچ",
+      "سازندهای تبخیری و کواترنر"
+    ]
+  },
+  {
+    "id": "natural_resource_00123",
+    "province": "بوشهر",
+    "category": "natural_resource",
+    "section": "منابع آبی",
+    "name": "منابع آبی",
+    "images": [],
+    "description": [
+      "رودخانه‌های موسم مند، شاپور، دالکی و حله",
+      "چاه‌های عمیق و نیمه‌عمیق",
+      "چشمه‌های آبگرم معدنی",
+      "قنات‌ها"
+    ]
+  },
+  {
+    "id": "natural_resource_00124",
+    "province": "بوشهر",
+    "category": "natural_resource",
+    "section": "منابع معدنی",
+    "name": "منابع معدنی",
+    "images": [],
+    "description": [
+      "نمک",
+      "گچ",
+      "سنگ آهک",
+      "شن و ماسه ساحلی",
+      "مارن"
+    ]
+  },
+  {
+    "id": "natural_resource_00125",
+    "province": "بوشهر",
+    "category": "natural_resource",
+    "section": "منابع نفت و گاز",
+    "name": "منابع نفت و گاز",
+    "images": [],
+    "description": [
+      "میدان‌های نفتی بهرگان، نوروز، سروش و خارک",
+      "میدان گازی پارس جنوبی",
+      "میدان گازی نار"
+    ]
+  },
+  {
+    "id": "natural_resource_00126",
+    "province": "بوشهر",
+    "category": "natural_resource",
+    "section": "تنوع آبی زیستی",
+    "name": "تنوع آبی زیستی",
+    "images": [],
+    "description": [
+      "بیش از ۲۰۰ گونه ماهی",
+      "پرورش میگوی سفید",
+      "آبزیان متنوع خلیج فارس"
+    ]
+  },
+  {
+    "id": "climate_change_impact_00127",
+    "province": "بوشهر",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "افزایش میانگین دمای سالیانه و شدت گرما در تابستان‌ها",
+    "images": []
+  },
+  {
+    "id": "climate_change_impact_00128",
+    "province": "بوشهر",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "کاهش بارش و تشدید دوره‌های خشکسالی",
+    "images": []
+  },
+  {
+    "id": "climate_change_impact_00129",
+    "province": "بوشهر",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "افزایش رطوبت شرجی در سواحل",
+    "images": []
+  },
+  {
+    "id": "climate_change_impact_00130",
+    "province": "بوشهر",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "تشدید توفان‌های گردوغبار",
+    "images": []
+  },
+  {
+    "id": "climate_change_impact_00131",
+    "province": "بوشهر",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "افزایش میزان ویرانی سیلاب‌های ناگهانی",
+    "images": []
+  },
+  {
+    "id": "tourist_attraction_00132",
+    "province": "بوشهر",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "مسجد جامع بوشهر",
+    "images": [],
+    "year_built": "قرن ساسانی",
+    "constructor": "",
+    "architect": "",
+    "description": "یکی از قدیمی‌ترین مساجد جنوب ایران با معماری منحصر‌به‌فرد."
+  },
+  {
+    "id": "tourist_attraction_00133",
+    "province": "بوشهر",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "قلعه خورموج",
+    "images": [],
+    "year_built": "دوره قاجار",
+    "constructor": "",
+    "architect": "",
+    "description": "قلعه‌ای تاریخی در شهرستان دشتی، یادگاری از دوران قاجار."
+  },
+  {
+    "id": "tourist_attraction_00134",
+    "province": "بوشهر",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "گور دختر",
+    "images": [],
+    "year_built": "هخامنشی",
+    "constructor": "",
+    "architect": "",
+    "description": "آرامگاه سنگی متعلق به دوره هخامنشیان در دشتستان."
+  },
+  {
+    "id": "tourist_attraction_00135",
+    "province": "بوشهر",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "کوشک اردشیر",
+    "images": [],
+    "year_built": "دوره ساسانی",
+    "constructor": "",
+    "architect": "",
+    "description": "قلعه‌ای استراتژیک در تنگ ارم که در دوران ساسانیان ساخته شد."
+  },
+  {
+    "id": "tourist_attraction_00136",
+    "province": "بوشهر",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "بندر سیراف",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "بندری باستانی که در دوره ساسانی مرکز تجارت جنوب ایران بود."
+  },
+  {
+    "id": "tourist_attraction_00137",
+    "province": "بوشهر",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "پارک ملی نایبند",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "منطقه حفاظت‌شده دریایی با جنگل‌های حرا و تنوع زیستی منحصربه‌فرد."
+  },
+  {
+    "id": "tourist_attraction_00138",
+    "province": "بوشهر",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "گنبد نمکی جاشک",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "یکی از مهم‌ترین پدیده‌های زمین‌شناسی با استالاگمیت‌ها و آبشارهای نمکی."
+  },
+  {
+    "id": "topography_00139",
+    "province": "چهارمحال و بختیاری",
+    "category": "topography",
+    "section": "کوهستانی",
+    "name": "کوهستانی",
+    "images": [],
+    "description": [
+      "85% مساحت استان کوهستان",
+      "ارتفاع متوسط 2153 متر",
+      "تصاعد از شرق به غرب"
+    ]
+  },
+  {
+    "id": "topography_00140",
+    "province": "چهارمحال و بختیاری",
+    "category": "topography",
+    "section": "دشت‌های آبرفتی",
+    "name": "دشت‌های آبرفتی",
+    "images": [],
+    "description": [
+      "15% مساحت استان دشت",
+      "ارتفاع متوسط دشت‌ها حدود 2000 متر",
+      "مساحت قابل کشت بیش از 3500 کیلومتر مربع"
+    ]
+  },
+  {
+    "id": "topography_00141",
+    "province": "چهارمحال و بختیاری",
+    "category": "topography",
+    "section": "ناهمواری‌های زاگرس چین‌خورده و مرتفع",
+    "name": "ناهمواری‌های زاگرس چین‌خورده و مرتفع",
+    "images": [],
+    "description": [
+      "دره‌ها و گسل‌های فعال زاگرس",
+      "ارتفاعات تند و تیز و دشت‌های باریک",
+      "گسل زاگرس به طول بیش از 120 کیلومتر"
+    ]
+  },
+  {
+    "id": "natural_resource_00142",
+    "province": "چهارمحال و بختیاری",
+    "category": "natural_resource",
+    "section": "منابع آبی",
+    "name": "منابع آبی",
+    "images": [],
+    "description": [
+      "10% حجم آب‌های جاری کشور",
+      "برابر 2.9 میلیارد مترمکعب در حوضه کارون",
+      "منابع زیرزمینی 1592 میلیون مترمکعب"
+    ]
+  },
+  {
+    "id": "natural_resource_00143",
+    "province": "چهارمحال و بختیاری",
+    "category": "natural_resource",
+    "section": "منابع معدنی",
+    "name": "منابع معدنی",
+    "images": [],
+    "description": [
+      "بوکسیت (ذخیره غنی در دوپالن)",
+      "سیلیس، گچ، خاک نسوز",
+      "سنگ مرمر، سنگ آهن، دولومیت"
+    ]
+  },
+  {
+    "id": "natural_resource_00144",
+    "province": "چهارمحال و بختیاری",
+    "category": "natural_resource",
+    "section": "فرش دستباف و صنایع دستی",
+    "name": "فرش دستباف و صنایع دستی",
+    "images": [],
+    "description": [
+      "قالی چالشتری و یلمه",
+      "نمدمالی، وریس‌بافی، گیوه‌دوزی",
+      "خارهای محلی (جاجیم، خاتم‌کاری)"
+    ]
+  },
+  {
+    "id": "tourist_attraction_00145",
+    "province": "چهارمحال و بختیاری",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "قلعه سردار اسعد",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "کاخ تاریخی متعلق به سردار اسعد بختیاری در جونقان"
+  },
+  {
+    "id": "tourist_attraction_00146",
+    "province": "چهارمحال و بختیاری",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "قلعه چالشتر",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "عمارت آزاده و ستوده در چالشتر، یادگار اتابکان لر"
+  },
+  {
+    "id": "tourist_attraction_00147",
+    "province": "چهارمحال و بختیاری",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "غار چما",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "غار آهکی با چشمه‌های خنک در زردکوه"
+  },
+  {
+    "id": "tourist_attraction_00148",
+    "province": "چهارمحال و بختیاری",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "آبشار آتشگاه",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "آبشار پرآب و بلند در شهرستان لردگان"
+  },
+  {
+    "id": "tourist_attraction_00149",
+    "province": "چهارمحال و بختیاری",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "تالاب چغاخور",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "لگن طبیعی آب شیرین در ارتفاعات بروجن"
+  },
+  {
+    "id": "tourist_attraction_00150",
+    "province": "چهارمحال و بختیاری",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "حمام تاریخی مکتب‌خانه",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "حمامی متعلق به دوران قاجار در بروجن"
+  },
+  {
+    "id": "tourist_attraction_00151",
+    "province": "چهارمحال و بختیاری",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "بردگوری‌های ساسانی",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "سنگ‌نبشته‌های دوره ساسانی در اردل و کوهرنگ"
+  },
+  {
+    "id": "geographical_feature_00152",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "رودخانه کر",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00153",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "رودخانه شاپور",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00154",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "رودخانه دالکی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00155",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "رودخانه فیروزآباد",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00156",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "رودخانه سیوند",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00157",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "رودخانه رودبال",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00158",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "رودخانه قره‌آقاج",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00159",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "کوه‌ها و ناهمواری‌ها",
+    "name": "کوهستان زاگرس",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00160",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "کوه‌ها و ناهمواری‌ها",
+    "name": "قله‌های مرتفع شامل کوه سفید (3950 متر)، رنج (3720 متر)، ساریخانی (3330 متر)، موسیخان (3283 متر)، سفیدار (3170 متر)، قالت (2990 متر)، گاو بست (2170 متر)، کهدان (2100 متر)",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00161",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "دشت‌ها",
+    "name": "دشت‌های حاصلخیزی در مرکز و غرب استان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00162",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "دشت‌ها",
+    "name": "بیابان‌ها و اراضی بایر در جنوب و شرق استان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00163",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "دریاچه‌ها",
+    "name": "دریاچه بختگان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00164",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "دریاچه‌ها",
+    "name": "دریاچه طشک",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00165",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "دریاچه‌ها",
+    "name": "دریاچه پریشان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00166",
+    "province": "فارس",
+    "category": "geographical_feature",
+    "section": "دریاچه‌ها",
+    "name": "دریاچه ارژن",
+    "images": []
+  },
+  {
+    "id": "topography_00167",
+    "province": "فارس",
+    "category": "topography",
+    "section": "توپوگرافی استان",
+    "name": "توپوگرافی استان",
+    "images": [],
+    "description": [
+      "تقسیم‌بندی به دو بخش کوهستانی و دشتی",
+      "کوهستان زاگرس با چین‌خوردگی‌ها و گسل‌های فعال",
+      "دشت‌های آبرفتی حاصلخیز مرکزی و غربی"
+    ]
+  },
+  {
+    "id": "natural_resource_00168",
+    "province": "فارس",
+    "category": "natural_resource",
+    "section": "منابع آب",
+    "name": "منابع آب",
+    "images": [],
+    "description": [
+      "رودخانه‌های متعدد",
+      "چشمه‌های آب گرم درمانی",
+      "پوشش منابع آب زیرزمینی غنی"
+    ]
+  },
+  {
+    "id": "natural_resource_00169",
+    "province": "فارس",
+    "category": "natural_resource",
+    "section": "معادن",
+    "name": "معادن",
+    "images": [],
+    "description": [
+      "گنبدهای نمکی شاه علمدار و زریندشت",
+      "مخازن نفت و گاز: آغار-دالان، خشت-کمارج، سعادت‌آباد، سروستان"
+    ]
+  },
+  {
+    "id": "natural_resource_00170",
+    "province": "فارس",
+    "category": "natural_resource",
+    "section": "پوشش گیاهی",
+    "name": "پوشش گیاهی",
+    "images": [],
+    "description": [
+      "جنگل‌های بلوط، بنه، زالزالک، گالبی وحشی، ارس، بادام کوهی، انجیر وحشی",
+      "مراتع درمنه، گز، گون، اسپند، اسفناج وحشی، کنگر، جاشیر، شیرینبیان، خارشتر، شاتره، چوبک"
+    ]
+  },
+  {
+    "id": "tourist_attraction_00171",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "تخت جمشید",
+    "images": [],
+    "year_built": "518 پیش از میلاد",
+    "constructor": "داریوش اول",
+    "architect": "داریوش اول",
+    "description": "مجموعه کاخ‌ها و خزائن هخامنشی؛ محل برگزاری جشن‌های نوروز"
+  },
+  {
+    "id": "tourist_attraction_00172",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "پاسارگاد",
+    "images": [],
+    "year_built": "550 پیش از میلاد",
+    "constructor": "کوروش بزرگ",
+    "architect": "هخامنشیان",
+    "description": "آرامگاه کوروش کبیر و مجموعه کاخ‌های هخامنشی"
+  },
+  {
+    "id": "tourist_attraction_00173",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "نقش رستم",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "نقش‌برجسته‌های هخامنشی و آرامگاه‌های شاهان"
+  },
+  {
+    "id": "tourist_attraction_00174",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "شاهچراغ (آرامگاه احمد بن موسی)",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "حرم مطهر امامزاده شاهچراغ در شیراز"
+  },
+  {
+    "id": "tourist_attraction_00175",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "حافظیه",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "آرامگاه شیخ شمس‌الدین حافظ شیرازی"
+  },
+  {
+    "id": "tourist_attraction_00176",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "سعدیه",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "آرامگاه سعدی شیرازی"
+  },
+  {
+    "id": "tourist_attraction_00177",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "بازار وکیل",
+    "images": [],
+    "year_built": "1218 قمری",
+    "constructor": "شاه ‌عباس دوم",
+    "architect": "",
+    "description": "بازار سنتی شیراز در دوران زندیه"
+  },
+  {
+    "id": "tourist_attraction_00178",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "مسجد وکیل",
+    "images": [],
+    "year_built": "1218 قمری",
+    "constructor": "کریم‌خان زند",
+    "architect": "",
+    "description": "مسجد تاریخی شیراز در دوران زندیه"
+  },
+  {
+    "id": "tourist_attraction_00179",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "نارنجستان قوام",
+    "images": [],
+    "year_built": "",
+    "constructor": "قوام‌الملک",
+    "architect": "",
+    "description": "عمارت قاجاری و باغ نارنجستان در شیراز"
+  },
+  {
+    "id": "tourist_attraction_00180",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "باغ ارم",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "باغ گیاه‌شناسی تاریخی در شیراز"
+  },
+  {
+    "id": "tourist_attraction_00181",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "باغ عفیف‌آباد",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "باغ و عمارت دوره قاجار در شیراز"
+  },
+  {
+    "id": "tourist_attraction_00182",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "آبشار مارگون",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "یکی از بلندترین آبشارهای استان در سپیدان"
+  },
+  {
+    "id": "tourist_attraction_00183",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "تنگه براق",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "تنگه دیدنی در اقلید"
+  },
+  {
+    "id": "tourist_attraction_00184",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "تنگه بستانک",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "تنگه‌ای کوهستانی در سپیدان"
+  },
+  {
+    "id": "tourist_attraction_00185",
+    "province": "فارس",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "چشمه دهرم",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "چشمه آب گرم درمانی در فراشبند"
+  },
+  {
+    "id": "geographical_feature_00186",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "مارون",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00187",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "بشار",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00188",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "زهره",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00189",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "خیرآباد",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00190",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "شور",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00191",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "بابا احمد",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00192",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "تلخ",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00193",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "دنا",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00194",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "سیاه و سفید",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00195",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "حاتم",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00196",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "خائیز",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00197",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "حجال",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00198",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "خامی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00199",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "نور",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00200",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "دلافروز",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00201",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "سرداب",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00202",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "شورم",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00203",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "دریاچه‌ها و تالاب‌ها",
+    "name": "برم زرد زیالیی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00204",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "دریاچه‌ها و تالاب‌ها",
+    "name": "برم آلوان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00205",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "پوشش گیاهی",
+    "name": "جنگل‌های بلوط",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00206",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "پوشش گیاهی",
+    "name": "مراتع غنی گیاهان دارویی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00207",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "geographical_feature",
+    "section": "پوشش گیاهی",
+    "name": "پوشش علوفه مراتع",
+    "images": []
+  },
+  {
+    "id": "topography_00208",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "topography",
+    "section": "اقلیم",
+    "name": "اقلیم",
+    "images": [],
+    "description": [
+      "سردسیر",
+      "گرمسیر"
+    ]
+  },
+  {
+    "id": "topography_00209",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "topography",
+    "section": "ارتفاعات",
+    "name": "ارتفاعات",
+    "images": [],
+    "description": [
+      "بلندترین نقطه: قله دنا 4409 متر",
+      "پست‌ترین نقطه: بی‌بی حکیمه 197 متر"
+    ]
+  },
+  {
+    "id": "topography_00210",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "topography",
+    "section": "دشت‌ها",
+    "name": "دشت‌ها",
+    "images": [],
+    "description": [
+      "دشت لیشتر",
+      "دشت روم",
+      "دشت‌های پست شهرستان بهمئی و گچساران"
+    ]
+  },
+  {
+    "id": "topography_00211",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "topography",
+    "section": "زمین‌شناسی",
+    "name": "زمین‌شناسی",
+    "images": [],
+    "description": [
+      "ساختمان چین‌خورده زاگرس",
+      "گسل رورانده",
+      "گنبدهای نمکی کاکان"
+    ]
+  },
+  {
+    "id": "topography_00212",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "topography",
+    "section": "کوهپایه‌ها",
+    "name": "کوهپایه‌ها",
+    "images": [],
+    "description": [
+      "سیسخت",
+      "پاتاوه",
+      "چرام",
+      "لیکک"
+    ]
+  },
+  {
+    "id": "natural_resource_00213",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "natural_resource",
+    "section": "منابع آبی",
+    "name": "منابع آبی",
+    "images": [],
+    "description": [
+      "رودخانه‌های دائمی",
+      "چشمه‌های خنک",
+      "قنات‌ها و چاه‌های آب"
+    ]
+  },
+  {
+    "id": "natural_resource_00214",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "natural_resource",
+    "section": "نفت و گاز",
+    "name": "نفت و گاز",
+    "images": [],
+    "description": [
+      "میدان نفتی گچساران",
+      "میدان نفتی بی‌بی حکیمه",
+      "گاز همراه نفت"
+    ]
+  },
+  {
+    "id": "natural_resource_00215",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "natural_resource",
+    "section": "معادن",
+    "name": "معادن",
+    "images": [],
+    "description": [
+      "معدن بوکسیت سرفاریاب",
+      "معدن فسفات قلعه دختر",
+      "معدن گچ سرگچینه",
+      "معدن سلستین",
+      "معادن سنگ آهک و نما",
+      "معادن نمک آبی"
+    ]
+  },
+  {
+    "id": "natural_resource_00216",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "natural_resource",
+    "section": "پوشش گیاهی دارویی",
+    "name": "پوشش گیاهی دارویی",
+    "images": [],
+    "description": [
+      "آویشن",
+      "شیرین بیان",
+      "بومادران",
+      "مورد",
+      "جاشیر خوراکی",
+      "چویل",
+      "ارس"
+    ]
+  },
+  {
+    "id": "climate_change_impact_00217",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "کاهش بارندگی سالانه و افزایش خشکسالی",
+    "images": []
+  },
+  {
+    "id": "climate_change_impact_00218",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "افزایش وقوع گرد و غبار در ماه‌های گرم",
+    "images": []
+  },
+  {
+    "id": "climate_change_impact_00219",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "افت سطح آب‌های زیرزمینی و خشک شدن برخی چشمه‌ها",
+    "images": []
+  },
+  {
+    "id": "climate_change_impact_00220",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "کاهش کیفیت و تراکم جنگل‌ها و مراتع",
+    "images": []
+  },
+  {
+    "id": "climate_change_impact_00221",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "climate_change_impact",
+    "section": "climate",
+    "name": "تشدید فرسایش خاک و تخریب پوشش گیاهی",
+    "images": []
+  },
+  {
+    "id": "tourist_attraction_00222",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "پارک دنا سیسخت",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "پارک جنگلی و مسیر کوهنوردی در ارتفاعات دنا"
+  },
+  {
+    "id": "tourist_attraction_00223",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "تله‌کابین یاسوج",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "تله‌کابین کوه کان با چشم‌انداز شهر یاسوج"
+  },
+  {
+    "id": "tourist_attraction_00224",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "آبشار یاسوج",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "آبشار پرآب در مسیر رود بشار"
+  },
+  {
+    "id": "tourist_attraction_00225",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "امامزاده بی‌بی حکیمه",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "زیارتگاه دختر امام موسی کاظم (ع) در شهرستان گچساران"
+  },
+  {
+    "id": "tourist_attraction_00226",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "پل هخامنشی پاتاوه",
+    "images": [],
+    "year_built": "دوران هخامنشی",
+    "constructor": "",
+    "architect": "",
+    "description": "پل سنگی تاریخی بر روی رودخانه مارون"
+  },
+  {
+    "id": "tourist_attraction_00227",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "روستای پلکانی کریک",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "روستای توریستی با معماری پلکانی در شهرستان دنا"
+  },
+  {
+    "id": "tourist_attraction_00228",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "امامزاده شاه مختار چیتاب",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "زیارتگاه مذهبی در شهرستان کهگیلویه"
+  },
+  {
+    "id": "tourist_attraction_00229",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "غار کوه خائیز",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "غار طبیعی و کوهنوردی در شهرستان گچساران"
+  },
+  {
+    "id": "tourist_attraction_00230",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "دریاچه برم آلوان",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "دریاچه طبیعی برم آلوان در شهرستان بهمئی"
+  },
+  {
+    "id": "tourist_attraction_00231",
+    "province": "کهگیلویه و بویراحمد",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "قلعه دختر دهدشت",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "قلعه تاریخی ساسانی در شهرستان کهگیلویه"
+  },
+  {
+    "id": "geographical_feature_00232",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "میناب",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00233",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "مهران",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00234",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "گابریک",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00235",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "شور",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00236",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "رودخانه‌ها",
+    "name": "کجیگ",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00237",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "کوه فارغان (هماگ)",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00238",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "کوه شب (شو)",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00239",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "کوه گنو",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00240",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "کوه نیان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00241",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "کوه‌ها",
+    "name": "کوه مهره",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00242",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "جزایر",
+    "name": "قشم",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00243",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "جزایر",
+    "name": "کیش",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00244",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "جزایر",
+    "name": "هرمز",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00245",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "جزایر",
+    "name": "ابوموسی",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00246",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "جزایر",
+    "name": "تنب بزرگ",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00247",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "جزایر",
+    "name": "تنب کوچک",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00248",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "جزایر",
+    "name": "سیری",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00249",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "جزایر",
+    "name": "الرک",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00250",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "جزایر",
+    "name": "الوان",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00251",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "پوشش گیاهی",
+    "name": "جنگل‌های ساحلی مانگرو",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00252",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "پوشش گیاهی",
+    "name": "گونه‌های کنار، مغیر و کهور در ساحل",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00253",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "پوشش گیاهی",
+    "name": "بیابان‌های وسیع با گیاهان مقاوم به شوری",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00254",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "پوشش گیاهی",
+    "name": "مراتع کم‌تراکم با گونه‌های شورپسند",
+    "images": []
+  },
+  {
+    "id": "geographical_feature_00255",
+    "province": "هرمزگان",
+    "category": "geographical_feature",
+    "section": "پوشش گیاهی",
+    "name": "جنگل‌های کوهستانی با گونه‌های بنه و بادام کوهی",
+    "images": []
+  },
+  {
+    "id": "topography_00256",
+    "province": "هرمزگان",
+    "category": "topography",
+    "section": "اقلیم منطقه",
+    "name": "اقلیم منطقه",
+    "images": [],
+    "description": [
+      "گرم و خشک در جلگه‌ها",
+      "معتدل در ارتفاعات شمالی"
+    ]
+  },
+  {
+    "id": "topography_00257",
+    "province": "هرمزگان",
+    "category": "topography",
+    "section": "ارتفاع",
+    "name": "ارتفاع",
+    "images": [],
+    "description": [
+      "کوه فارغان: ۳۲۶۷ متر",
+      "کوه شب: ۲۶۸۱ متر",
+      "کوه گنو: ۲۳۴۷ متر"
+    ]
+  },
+  {
+    "id": "topography_00258",
+    "province": "هرمزگان",
+    "category": "topography",
+    "section": "دشت‌ها",
+    "name": "دشت‌ها",
+    "images": [],
+    "description": [
+      "دشت سیاهو",
+      "دشت مهرگان",
+      "دشت پارسیان"
+    ]
+  },
+  {
+    "id": "topography_00259",
+    "province": "هرمزگان",
+    "category": "topography",
+    "section": "ناهمواری‌ها",
+    "name": "ناهمواری‌ها",
+    "images": [],
+    "description": [
+      "رشته‌کوه زاگرس هرمزگان",
+      "رشته‌کوه مکران و بشاگرد",
+      "گنبدهای نمکی"
+    ]
+  },
+  {
+    "id": "natural_resource_00260",
+    "province": "هرمزگان",
+    "category": "natural_resource",
+    "section": "منابع آبی",
+    "name": "منابع آبی",
+    "images": [],
+    "description": [
+      "رودخانه‌های فصلی و دائمی",
+      "چاه‌های عمیق و قنات",
+      "چشمه‌های آبگرم"
+    ]
+  },
+  {
+    "id": "natural_resource_00261",
+    "province": "هرمزگان",
+    "category": "natural_resource",
+    "section": "منابع معدنی",
+    "name": "منابع معدنی",
+    "images": [],
+    "description": [
+      "سنگ آهن",
+      "گاز طبیعی",
+      "سنگ مرمر",
+      "کرومیت",
+      "نمک"
+    ]
+  },
+  {
+    "id": "natural_resource_00262",
+    "province": "هرمزگان",
+    "category": "natural_resource",
+    "section": "منابع دریایی",
+    "name": "منابع دریایی",
+    "images": [],
+    "description": [
+      "آبزیان خوراکی (هامور، سنگسر، حلوا)",
+      "آبزیان زینتی (دلقک‌ماهی، بادکنک‌ماهی)"
+    ]
+  },
+  {
+    "id": "tourist_attraction_00263",
+    "province": "هرمزگان",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "جنگل‌های حرا (جزیره قشم)",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "وسیع‌ترین ناحیه جنگل‌های حرا با آبراهه‌ها و پرندگان مهاجر"
+  },
+  {
+    "id": "tourist_attraction_00264",
+    "province": "هرمزگان",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "قلعه پرتغالی‌ها (جزیره هرمز)",
+    "images": [],
+    "year_built": "۱۵۰۷",
+    "constructor": "آلفونسو آلبرکرک",
+    "architect": "نامشخص",
+    "description": "قلعه‌ای چندضلعی با برج‌های ۱۲ متری و آثاری از ساختار دفاعی پرتغالی‌ها"
+  },
+  {
+    "id": "tourist_attraction_00265",
+    "province": "هرمزگان",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "غار نمکی قشم",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "بلندترین غار نمکی جهان با ساختاری زمین‌شناختی بی‌نظیر"
+  },
+  {
+    "id": "tourist_attraction_00266",
+    "province": "هرمزگان",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "قنات زیرزمینی کاریز (جزیره کیش)",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "قناتی ۲۵۰۰ ساله با شبکه‌ای از تونل‌های زیرزمینی"
+  },
+  {
+    "id": "tourist_attraction_00267",
+    "province": "هرمزگان",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "آبشار تزرج (حاجی‌آباد)",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "آبشاری زیبا و مناظر جنگلی اطراف"
+  },
+  {
+    "id": "tourist_attraction_00268",
+    "province": "هرمزگان",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "آبگرم گنو (میناب)",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "منطقه آب‌درمانی با خواص درمانی برای امراض پوستی و رماتیسمی"
+  },
+  {
+    "id": "tourist_attraction_00269",
+    "province": "هرمزگان",
+    "category": "tourist_attraction",
+    "section": "جاذبه گردشگری",
+    "name": "پل شاه‌عباسی (التیدان)",
+    "images": [],
+    "year_built": "",
+    "constructor": "",
+    "architect": "",
+    "description": "طولانی‌ترین پل سنتی ایران با ۳۳ دهانه و ۱۵۰۰ متر طول"
+  }
+]
