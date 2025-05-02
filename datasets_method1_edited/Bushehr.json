@@ -1,0 +1,268 @@
+{
+  "province": "بوشهر",
+  "title": "ویژگی‌های جغرافیایی بوشهر",
+  "location": {
+    "province": "بوشهر",
+    "city": "بوشهر"
+  },
+  "geographical_features": [
+    {
+      "name": "کوهستان",
+      "items": [
+        {
+          "name": "کوه گیسکان",
+          "images": []
+        },
+        {
+          "name": "کوه خورموج",
+          "images": []
+        },
+        {
+          "name": "کوه سیاه",
+          "images": []
+        },
+        {
+          "name": "کوه کارتنگ",
+          "images": []
+        },
+        {
+          "name": "کوه نوکند",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "دشت‌ها",
+      "items": [
+        {
+          "name": "دشت پلنگ",
+          "images": []
+        },
+        {
+          "name": "دشت الور",
+          "images": []
+        },
+        {
+          "name": "دشت ارم",
+          "images": []
+        },
+        {
+          "name": "دشت بوشکان",
+          "images": []
+        },
+        {
+          "name": "دشت آبدان",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "رود مند",
+      "items": [
+        {
+          "name": "پلنگ",
+          "images": []
+        },
+        {
+          "name": "باغان",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "جنگل‌ها",
+      "items": [
+        {
+          "name": "جنگل‌های طبیعی",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "مراتع",
+      "items": [
+        {
+          "name": "مراتع",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "بیابان",
+      "items": [
+        {
+          "name": "بیابان‌های استان بوشهر",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "گسل‌های زاگرس",
+      "items": [
+        {
+          "name": "گسل زاگرس",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "گسل‌های خورموج",
+      "items": [
+        {
+          "name": "گسل خورموج",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "مناطق ییالقی",
+      "items": [
+        {
+          "name": "دشتستان-دشتی-تنگستان-دیر",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "بندر بوشهر",
+      "items": [
+        {
+          "name": "خلیج فارس",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "سواحل",
+      "items": [
+        {
+          "name": "سواحل بندر بوشهر",
+          "images": []
+        },
+        {
+          "name": "سواحل گناوه",
+          "images": []
+        },
+        {
+          "name": "سواحل دیلم",
+          "images": []
+        },
+        {
+          "name": "جزایر خارک",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "گنبد نمکی جاشک",
+      "items": [
+        {
+          "name": "غارهای کوه نمک",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "جنگل‌های حرا",
+      "items": [
+        {
+          "name": "جنگل حرا مند",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "تالاب",
+      "items": [
+        {
+          "name": "تالاب حلّه",
+          "images": []
+        }
+      ]
+    }
+  ],
+  "natural_resources": [],
+  "vegetation": [
+    "انجیر",
+    "بنه",
+    "نخلستان"
+  ],
+  "topography": [
+    {
+      "name": "کوه پردیس",
+      "description": []
+    },
+    {
+      "name": "شکل‌های آبگرم",
+      "description": []
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "گنبد نمکی جاشک",
+      "images": [],
+      "year_built": "",
+      "constructor": "سری هرمز",
+      "architect": "نا مشخص",
+      "description": "گنبد نمکی جاشک، یکی از مشهورترین گنبدهای نمکی ایران، از سنگ‌های تشکیل شده است که در دوران‌های کامبرین و پالئوزوئیک تشکیل شده‌اند.  وجود این گنبدها به دلیل چگالی کم نمک و گسل کازرون است."
+    },
+    {
+      "name": "جزیره خارک",
+      "images": [],
+      "year_built": "",
+      "constructor": "",
+      "architect": "",
+      "description": ""
+    },
+    {
+      "name": "عسلویه",
+      "images": [],
+      "year_built": "",
+      "constructor": "",
+      "architect": "",
+      "description": ""
+    },
+    {
+      "name": "پارک جنگلی نای بند",
+      "images": [],
+      "year_built": "",
+      "constructor": "",
+      "architect": "",
+      "description": "یکی از زیباترین مناظر طبیعی در سواحل استان بوشهر"
+    },
+    {
+      "name": "عمارت امیریه",
+      "images": [],
+      "year_built": "دورۀ قاجار",
+      "constructor": "",
+      "architect": "",
+      "description": "شورای شهر کنونی"
+    },
+    {
+      "name": "شهرک‌های تاریخی",
+      "items": [
+        {
+          "name": "ریشهر",
+          "images": []
+        },
+        {
+          "name": "توز",
+          "images": []
+        },
+        {
+          "name": "سینیز",
+          "images": []
+        },
+        {
+          "name": "راشهر",
+          "images": []
+        }
+      ]
+    }
+  ],
+  "climate_impacts": [],
+  "additional_info": {
+    "books_source": "",
+    "other_sources": []
+  }
+}

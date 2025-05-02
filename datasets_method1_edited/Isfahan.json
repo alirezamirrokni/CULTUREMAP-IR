@@ -1,0 +1,267 @@
+{
+  "province": "اصفهان",
+  "title": "ویژگی‌های جغرافیایی استان اصفهان",
+  "location": {
+    "province": "اصفهان",
+    "city": "اصفهان"
+  },
+  "geographical_features": [
+    {
+      "name": "کوه کرکس",
+      "items": [
+        {
+          "name": "نطنز",
+          "images": []
+        },
+        {
+          "name": "فریدن",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "کوه دنا",
+      "items": [
+        {
+          "name": "فریدون‌شهر",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "ارتفاعات",
+      "items": [
+        {
+          "name": "کوه صفه",
+          "images": []
+        },
+        {
+          "name": "مناطق مرتفع",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "دشت‌ها",
+      "items": [
+        {
+          "name": "دشت چاله",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "مناطق مرتفع غربی و جنوبی",
+      "items": [
+        {
+          "name": "بادهای سرد",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "شهرها در ناحیۀ کوهپایه ای",
+      "items": [
+        {
+          "name": "چادگان",
+          "images": []
+        },
+        {
+          "name": "میمه",
+          "images": []
+        },
+        {
+          "name": "دهاقان",
+          "images": []
+        },
+        {
+          "name": "قمصر",
+          "images": []
+        },
+        {
+          "name": "باغبهادران",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "بیابان‌ها",
+      "items": [
+        {
+          "name": "خور و بیابانک",
+          "images": []
+        },
+        {
+          "name": "نایین",
+          "images": []
+        },
+        {
+          "name": "اردستان",
+          "images": []
+        },
+        {
+          "name": "آران و بیدگل",
+          "images": []
+        },
+        {
+          "name": "کاشان",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "رودخانه زاینده رود",
+      "items": [
+        {
+          "name": "زاینده‌رود",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "تونل‌های کارون و دز",
+      "items": [
+        {
+          "name": "تونل کوهرنگ",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "ناحیه‌های کویری و بیابانی",
+      "items": [
+        {
+          "name": "شوری زارها",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "گسل‌ها",
+      "items": [
+        {
+          "name": "گسل‌های فعال",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "چشمه‌های طبیعی",
+      "items": [
+        {
+          "name": "چشمهٔ اسکندریه",
+          "images": []
+        },
+        {
+          "name": "چشمهٔ قریه",
+          "images": []
+        },
+        {
+          "name": "باغ تالار",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "غارهای طبیعی",
+      "items": [
+        {
+          "name": "تالار غار رئیس",
+          "images": []
+        }
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "فلزات",
+      "description": [
+        "طلا در موته، سرب و روی انارک، پتاس فلزی و غنی از معادن معدنی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "نقره، نفت و گاز"
+      ]
+    }
+  ],
+  "vegetation": [
+    "تاغ",
+    "گز",
+    "کاج",
+    "اوکالیپتوس",
+    "گل های غالب گیاهی"
+  ],
+  "topography": [
+    {
+      "name": "ناحیهٔ بلند (پایکوه)",
+      "description": []
+    },
+    {
+      "name": "ناحیهٔ هموار (دشت)",
+      "description": []
+    },
+    {
+      "name": "ناحیهٔ کوهستانی",
+      "description": []
+    },
+    {
+      "name": "رشته کوه‌های زاگرس",
+      "description": []
+    },
+    {
+      "name": "مناطق پست",
+      "description": [
+        "ارتفاع پایین‌تر باعث بارش بیشتر می‌شود."
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "قلعهٔ کهرشاهی",
+      "images": [],
+      "year_built": "",
+      "constructor": "",
+      "architect": "",
+      "description": ""
+    },
+    {
+      "name": "قلعه علی زیارت کاغذی",
+      "images": [],
+      "year_built": "",
+      "constructor": "",
+      "architect": "",
+      "description": ""
+    },
+    {
+      "name": "کاخ چهلستون",
+      "images": [],
+      "year_built": "",
+      "constructor": "",
+      "architect": "",
+      "description": ""
+    },
+    {
+      "name": "کاخ عالی قاپو",
+      "images": [],
+      "year_built": "",
+      "constructor": "",
+      "architect": "",
+      "description": ""
+    },
+    {
+      "name": "کاخ هشت بهشت (نیری)",
+      "images": [],
+      "year_built": "",
+      "constructor": "",
+      "architect": "",
+      "description": ""
+    }
+  ],
+  "climate_impacts": [],
+  "additional_info": {
+    "books_source": "",
+    "other_sources": []
+  }
+}
