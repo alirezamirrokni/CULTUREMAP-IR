@@ -1,0 +1,153 @@
+{
+  "province": "چهارمحال‌و‌بختیاری",
+  "title": "ویژگی‌های جغرافیایی چهارمحال و بختیاری",
+  "location": {
+    "province": "چهارمحال و بختیاری",
+    "city": "شهر کرد"
+  },
+  "geographical_features": [
+    {
+      "name": "رشته کوه زاگرس",
+      "items": [
+        {
+          "name": "کوه زردکوه",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "سیل‌ها",
+      "items": [
+        {
+          "name": "آثار لغزش در کوه‌ها",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "چشمه‌ها",
+      "items": [
+        {
+          "name": "چشمه دیمه",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "سدها",
+      "items": [
+        {
+          "name": "سد کارون",
+          "images": []
+        },
+        {
+          "name": "سد بیدکان",
+          "images": []
+        },
+        {
+          "name": "سد نصیرآباد",
+          "images": []
+        },
+        {
+          "name": "سد خرسان",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "جنگل‌های زاگرسی",
+      "items": [
+        {
+          "name": "درختان دیگر (ارژن، افرا، ارس، و غیره)",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "مناطق تاریخی",
+      "items": [
+        {
+          "name": "منطقه گندمان",
+          "images": []
+        },
+        {
+          "name": "منطقه رار",
+          "images": []
+        },
+        {
+          "name": "منطقه میزدج",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "قلعه‌های تاریخی",
+      "items": [
+        {
+          "name": "قلعه ستوده",
+          "images": []
+        },
+        {
+          "name": "قلعه امیر مفخم",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "منطقه الر",
+      "items": [
+        {
+          "name": "کیار",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "شهیدان مدافع حرم",
+      "items": [
+        {
+          "name": "علیرضا جیالن",
+          "images": []
+        },
+        {
+          "name": "محمدحسن قاسمی",
+          "images": []
+        },
+        {
+          "name": "اله سلیمانی",
+          "images": []
+        },
+        {
+          "name": "عزت فصل پنجم",
+          "images": []
+        }
+      ]
+    }
+  ],
+  "natural_resources": [],
+  "vegetation": [],
+  "topography": [
+    {
+      "name": "زاگرس مرتفع",
+      "description": []
+    },
+    {
+      "name": "زمین مرتفع کوهستانی",
+      "description": []
+    },
+    {
+      "name": "دره های استان",
+      "description": []
+    },
+    {
+      "name": "کوه های مرتفع",
+      "description": []
+    }
+  ],
+  "tourist_attractions": [],
+  "climate_impacts": [],
+  "additional_info": {
+    "books_source": "",
+    "other_sources": []
+  }
+}

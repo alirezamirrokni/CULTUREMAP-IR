@@ -1,0 +1,197 @@
+{
+  "province": "فارس",
+  "title": "ویژگی‌های جغرافیایی فارس",
+  "location": {
+    "province": "فارس",
+    "city": "شیراز"
+  },
+  "geographical_features": [
+    {
+      "name": "زاگرس",
+      "items": [
+        {
+          "name": "کوه زاگرس",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "گسل‌ها",
+      "items": [
+        {
+          "name": "گسل‌های فعال",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "گنبد‌های نمکی",
+      "items": [
+        {
+          "name": "گنبد‌های الرستان",
+          "images": []
+        },
+        {
+          "name": "گنبد‌های جنوب شرقی",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "رودخانه‌ها",
+      "items": [
+        {
+          "name": "رود کر",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "کوه‌ها",
+      "items": [
+        {
+          "name": "کوه سفید",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "رودها",
+      "items": [
+        {
+          "name": "کُر",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "دریاچه ها",
+      "items": [
+        {
+          "name": "دریاچه مهارلو",
+          "images": []
+        },
+        {
+          "name": "دریاچه پریشان",
+          "images": []
+        },
+        {
+          "name": "دریاچه طشک",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "کوهستان‌ها",
+      "items": [
+        {
+          "name": "کوهنجان",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "درختواره‌های قابل جابه‌جایی",
+      "items": [
+        {
+          "name": "درختان بلوط",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "مجموعه روستایی",
+      "items": [
+        {
+          "name": "روستاهای دشت",
+          "images": []
+        },
+        {
+          "name": "روستاهای کوهستانی",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "نواحی با تراکم جمعیت",
+      "items": [
+        {
+          "name": "شیراز",
+          "images": []
+        },
+        {
+          "name": "مرودشت",
+          "images": []
+        },
+        {
+          "name": "فسا",
+          "images": []
+        },
+        {
+          "name": "کازرون",
+          "images": []
+        }
+      ]
+    }
+  ],
+  "natural_resources": [],
+  "vegetation": [],
+  "topography": [
+    {
+      "name": "کوه سفید",
+      "description": []
+    },
+    {
+      "name": "رانش زمین",
+      "description": [
+        "رانش زمین در مناطق کوهستانی به دلیل جذب آب ناشی از بارندگی رخ می‌دهد.",
+        "این پدیده باعث حرکت الیه‌های سطحی و تخریب می‌شود."
+      ]
+    },
+    {
+      "name": "گسل‌ها و شیب‌های طبقاتی",
+      "description": [
+        "عامل ایجاد دریاچه‌ها"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "تخت جمشید",
+      "images": [],
+      "year_built": "",
+      "constructor": "داریوش",
+      "architect": "بی‌دانی",
+      "description": "یکی از افتخارات فرهنگی فارس"
+    },
+    {
+      "name": "نقش رستم",
+      "images": [],
+      "year_built": "",
+      "constructor": "بی‌دانی",
+      "architect": "بی‌دانی",
+      "description": "یک اثر هنری باستانی"
+    },
+    {
+      "name": "آرامگاه حافظ",
+      "images": [],
+      "year_built": "",
+      "constructor": "",
+      "architect": "",
+      "description": ""
+    },
+    {
+      "name": "تاج محل",
+      "images": [],
+      "year_built": "",
+      "constructor": "",
+      "architect": "میرزاعیسی",
+      "description": "ساخت این بنا توسط میرزاعیسی انجام شد."
+    }
+  ],
+  "climate_impacts": [],
+  "additional_info": {
+    "books_source": "",
+    "other_sources": []
+  }
+}
