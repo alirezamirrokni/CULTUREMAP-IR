@@ -1,0 +1,2362 @@
+{
+    "title": "استان اردبیل",
+    "location": {
+        "province": "اردبیل",
+        "city": null
+    },
+    "geographical_features": [
+        {
+            "category": "رودخانه‌ها",
+            "description": [
+                {
+                    "name": "رودخانه بالخلی",
+                    "images": [
+                        "https://idehalmag.com/wp-content/uploads/2019/12/رودخانه-بالخلی-نیر.jpg",
+                        "https://anyja.ir/assets/upload/blog/AR-153-1400-1-2-14-19-bw4vt.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه قره سو",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_image",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه خیاو",
+                    "images": [
+                        "https://images.kojaro.com/2018/5/8e527c69-e05d-4431-b480-c1d8101fd1f4.jpg",
+                        "https://img.tebyan.net/big/1395/05/162412668623623312259721232011506913023.jpg?w=380"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه هرودآباد",
+                    "images": [
+                        "https://media.chtn.ir/old/upload/files/2020-12/1607441848_7.jpg",
+                        "https://media.chtn.ir/old/upload/files/2020-12/1607441859_14.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه بالیقلو چای",
+                    "images": [
+                        "https://www.safarbazi.com/mag/wp-content/webp-express/webp-images/uploads/2023/02/2-10.jpg.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "کوه‌ها",
+            "description": [
+                {
+                    "name": "معرفی کوه سبلان",
+                    "images": [
+                        "https://safarmarket.com/blog/data/uploaded_files/27c95e0b41d589ac1b618902.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "دریاچه‌ها",
+            "description": [
+                {
+                    "name": "دریاچه شورابیل",
+                    "images": [
+                        "https://www.mihmansho.com/mag/Files/Root/exteraImage/71bedd73-b0f4-4ccf-97cf-45558d33d319_mihmansho.jpg",
+                        "https://last-cdn.com/2023/07/10/ELGSwgW7ZRsd18A7S9MA6lrxIuqfUFTuHCgRnr67.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه نئور",
+                    "images": [
+                        "https://last-cdn.com/2023/07/08/8VgUXuIodDGdB01TaanjF3a8uzxVaoiRpbVTFFiO.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه نئور",
+                    "images": [
+                        "https://safarmarket.com/blog/data/uploaded_files/a1ca5239557b134c20737f31.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "چشمه‌ها",
+            "description": [
+                {
+                    "name": "چشمه آبگرم سبلان سرعین",
+                    "images": [
+                        "https://www.homsa.net/blog/wp-content/uploads/2023/05/sabalan-hydrotherapy-complex.jpg",
+                        "https://www.homsa.net/blog/wp-content/uploads/2023/05/sareyn-hydrotherapy-complex.jpg",
+                        "https://cdn.rokna.net/thumbnail/pHWz4jlMNQhw/yYGYIWiRH1jE7SFsFf8OS_vf2KnxRWdM0wJj5HjN1IuvcJmljcN6H8bAsgVZzpzYCc2Paf9tWNy3TqJ7J2yYx6_iJ_9nS3dv9VaDD9pzMsmGiYQZhOmIlhgOn3kc4a2chkJgZATFYZSvtfuJ1_NwVg,,/سرعین.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم پهنلو هتل ارشاد",
+                    "images": [
+                        "https://www.homsa.net/blog/wp-content/uploads/2023/05/royal-hydrotherapy-complex.jpg",
+                        "https://www.iranhotelonline.com/blog/wp-content/uploads/2024/05/sareen-spa-springs-12.jpg",
+                        "https://www.iranhotelonline.com/blog/wp-content/uploads/2024/05/sareen-spa-springs-14.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم ایرانیان سرعین",
+                    "images": [
+                        "https://mrbilit.com/mag/wp-content/uploads/2021/05/2-104.jpg",
+                        "https://www.homsa.net/blog/wp-content/uploads/2023/05/sareyn-hydrotherapy-complex.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم گاومیش گلی",
+                    "images": [
+                        "https://www.homsa.net/blog/wp-content/uploads/2023/05/gavmish-hydrotherapy-complex.jpg",
+                        "http://media.mehrnews.com/old/Original/2012/09/852036.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم شهر آفتاب",
+                    "images": [
+                        "https://www.iranhotelonline.com/blog/wp-content/uploads/2024/05/sareen-spa-springs-19.jpg",
+                        "https://www.homsa.net/blog/wp-content/uploads/2023/05/sareyn-hydrotherapy-complex-768x480.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم قهوه سویی گوزسویی",
+                    "images": [
+                        "https://anyja.ir/zftpusers/artuser2/1401/05/04/Goz-Sooe-1.jpg",
+                        "https://www.iranhotelonline.com/blog/wp-content/uploads/2024/05/sareen-spa-springs-24.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم دره لرسویی",
+                    "images": [
+                        "https://www.homsa.net/blog/wp-content/uploads/2023/05/darreh-suyi-hydrotherapy-complex.jpg",
+                        "https://www.homsa.net/blog/wp-content/uploads/2023/05/besh-bajilar-hydrotherapy-complex.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم بش باجیلار",
+                    "images": [
+                        "https://www.homsa.net/blog/wp-content/uploads/2023/05/besh-bajilar-hydrotherapy-complex.jpg",
+                        "https://www.jajiga.com/mag/wp-content/uploads/2022/08/beshbajilar-sareyn.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم ژنرال",
+                    "images": [
+                        "https://www.homsa.net/blog/wp-content/uploads/2023/05/general-hot-spring.jpg",
+                        "https://www.alaedin.travel/Files/attractions/description/6e0432.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "آبشارها",
+            "description": [
+                {
+                    "name": "آبشار گورگور خیاوچای کجاست",
+                    "images": [
+                        "https://safarmarket.com/blog/data/uploaded_files/a054e0645ab881a9be8841f3.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار هشتجین خلخال",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/04/Sooha-Lake.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "دشت‌ها",
+            "description": [
+                {
+                    "name": "آشنایی دشت مغان",
+                    "images": [
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/09/Mehrnews-%D8%AF%D8%B4%D8%AA-%D9%85%D8%BA%D8%A7%D9%86-2.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آب",
+            "description": [
+                "رود ارس: مهم‌ترین رودخانه",
+                "رود قره سو: طولانی‌ترین رودخانه داخلی",
+                "رودهای دیگر: بالیخلی چای، دره رود"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ‌های معدنی",
+                "آب‌های معدنی"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "معادن",
+            "description": [
+                "هماتیت",
+                "شن ماسه رودخانه",
+                "نما",
+                "شیل",
+                "قیمتی"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": [
+                "مناطق خشک و نیمه خشک",
+                "بارندگی کم",
+                "تغییرات دمایی زیاد"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ارتفاعات",
+            "description": [
+                "کوه‌های شمالی: صلوات داغ، خروسلو، سبالن",
+                "کوه‌های مرکزی: تالش، بزغوش",
+                "کوه‌های شرقی و جنوبی: آق داغ، تالش"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "توده های آتشفشانی سبالن",
+                "توده های دگرگونی",
+                "مرز طبیعی استان با استان گیالن"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "بخش‌های رسوبی: دشت اردبیل، جلگهٔ مغان",
+                "توده های آتشفشانی: سبالن",
+                "توده های دگرگونی"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "دریاچه شورابیل",
+            "images": [
+                "https://safarmarket.com/blog/data/uploaded_files/0131809746a78d61ecc09170.jpg",
+                "https://www.eghamat24.com/blog/wp-content/uploads/2024/09/Shourabil-Lake-2.webp",
+                "https://last-cdn.com/2023/07/10/ELGSwgW7ZRsd18A7S9MA6lrxIuqfUFTuHCgRnr67.jpg",
+                "https://www.pateh.com/blog/wp-content/uploads/2024/07/Sightseeing-places-in-Ardabil-14.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "اگر از مردم اردبیل بخواهید که چند مکان جذاب در این استان را به شما پیشنهاد دهند، مطمئنا یکی از گزینه‌هایی که آنها مطرح خواهند کرد دریاچه شورابیل است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چشمه های آبگرم سرعین",
+            "images": [
+                "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/04/Sareyn-abgarm.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سرعین یکی از مهمترین جاذبه های اردبیل است که در بین مردم بسیار شهرت دارد و اکثر مردم برای استفاده از چشمه های آبگرم به این منطقه می آیند",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار هشتجین خلخال",
+            "images": [
+                "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/04/Sooha-Lake.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار هشتجین خلخال  یکی از مکان های دیدنی اردبیل است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "رودخانه بالیقلو چای",
+            "images": [
+                "https://www.eghamat24.com/blog/wp-content/uploads/2024/09/Baliqlu-Chay.webp",
+                "https://www.pateh.com/blog/wp-content/uploads/2024/07/Sightseeing-places-in-Ardabil-11.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "رودخانه بالیقلو چای که یکی از جاذبه‌های طبیعی و جاهای دیدنی شهر اردبیل بوده، به دلیل عبور از میان این شهر نقش مهمی در زندگی روزمره شهروندان اردبیلی دارد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه نئور",
+            "images": [
+                "https://www.eghamat24.com/blog/wp-content/uploads/2024/09/Neor-Lake-1.webp",
+                "https://last-cdn.com/2023/07/08/8VgUXuIodDGdB01TaanjF3a8uzxVaoiRpbVTFFiO.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دریاچه نئور که در مرز استان‌های گیلان و اردبیل واقع شده، یکی از جاذبه‌های طبیعی کمتر شناخته‌شده شمال غرب کشور و از جاهای گردشگری اردبیل است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "جنگل فندقلو",
+            "images": [
+                "https://www.eghamat24.com/blog/wp-content/uploads/2024/09/Fandoghloo-Forest-1.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "جنگل فندقلو که به گویش محلی «مشه» نامیده می‌شود، یکی از زیباترین مقاصد طبیعت‌گردی و دیدنی های اردبیل بوده که با وسعتی حدود ۱۶۰۰۰ هکتار و تنوع زیستی و زیبایی‌های طبیعی‌اش شهرت دارد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پیست اسکی چمن جنگل فندقلوی نمین",
+            "images": [
+                "https://www.eghamat24.com/blog/wp-content/uploads/2024/09/Ardabil-grass-ski-resort.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "استان اردبیل با طبیعت بکرش و جاذبه‌هایش از جمله پیست اسکی روی چمن فندقلو در نمین گردشگران زیادی را به خود جلب می‌کند",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دره جنگلی ایردموسی",
+            "images": [
+                "https://www.eghamat24.com/blog/wp-content/uploads/2024/09/irdmousa.webp",
+                "https://www.pateh.com/blog/wp-content/uploads/2024/07/Sightseeing-places-in-Ardabil-16.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دره جنگل ایردموسی واقع در ۱۴ کیلومتری غرب اردبیل و در نزدیکی روستای ایردموسی، یکی از جاهای دیدنی اطراف اردبیل محسوب می‌شود",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار نوده",
+            "images": [
+                "https://www.eghamat24.com/blog/wp-content/uploads/2024/09/nodeh-waterfall-1.webp",
+                "https://last-cdn.com/2023/07/09/SkFNdrYKwMhZUs0TIUfkjJjn9UKpNgYfK7JkbWAb.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "کوه‌های نوده با طبیعتی زیبا و تنوع گیاهی شامل گلپر، کاکوتی، آویشن و نعنا، به یکی از جاذبه‌های گردشگری روستای نوده و جاهای دیدنی اردبیل در عید تبدیل شده‌اند",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دشت مغان",
+            "images": [
+                "https://www.eghamat24.com/blog/wp-content/uploads/2024/09/Mughan-Desert.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دشت مغان در شمال استان اردبیل و هم‌مرز با جمهوری آذربایجان یکی از زیباترین جاذبه‌های طبیعی ایران به شمار می‌رود",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه سوها",
+            "images": [
+                "https://www.eghamat24.com/blog/wp-content/uploads/2024/09/sooha-lake-1.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دریاچه سوها از بکرترین جاذبه‌های استان اردبیل، در ۳۵ کیلومتری شرق اردبیل و نزدیکی روستای سوها قرار دارد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پل هفت چشمه داش کسن",
+            "images": [
+                "https://last-cdn.com/2022/08/01/RNdZAgBdsSpGZdh80u7czMybRkD7nCIEEliBxprn.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "در گشت‌وگذار شهری و بازدید از جاهای دیدنی اردبیل، اگر به حوالی میدان پانزده خرداد رسیدید، حتماً سری هم به پل هفت‌چشمه یا داش‌کسن بزنید که یکی دیگر از مکان های دیدنی اردبیل است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قله سبلان",
+            "images": [
+                "https://last-cdn.com/2023/07/09/s3WuP72F0cBufxBOtOQXaZsT5tpgi5a9VapzmNoG.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "شاخص‌ترین و مهم‌ترین جای دیدنی اردبیل و در واقع اصلی‌ترین نماد این استان، قله سبلان است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چشمه های آبگرم سرعین",
+            "images": [
+                "https://www.homsa.net/blog/wp-content/uploads/2023/05/sareyn-hydrotherapy-complex.jpg",
+                "https://images.hamshahrionline.ir/images/2012/4/sareyn.jpg1.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از مهم‌ترین و معروف‌ترین جاذبه‌های طبیعی اردبیل، چشمه های آبگرم سرعین هستند که خود بخشی از جاهای دیدنی سرعین محسوب می‌شوند",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کوه سبلان",
+            "images": [
+                "https://www.irancultura.it/wp-content/uploads/2018/01/il-monte-sabalan-6.jpg",
+                "https://www.snapptrip.com/blog/wp-content/uploads/2018/07/دامنه-کوه-سبلان.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "از دیگر مکان‌های دیدنی اردبیل، کوه سبلان است که در گویش محلی به آن ساوالان می‌گویند",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار کرکری",
+            "images": [
+                "http://www.meshginshahrim.ir/wp-content/uploads/2017/08/waterfall_karkari.jpg",
+                "https://last-cdn.com/uploads/lastgram/2019/02/09/uHOwLKaqFAsdFXMV3XfMnhSYxzUemEtTqWWqerx9.jpeg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "این آبشار بلند و پرآب در شهرستان مشگین‌ شهر واقع شده و از زیباترین جاهای دیدنی اردبیل است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پل هفت چشمه",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2020/01/Haft_Cheshmeh_Bridge.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "پل «داشکسن» یا «یدی گوز» در زبان آذری که به فارسی می‌شود هفت چشمه، پلی آجری روی رود بالیق لو است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار چشمه آب گرم سردابه",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2020/01/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D9%88-%D8%B3%D8%B1%D8%AF%D8%A7%D8%A8%D9%87-Google-map.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار سردابه، واقع در ۲۸ کیلومتری غرب اردبیل، یک مقصد گردشگری منحصربه‌فرد با ویژگی‌های طبیعی و درمانی و از مناطق دیدنی اردبیل است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دره جنگلی ایردموسی",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2020/01/%D8%AF%D8%B1%D9%87-%D8%AC%D9%86%DA%AF%D9%84%DB%8C-%D8%A7%DB%8C%D8%B1%D8%AF%D9%85%D9%88%D8%B3%DB%8C-Fa.nody_.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دره جنگلی ایردموسی، واقع در فاصله ۱۴ کیلومتری غرب اردبیل و ۵ کیلومتری سرعین، به‌عنوان یکی از جاذبه‌های طبیعی شگفت‌انگیز این منطقه و از جاهای دیدنی اردبیل شناخته می‌شود",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "جنگل فندقلو خانه گل های سوسن",
+            "images": [
+                "https://www.safarbazi.com/mag/wp-content/webp-express/webp-images/uploads/2023/07/01.jpg.webp",
+                "https://media.salameno.com/d/2023/10/01/0/15573292.jpg?ts=1696173283130"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "جنگل فندقلو از ترکیبی از آب‌وهوای مرطوب گیلان و آب‌وهوای کوهستانی اردبیل است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک جنگلی عباس میرزا",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2178/abbas-mirza-park-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2178/abbasmirza-park-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2178/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2178/abbas-mirza-park-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2178/abbas-mirza-park-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2178/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2178/abbasmirza-park7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2178/abbas-mirza-park-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/2178/abbas-mirza-park-9.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "پارک جنگلی عباس میرزا با وسعت 1800 هکتار بعنوان بزرگترین تفرجگاه شمالغرب کشور شناخته میشود. این پارک جنگلی از جاذبه های طبیعی و تفریحی استان آذربایجان شرقی است که در 5 کیلومتری جنوب تبریز قرار گرفته و آلاچیق و زمین بازی نیز دارد. زیبایی کم نظیر تفرجگاه بزرگ عباس میرزا در هر فصلی چشمگیر است. در بهار دشت شقایق این تفرجگاه در کنار فضای سبز کم نظیر، منظره ای بدیع را خلق میکند. انواع نهال های سازگار با آب و هوای تبریز همچون اقاقیا، نارون، بید مجنون در این محدوده کاشته شده است؛ همچنین در بهار درختچه های زینتی نظیر یاس زرد، یاس طاووسی، آقطی و … خودنمایی میکنند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "غارهای تاریخی بینه لر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/192/benalar-caves-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/192/benalar-caves-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/192/benalar-caves-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/192/benalar-caves-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/192/benalar-caves-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/192/benalar-caves-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/192/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/192/benalar-caves-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/192/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/192/benalar-caves-4.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "غارهای تاریخی جالب و حیرت انگیزی در استان اردبیل در حاشیه رود قره سو در روستای متروک بینه لر وجود دارد که محل اسکان انسانها بوده است. این غارها در دوسوی رود قره سو دیده میشوند که غارهای یک سوی رود مسکونی و سوی دیگر برای تدفین اجسادشان بوده است. برای بازدید از این غارها به طناب و سایر تجهیزات کوهنوردی نیاز دارید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کاروانسرای قانلی بولاغ",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/214/قانلی-بولاغ1.jpg",
+                "https://fa.tripyar.com/uploads/picture/214/قانلی-بولاغ.jpg",
+                "https://fa.tripyar.com/uploads/picture/214/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/214/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/214/قانلی-بولاغ2.png"
+            ],
+            "year_built": "دوره صفوی",
+            "architect": null,
+            "constructor": null,
+            "description": "کاروانسراهای شاه عباسی در داخل روستای قانلی بولاغ در نوار صفر درجه مرزی ایران و آذربایجان و 73 کیلومتری شرق مشگین شهر واقع گردیده و مربوط به دوران صفویه می باشد که در راه جاده ابریشم قرار داشته و از اهمیت بالایی برخوردار بوده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مجتمع آبدرمانی آخارباخار دودو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2655/1estakhr-maran.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/dosh.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/masajh.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/rakhtkan.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/soit-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/estakre-zanan-2abshar.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/soit.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/index.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/soit-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/soi-4t.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/estakre-zanan.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/fizyotrapi-sona.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/sona-khoshk4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/tonel-baran.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/estakhr2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2655/namak.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبهای گرم رشته کوه سبلان و سرچشمه های آن در استان اردبیل بسیار مورد توجه گردشگران است. این منطقه که به یکی از قطبهای گردشگری ایران تبدیل شده است دارای چندین مجتمع آب درمانی است. مجتمع آبدرمانی آخارباخار در شهرستان مشگین شهر نیز پذیرای گردشگران است. این مجتمع دارای پیشرفته ترین استخر و امکانات مختلف درمانی و تفریحی می باشد. با اقامت در سوئیتهای این مجتمع می توانید تعطیلات و اوقات خوبی را در آن سپری کنید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه ارشق ارشک",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/268/قلعه-ارشک-مشکین.jpg",
+                "https://fa.tripyar.com/uploads/picture/268/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/268/قلعه-ارشک-مشکین1.jpg",
+                "https://fa.tripyar.com/uploads/picture/268/banner.jpg"
+            ],
+            "year_built": "دوره اشکانی",
+            "architect": null,
+            "constructor": null,
+            "description": "قلعه تاریخی ارشق در 62 کیلومتری شمال باختری مشگین شهر دریک منطقه بی نظیر واقع شده است. از نظر تاریخی، ارشق در منطقه ای قرار گرفته که در عهد اشکانیان و ساسانیان مهد تمدن باستان بوده و آثار به دست آمده از دل خاک نشان گر این واقعیت است. آثار عتیقه محدوده ارشق و آن چه از حفاری ارشق به دست آمده زینت بخش موزه ها بوده و ما را به یک دوره بی نظیر تاریخی رهنمون می سازد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کهنه قلعه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/191/کهنه-قلعه-مشکین2.jpg",
+                "https://fa.tripyar.com/uploads/picture/191/کهنه-قلعه-مشکین1.jpg",
+                "https://fa.tripyar.com/uploads/picture/191/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/191/کهنه-قلعه-مشکین.jpg",
+                "https://fa.tripyar.com/uploads/picture/191/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/191/کهنه-قلعه-مشکین4.jpg",
+                "https://fa.tripyar.com/uploads/picture/191/کهنه-قلعه-مشکین3.jpg"
+            ],
+            "year_built": "دوره ساسانی",
+            "architect": null,
+            "constructor": "نرسه هرمز، حکمران منطقه مشکین شهر دوره شاپور ساسانی",
+            "description": "کهنه قلعه؛ نمادی از شگفتی های معماری تاریخکهنه قلعه مشکین شهر از آثار دوره ساسانی است و از استحکام خاصی برخوردار بوده و در جنگ‌ها و تهاجم دشمنان به‌عنوان پناهگاه از آن نگهداری و استفاده می‌شده است. سنگ نبشته‌ای به خط پهلوی ساسانی در جبهه شمالغربی این بنا در فاصله 150 متری در آبراهه خیاو قرار دارد. این قلعه با مساحتی در حدود 15 هزار متر مربع در قسمت ورودی مشکین شهر از طرف جاده اردبیل و بر روی تپه ای طبیعی با 50 متر ارتفاع واقع شده و از شش برجک با دیوار های ضخیم خشتی و حجره های کوچک آخور مانند تشکیل شده است. قلعه کهنه تحت شماره 618 در فهرست آثار ملی به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "محوطه باستانی شهر یئری",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/184/shahr-eri.jpg",
+                "https://fa.tripyar.com/uploads/picture/184/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/184/shahr-eri-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/184/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/184/shahr-eri-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/184/shahr-eri-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/184/shahr-eri-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/184/shahr-eri-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/184/shahr-eri-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/184/shahr-eri-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/184/shahr-eri-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/184/shahr-eri-road.jpg"
+            ],
+            "year_built": "9000 سال تخمین است.",
+            "architect": null,
+            "constructor": null,
+            "description": "محوطه باستانی معروف به شهر یئری، در 65 کیلومتری اردبیل و 31 کیلومتری شرق مشگین شهر در کنار رود قره سو قرار دارد. وسعت این منطقه تاریخی 400 هکتار است و از سه قسمت دژ نظامی، معبد و قوشا‌تپه تشکیل می‌شود. قدمت قلعه و معبد به1450 سال پیش از میلاد و قوشا تپه به 7 هزار سال پیش از میلاد می رسد. نیایشگاه اصلی منطقه شهر یئری که از زیر خاک بیرون آمد، شامل بیش از 300 سنگ افراشت با ارتفاع‌های مختلف از 35 تا 250 سانتیمتر با شکل‌های انسانی هستند که حاوی صورت آدمی، دست و شمشیر هستند. چارلز برنی دوره آنرا همزمان با هخامنشیان ولی خارج از محدوده دولت آنها می داند. در غرب محل تجمع سنگها غاری قرار دارد که ساکنان محلی آنرا قاراکوهبل نام نهاده اند. روبروی آن چند تخته سنگ بر روی هم گذاشته شده اند. شهر یئری که وسیع‌ترین منطقه تاریخی استان اردبیل و یکی از با اهمیت‌ترین مناطق پیش از تاریخ شمال غرب ایران است، به شماره 6162 به ثبت آثار ملی رسید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "غار تاریخی لاهرود",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "قدمت غار تاریخی لاهرود به ماقبل تاریخ برمیگردد و روی این غارها را صخره‌ های سنگی پوشانیده و در پایین این غار چشمه‌ های متعددی وجود دارد که این چشمه‌ ها نقش حیاتی برای بومیان این منطقه بوده است. این چشمه‌ ها احتمالاً به دریاچه زیر غار منتهی می‌ شود. بر روی صخره‌ های سنگی این غار خانه‌ های گلی احداث شده است. سوراخ‌ هایی از داخل غار به حیاط این خانه‌ ها راه داشته که بر روی آن راه، سنگ بزرگی را گذاشته‌ اند و هوای داخل غار از این سوراخ‌ ها تهویه می‌ شد. در درون غار اتاقک‌ ها، تنور و آخورهایی نیز وجود داشت که در برهه‌ ای از زمان، دزدان غیربومی در داخل آن زندگی می‌ کردند. این غار از نوع معماری صخره‌ ای بوده و به صورت سه طبقه درست شده که یک طبقه آن به انباری زیر زمینی ختم و دو طبقه دیگر آن محل سکونت انسان‌ها و نگهداری احشام بوده است. زندگی در غارها، بومیان قدیم لاهرود و مردم سایر روستاهای مشگین‌ شهر را تاحدی از حوادث و ناگواریهایی که در طول تاریخ، این منطقه را مکرراً تهدید می‌کرد مصون داشته بود. این غار توسط سازمان میراث فرهنگی استان اردبیل به ثبت ملی رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "شیروان دره سی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/260/شیروان-دره-سی-مشکین.jpg",
+                "https://fa.tripyar.com/uploads/picture/260/شیروان-دره-سی-مشکین8.jpg",
+                "https://fa.tripyar.com/uploads/picture/260/شیروان-دره-سی-مشکین9.jpg",
+                "https://fa.tripyar.com/uploads/picture/260/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/260/شیروان-دره-سی-مشکین-(آت-گلی).jpg",
+                "https://fa.tripyar.com/uploads/picture/260/شیروان-دره-سی-مشکین3.jpg",
+                "https://fa.tripyar.com/uploads/picture/260/shd4.jpg",
+                "https://fa.tripyar.com/uploads/picture/260/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/260/شیروان-دره-سی-مشکین2.jpg",
+                "https://fa.tripyar.com/uploads/picture/260/شیروان-دره-سی-مشکین5.jpg",
+                "https://fa.tripyar.com/uploads/picture/260/جیران-گؤلی-در-شیروان-دره-سی.jpg",
+                "https://fa.tripyar.com/uploads/picture/260/شیروان-دره-سی-مشکین1.jpg",
+                "https://fa.tripyar.com/uploads/picture/260/شیروان-دره-سی-مشکین4.jpg",
+                "https://fa.tripyar.com/uploads/picture/260/شیروان-دره-سی-مشکین6.jpg",
+                "https://fa.tripyar.com/uploads/picture/260/شیروان-دره-سی-مشکین7.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "شیروان دره سی یکی از مناطق دیدنی و زیبای منطقه سبلان در استان اردبیل است که به علت عدم وجود راه دسترسی مناسب بکر و دست نخورده مانده و به عنوان یازدهمین زیستگاه حیات وحش ایران شناخته شده است. این دره از آبگرم شابیل در دامنه سبلان آغاز شده و به دشت لاهرود ختم می شود. این پارک طبیعی به عنوان دومین ژئو پارک خاورمیانه مراحل ثبت خود را در سازمان یونسکو سپری می کند. این منطقه دارای ویژگی های منحصر به فرد جغرافیایی حیات گیاهی و جانوری می باشد. این زیستگاه محل زندگی دائمی و حوش متعددی چون خوک، روباه، گرگ، قوچ، میش ارمنی، خرس قهوه‌ ای، کبک، قمری و تعدادی پرندگان مهاجر می‌ باشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه قشلاق زاخور",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/203/طبیعت-قلعه-قشلاق.jpg",
+                "https://fa.tripyar.com/uploads/picture/203/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/203/banner.jpg"
+            ],
+            "year_built": "اشکانی",
+            "architect": null,
+            "constructor": null,
+            "description": null,
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چشمه آبگرم قینرجه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1666/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1666/banner.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "چشمه آبگرم قینرجه در جنوب مشگین شهر و در ارتفاع 1240 متری دامنه شمالی سبلان در مجاورت چهار چشمه معدنی دیگر قرار دارد. این چشمه با دمایی بیش از 80 درجه سانتی‌گراد، بعنوان داغ‌ ترین چشمه کلرایدی جهان شناخته شده است که دارای سه دهنه میباشد. باتوجه به خواص درمانی عناصر موجود در آن بخصوص‌گوگرد بالا، برای درمان لنفاتیسم، راشیتیسم و روماتیسم‌های مزمن سودمند است. دمای بالای این چشمه تسکین‌دهنده درد و ضد تورم است. در این مجتمع آبدرمانی امکاناتی برای گردشگران فراهم است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه قهقهه مشکین شهر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/312/قلعه-قهقهه-مشکین-شهر7.jpg",
+                "https://fa.tripyar.com/uploads/picture/312/قلعه-قهقهه-مشکین-شهر5.jpg",
+                "https://fa.tripyar.com/uploads/picture/312/قلعه-قهقهه-مشکین-شهر1.jpg",
+                "https://fa.tripyar.com/uploads/picture/312/قلعه-قهقهه-مشکین-شهر9.jpg",
+                "https://fa.tripyar.com/uploads/picture/312/قلعه-قهقهه-مشکین-شهر2.jpg",
+                "https://fa.tripyar.com/uploads/picture/312/قلعه-قهقهه-مشکین-شهر10.jpg",
+                "https://fa.tripyar.com/uploads/picture/312/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/312/قلعه-قهقهه-مشکین-شهر.jpg",
+                "https://fa.tripyar.com/uploads/picture/312/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/312/قلعه-قهقهه-مشکین-شهر3.jpg",
+                "https://fa.tripyar.com/uploads/picture/312/قلعه-قهقهه-مشکین-شهر4.jpg",
+                "https://fa.tripyar.com/uploads/picture/312/قلعه-قهقهه-مشکین-شهر8.jpg",
+                "https://fa.tripyar.com/uploads/picture/312/قلعه-قهقهه-مشکین-شهر6.jpg"
+            ],
+            "year_built": "دوران اسلام",
+            "architect": null,
+            "constructor": null,
+            "description": null,
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبگرم شابیل",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/256/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/256/آبگرم-شابیل-مشکین3.jpg",
+                "https://fa.tripyar.com/uploads/picture/256/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/256/آبگرم-شابیل-مشکین.jpg",
+                "https://fa.tripyar.com/uploads/picture/256/آبگرم-شابیل-مشکین1.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "مجتمع آبدرمانی شابیل در 50 کیلومتری مشگین‌ شهر و 25 کیلومتری شهر لاهرود قرار دارد. چشمه شابیل که در دامنه قله ساوالان و در مسیر صعود به آن قرار دارد دارای دمای 49 درجه سانتی‌گراد و دبی 5 لیتر در ثانیه می‌ باشد. آب این چشمه در ردیف آبهای معدنی اسید بی‌کربنات یا بیکربناته سدیک قرار دارد. به خاطر وجود مقدار زیادی اسید بی‌کربنیک، از آب آن برای درمان بیماریهای حرکتی، عصبی استفاده می‌ شود.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کوه سبلان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/186/sab1.jpg",
+                "https://fa.tripyar.com/uploads/picture/186/ساوالان-داغی-اردبیل(سبلان)2.jpg",
+                "https://fa.tripyar.com/uploads/picture/186/ساوالان-داغی-اردبیل(سبلان)1.jpg",
+                "https://fa.tripyar.com/uploads/picture/186/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/186/sab.jpg",
+                "https://fa.tripyar.com/uploads/picture/186/ساوالان-داغی-اردبیل(سبلان)3.jpg",
+                "https://fa.tripyar.com/uploads/picture/186/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/186/ساوالان-داغی-اردبیل(سبلان).jpg",
+                "https://fa.tripyar.com/uploads/picture/186/qartal-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/186/qartal-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/186/qartal-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/186/سبلان.jpg",
+                "https://fa.tripyar.com/uploads/picture/186/qartal.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آن قدر قداست دارد که به نامش سوگند یاد میکنند و چنان رابطه ژرفی با زرتشت دارد که می گویند مکان نیایش و عبادتش بوده و مزارش نیز همان جاست. شکوه سبلان، با دریاچه‌ ای که در قله آن است تمام عیار می‌ شود. دریاچه‌ ای که در بیشتر ماههای سال یخ بسته است و در هنگام تابستان که یخ‌ ها یش آب می ‌شود، گرداب عظیمی در آن پدید می ‌آید که هر آنچه را در دریاچه وجود دارد به ژرفای تاریک و ناپیدای خود می ‌کشاند. برکه ‌های فراوانی که در جای جای دامنه ‌های سبلان پراکنده‌ اند نشانی از قلب زندگی است که در آن اطراف می ‌تپد و بی ‌دلیل نیست که عشایر کوچنده شاهسون که در این نواحی روزگار می‌ گذرانند از شادمان‌ترین مردم ایران قلمداد می ‌شوند. ریخت ‌شناسی و شرایط ویژه اقلمیی سبلان که از دو سو به وسیله توده‌ های هوای سرد و مرطوب خزری و مدیترانه ‌ای تحت تاثیر قرار میگیرد، موقعیت منحصر به فردی را برای آن رقم زده است. سبلان از لحاظ منبع آبهای شیرین سطحی و زیرزمینی، پتانسیل بالای فعالیتهای کشاورزی، پوشش گیاهی غنی، انواع آبهای معدنی گرم و سرد با خواص متفاوت درمانی حقیقتاً‌ یکی از عجایب ایران است. سبلان که در ترکی آذربایجانی ساوالان و به زبان تالشی سفلون تلفظ می شود، در شمال غرب ایران و در استان اردبیل واقع است. سبلان سومین قله بلند ایران و یک کوه آتشفشانی غیرفعال است. سبلان به خاطر آبگرم‌ های طبیعی دامنه کوه، طبیعت تابستانی زیبا و پیست اسکی آلوارس مورد توجه گردشگران است. در جبهه غربی قله سلطان و در کنار جان پناه، سنگی به شکل عقاب به نام قارتال قرار دارد که در طول زمان به نماد سبلان تبدیل شده‌ است. این قطعه سنگ به شکل عقابی است که نشسته و سر را به جانب شرق چرخانده است. قله سبلان به شماره 19496/12 در فهرست آثار طبیعی ملی کشور به ثبت رسیده و سند مالیکت آن از ارتفاع بالای سه هزار و 600 متری قله سبلان به وسعت شش هزار و 200 هکتار به نام سازمان حفاظت محیط زیست صادر شده‌ است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک جنگلی پل مشگین شهر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/265/dsc_1112.jpg",
+                "https://fa.tripyar.com/uploads/picture/265/dsc_05701.jpg",
+                "https://fa.tripyar.com/uploads/picture/265/پارک-جنگلی-و-پل-معلق-مشگین-شهر.jpg",
+                "https://fa.tripyar.com/uploads/picture/265/پل-معلق-مشگین-شهر2.jpg",
+                "https://fa.tripyar.com/uploads/picture/265/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/265/پل-معلق-مشکین.jpg",
+                "https://fa.tripyar.com/uploads/picture/265/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/265/پارک-جنگلی-و-پل-معلق-مشگین-شهر3.jpg",
+                "https://fa.tripyar.com/uploads/picture/265/پل-معلق-مشگین-شهر3.jpg",
+                "https://fa.tripyar.com/uploads/picture/265/پل-معلق-مشگین-شهر.jpg",
+                "https://fa.tripyar.com/uploads/picture/265/1_227_1_1_1.jpg",
+                "https://fa.tripyar.com/uploads/picture/265/1460308607564195.jpeg",
+                "https://fa.tripyar.com/uploads/picture/265/dsc_1122.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "پل معلق مشگین‌شهر به عنوان مرتفع ترین پل معلق خاورمیانه بر روی پارک جنگلی مشگین‌شهر احداث شده است. پل معلق مشگین شهر در منطقه ای بکر و زیبای جنگلی قرار گرفته که علاوه بر وجود درختانی بی نظیر رودخانه ای منحصر بفرد نیز بر زیبایی آن افزوده است. پل معلق مشگین شهر رتبه سوم گردشگری استان اردبیل را بعد از و، بخود اختصاص داده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دهکده صخره اباذر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3420/abazar.jpg",
+                "https://fa.tripyar.com/uploads/picture/3420/abazar-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3420/abazar-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3420/abazar-3.jpg"
+            ],
+            "year_built": "اسلام دوره اسلامی",
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از جذاب ‌ترین دیدنی های نیر دهکده صخره ‌ای اباذر است که در نزدیکی نیر و روستای اباذر قرار دارد. این منطقه مسکونی عجیب در دل صخره‌ ها ساخته شده و به دلیل قرار گرفتن در پشت قبرستان و تپه ‌ای کم ارتفاع، حتی تا چند قدمی نیز قابل مشاهده نیست. قدمت این دهکده به قبل از اسلام می رسد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کاروانسرای شاه عباسی صائین",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3419/shah-abbasi-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3419/shah-abbasi-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3419/shah-abbasi-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3419/shah-abbasi-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3419/shah-abbasi-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/3419/shah-abbasi-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3419/ardabil.jpg",
+                "https://fa.tripyar.com/uploads/picture/3419/shah-abbasi-7.jpg"
+            ],
+            "year_built": "دوره صفوی",
+            "architect": null,
+            "constructor": null,
+            "description": "کاروانسرای شاه عباسی نیر که در استان اردبیل واقع شده متعلق به دوره صفویه است. طراحی این کاروانسرا کاملا سازگار با اقلیم و شرایط محل صورت گرفته و در رونق اقتصادی جاده ابریشم همچنین ایجاد ارتباط امن بین چین و اروپا نقش بسیار پررنگی داشته است. این بنا که در تاریخ 4/1/1362 با شماره 1653 در فهرست آثار ملی به ثبت رسیده از آثار تاریخی استان اردبیل می باشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پل قرمز",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/222/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/222/پل-قرمز-اردبیل.jpg",
+                "https://fa.tripyar.com/uploads/picture/222/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/222/red-bridge.jpg",
+                "https://fa.tripyar.com/uploads/picture/222/پل-قرمز-اردبیل1.jpg",
+                "https://fa.tripyar.com/uploads/picture/222/پل-قرمز-اردبیل3.jpg"
+            ],
+            "year_built": "دوره صفوی",
+            "architect": null,
+            "constructor": null,
+            "description": "پل قرمز شهرستان نیر در استان اردبیل از بهترین پلهای ساخته شده در دوره صفویه است که برروی رودخانه آغلاغان بنا شده است. این پل با آجرهای قرمزرنگ زیبایی خاصی داشته و گذر افراد پیاده می باشد. مشابه این پل، پلدختر شهرستان میانه در استان آذربایجان شرقی میباشد. شهرستان نیر در 35 کیلومتری غرب مرکز استان اردبیل در مسیر جاده ترانزیتی اردبیل به تبریز قرار دارد. این شهر به لحاظ سنگ نبشته میخی اورارتوئی و نزدیکی به سراب و سبلان و معماری خاص صخره ای از استقرارگاههای قدیمی استان محسوب می شود. ضمناً قرار گرفتن خطوط فرعی جاده تاریخی ابریشم از آن نشانگر رونق آن در دوره های گذشته است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بولاغلار",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3423/boolaghlar-4.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از مناطق گردشگری شهرستان نیر تفرجگاه “بولاغلار” است. منطقه نمونه گردشگری ”بولاغلار” با چشمه های بهشتی و طبیعت چشم نواز از مناطق مهم و طبیعی گردشگری استان اردبیل محسوب می شود. این منطقه بعنوان مکانی جهت استراحت و تفریح و استفاده از مناظر طبیعی مورد استفاده گردشگران و مسافران و شهروندان به خصوص در فصل های تابستان و بهار است. در این مکان هر سال جشنواره ‌های مختلفی مانند جشنواره آش سنتی برگزار می ‌شود که اگر خوش شانس باشید می ‌توانید در آن شرکت کرده و با مردم و فرهنگ شهرستان نیر بیشتر آشنا شوید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قبرستان قره شیران نیر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3422/ghareshiran.jpg"
+            ],
+            "year_built": "دوره اسلامی",
+            "architect": null,
+            "constructor": null,
+            "description": "گورستان قره شیران مربوط به دوره پس از اسلام است و در استان اردبیل، شهرستان نیر، کورائیم، دهستان یورتچی غربی، روستای قره شیران واقع شده است. این مکان در تاریخ 18 اسفند 1387 با شمارهٔ ثبت 24939 به ‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "غار گلستان نیر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3421/golestan-cave-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3421/golestan-cave-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3421/golestan-cave-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3421/golestan-cave-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3421/golestan-cave-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/3421/golestan-cave-6.jpg"
+            ],
+            "year_built": "اسلام",
+            "architect": null,
+            "constructor": null,
+            "description": "غارهای نادر و تاریخی گلستان که در دل شهرستان نیر واقع شده اند از جاذبه‌ های مهم گردشگری استان اردبیل به شمار می‌ روند. این منطقه سرسبز با منظره‌ های چشم‌ نواز و آب و هوای خنک و معتدل به ویژه در فصل تابستان مورد توجه گردشگران است. غار تاریخی گلستان در تاریخ 15/10/87 با شماره ثبت ملی 243.8 به عنوان اثرملی ثبت گردیده است. این غار کم‌ نظیر دستکند که در دامنه جنوبی کوه موسوم به قروچی ‌داغی واقع شده روستای گلستان را در منطقه ممتاز کرده و علاقمندان به آثار تاریخی و باستانی را از طرفداران بازدید از این روستا قرار داده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه محوطه باستانی بوینی یوغون",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/194/boyniyoghoon-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/194/boynioghoon-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/194/boyniyoghoon-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/194/boyniyoghoon-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/194/boyniyoghoon5.jpg"
+            ],
+            "year_built": "دوره مفرغ",
+            "architect": null,
+            "constructor": null,
+            "description": "بعد از طی 52 کیلومتر از سمت جنوب مرکز استان و گذر از شهرستان نیر روستایی بر روی نقشه هویدا می‌شود که به کورعباسلو شهره است. روستایی که در دامن یکی از اسرارآمیزترین قلعه‌های باستانی آرمیده است. معماری سنگی آن در دنیا بی نظیر بوده و موجب شده قلعه بوینی یوغون به یک اثر شاخص باستان‌شناسی تبدیل شود. با وجود آثار شاخص از چهار هزار سال قبل در این منطقه عمده رونق این قلعه در دوران اشکانی و همزمان با جنگ ایران و روم بوده است. در این مقطع تاریخی این محوطه با افزایش جمعیت مواجه بوده و قلعه بیش از آنکه کاربرد نظامی پیدا کند محل سکونت بوده است. وسعت بالغ بر 300 هکتار و چند لایه‌ای بودن قلعه نشان‌دهنده استمرار سکونت انسان از دوره اشکانی تا دوره صفوی است. کاوشهای اولیه در قلعه بوینی یوغون موجب شد این منطقه به عنوان سایت موزه روباز در کشور معرفی شود. موزه‌ای که حکایت زندگی مردمان هزارهای قبل بوده و گردشگران می‌ توانند از این اثر شاخص تاریخی و نیز طبیعت زیبای منطقه استفاده کنند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تپه کورائیم",
+            "images": [],
+            "year_built": "میلاد",
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از مهمترین محوطه های باستانی واقع در شهر کورائیم شهرستان نیر تپه قلعه کورائیم است که به صورت تپه ای در منطقه ای نسبتا هموار قرار گرفته ‌است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بقعه کورائیم",
+            "images": [],
+            "year_built": "قرن هجری",
+            "architect": null,
+            "constructor": null,
+            "description": "بقعه کورائیم مربوط به سده‌ های میانه و متاخر دوران‌ تاریخی پس از اسلام است و در شهرستان نیر، شهر کورائیم واقع شده است. این اثر در تاریخ 6 دی 1347 با شمارهٔ ثبت 826 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "فرش اردبیل",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/204/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/204/223.jpg",
+                "https://fa.tripyar.com/uploads/picture/204/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/204/222.jpg"
+            ],
+            "year_built": "دوره صفوی",
+            "architect": null,
+            "constructor": "بافنده استاد مقصود کاشانی، بدستور شاه تهماسب صفوی",
+            "description": "فرش منحصربفرد که سالها زینت بخش این بقعه بود اخیرا در فهرست پنجاه شاهکار هنری برگزیده جهان قرار گرفته است. این اثر نفیس هنری که هم اکنون درگنجینه \" ویکتوریا آلبرت هال \" شهر لندن در معرض بازدید علاقه مندان به هنر ایران اسلامی قرار دارد، مظهری از هنر و تفکر عارفان دوره صفویه محسوب می شود و تا سال 1893 میلادی در بقعه شیخ صفی قرار داشت. روزنامه‌ ساندی‌ تایمز چاپ انگلیس اخیرا از بین هزاران شاهکار هنری و تاریخی ارزشمند دنیا، پنجاه اثر هنری را بعنوان برترین شاهکارهای هنری انتخاب کرد که نام این فرش تاریخی بافته ‌شده توسط هنرمندان ایرانی که به فرش اردبیل شهرت دارد، در بین این پنجاه شاهکار جهانی قرار دارد. این شاهکار هنری که بین سال‌ های 1539 تا 1540 میلادی بافته شده، بزرگ‌ ترین فرش معروف مشرق زمین است که تا بحال در بهترین شرایط نگهداری شده و هیچ صدمه‌ ای به آن وارد نشده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "موزه باستان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/262/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/14.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/33.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/15.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/18.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/16.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/20.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/17.jpg",
+                "https://fa.tripyar.com/uploads/picture/262/10.jpg"
+            ],
+            "year_built": "سال 1387",
+            "architect": null,
+            "constructor": null,
+            "description": "موزه باستان شناسی اردبیل یکی از مجهزترین و زیباترین موزه‌ های تخصصی کشور به لحاظ معماری و فضاهای نمایشی نیز میباشد، این موزه روایتگر تاریخ و تمدن یک میلیون ساله ای است که به عقیده کارشناسان قدیمی ترین تاریخ اکتشافات باستان شناسی کشور محسوب می شود. این موزه در سال 87 در مساحتی بالغ بر هزار و 700 متر مربع در دو طبقه و در بافت تاریخی و مجموعه جهانی بقعه شیخ صفی الدین اردبیلی تجهیز و راه اندازی شده است. یکی از مهمترین بخش های موزه باستان شناسی اردبیل سایت باستان شناسی قلعه بوینی یوغون روستای کورعباسلو ی شهرستان نیر است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کلیسای مریم مقدس اردبیل",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/199/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/199/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/199/church-ardabil.jpg"
+            ],
+            "year_built": "قرن",
+            "architect": null,
+            "constructor": "بنا خرج خانواده گالوست میرزایان اهتمام خاچاطور شهبازیان شد.",
+            "description": "به دلیل قرار گرفتن اردبیل در مسیر جاده ابریشم، این شهر از دیرباز محل آمد و شد بازرگانان و گردشگرانی از ادیان مختلف بوده، اما ارتباط این شهر با مسیحیت به ادوار بسیار طولانی برمی گردد. کلیسای اردبیل در سال 1876 میلادی بنا شده‌است. این بنا با خرج خانواده گالوست میرزایان و اهتمام خاچاطور شهبازیان ساخته شد. این کلیسا که کمتر از دو قرن قدمت دارد تا سال 1944 میلادی فعال بوده و آخرین مراسم مذهبی و نماز جماعت در سال 1944 میلادی توسط کشیش وارطان ژاماگورسیان در آن انجام شده است. از این تاریخ به بعد به دلیل مهاجرت خانواده‌های ارمنی به تبریز و تهران، انجام مراسم مذهبی در این کلیسا تعطیل شده است. در حال حاضر متعلقات این کلیسا از جمله حمام و مدرسه به طور کامل از بین رفته و بنای کلیسا نیز متروکه و در حال ویرانی است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه تفریحی شورابیل",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/258/دریاچه-شورابیل-در-تابستان.jpg",
+                "https://fa.tripyar.com/uploads/picture/258/دریاچه-یخ-زده-شورابیل.jpg",
+                "https://fa.tripyar.com/uploads/picture/258/دریاچه-تفریحی-شورابیل-اردبیل.jpg",
+                "https://fa.tripyar.com/uploads/picture/258/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/258/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/258/سراسرنمایی-از-دریاچه-شورابیل،-اردبیل.jpg",
+                "https://fa.tripyar.com/uploads/picture/258/دریاچه-تفریحی-شورابیل-اردبیل1.jpg",
+                "https://fa.tripyar.com/uploads/picture/258/دریاچه-شورابیل-اردبیل-از-نمای-بالا.jpg",
+                "https://fa.tripyar.com/uploads/picture/258/نقشه-دریاچه-شورابیل.png",
+                "https://fa.tripyar.com/uploads/picture/258/دریاچه-تفریحی-شورابیل-اردبیل2.jpg",
+                "https://fa.tripyar.com/uploads/picture/258/دریاچه-تفریحی-شورابیل-اردبیل3.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دریاچه تفریحی شورابیل به مساحت 180 هکتار و در دو کیلومتری جنوب اردبیل واقع شده است و در حال حاضر درمحدوده شهرقرار گرفته است. سابق بر این به خاطر شوری و لجن طبی خود مشهور بود ولی طی سالهای اخیر با شیرین تر کردن آب آن نوعی ماهی قزل آلا پرورش داده می شود. هرسال صدها پرنده مهاجر در پاییز از روسیه به سمت این دریاچه حرکت می کنند و زمستان را در این تالاب می گذرانند. دریاچهٔ شورابیل در حال حاضر یکی از مکانهای تفریحی اردبیل به شمار میرود که در کنار آن شهربازی و فضای سبز بسیاری احداث گردیده و شهر بازی سرپوشیده شهر خورشید با امکانات مدرن درسال 1391در ساحل دریاچه افتتاح گردید. ازامکانات تفریحی، ورزشی و فرهنگی آن میتوان به امکانات قایق رانی، پیست دو و میدانی، پیست دوچرخه سواری، باغ وحش، تعدادی هتل، یک شهر بازی، و رستورانی در وسط دریاچه اشاره کرد. شورابیل تنها دریاچه طبیعی داخل شهری در ایران میباشد. شکار در این منطقه ممنوع است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "حمامهای اردبیل",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/208/99.jpg",
+                "https://fa.tripyar.com/uploads/picture/208/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/208/ardabil_1.jpg",
+                "https://fa.tripyar.com/uploads/picture/208/img10431826.jpg",
+                "https://fa.tripyar.com/uploads/picture/208/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/208/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/208/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/208/bath-mulla-hadi1.jpg",
+                "https://fa.tripyar.com/uploads/picture/208/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/208/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/208/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/208/666.jpg",
+                "https://fa.tripyar.com/uploads/picture/208/6.jpg"
+            ],
+            "year_built": "قدمت حمامها دوره قاجار مربوط است.",
+            "architect": null,
+            "constructor": null,
+            "description": null,
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "جمعه مسجد",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/205/Ardabil-friday-mosque.jpg",
+                "https://fa.tripyar.com/uploads/picture/205/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/205/Ardabil-friday-mosque-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/205/banner.jpg"
+            ],
+            "year_built": "دوره سلجوقی",
+            "architect": null,
+            "constructor": null,
+            "description": "جمعه‌ مسجد اردبیل مسجدی در شهر اردبیل در شمال غربی ایران است. این بنا ازمهمترین وقدیمی‌ترین مساجد اسلامی ایران و آذربایجان به شمار می‌رود. این مسجد مربوط به دوران سلجوقیان است که کنار آتشکده ای قرار گرفته و ساختمان قبلی مسجد مربوط به آتشکده بوده‌است جمعه مسجد شامل حیاط و ایوان و طاق باشکوهی بوده که در حمله مغولها تخریب شده و فعلاً قسمتی از مسجد سالم است. دوره ساخت مسجد مربوط به سلجوقیان می‌باشد. در بدنه مناره مسجد فرمان اوزون حسن آق قویونلو و کتیبه‌ای که تاریخ 878 هجری را دارد و ابعاد آن 80/9 ‍‍‍‍× 50/12 متر می‌باشد. سازه اصلی مسجد از نوع آجر می‌باشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "امامزاده سید عبدالعزیز اردبیل",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/4028/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/4028/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/4028/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/4028/6.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "امامزاده سید عبدالعزیز که درمحله نیار شهرستان اردبیل واقع شده و از مکانهای متبرکه ای است که همواره پذیرای خیل عظیم زائرین از شهر اردبیل و شهرستانهای مجاور می باشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار چشمه آبگرم سردابه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/259/چشمه-آبگرم-سردابه-اردبیل1.jpg",
+                "https://fa.tripyar.com/uploads/picture/259/چشمه-آبگرم-سردابه-اردبیل4.jpg",
+                "https://fa.tripyar.com/uploads/picture/259/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/259/چشمه-آبگرم-سردابه-اردبیل.jpg",
+                "https://fa.tripyar.com/uploads/picture/259/چشمه-آبگرم-سردابه-اردبیل3.jpg",
+                "https://fa.tripyar.com/uploads/picture/259/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/259/آبشار-سردابه-اردبیل.jpg",
+                "https://fa.tripyar.com/uploads/picture/259/آبشار-سردابه-اردبیل3.jpg",
+                "https://fa.tripyar.com/uploads/picture/259/چشمه-یئددی-بلوک-سردابه-اردبیل.jpg",
+                "https://fa.tripyar.com/uploads/picture/259/آبشار-سردابه-اردبیل-(2).jpg",
+                "https://fa.tripyar.com/uploads/picture/259/آبشار-سردابه-اردبیل2.jpg",
+                "https://fa.tripyar.com/uploads/picture/259/چشمه-آبگرم-سردابه-اردبیل2.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": null,
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مجموعه شیخ صفی الدین اردبیلی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/185/sheykh-safi-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/21.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/445.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/sheykh-safi.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/sheykh-safi-22.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/14.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/151349_443.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/88.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/33.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/223.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/224.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/44.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/18.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/166.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/19.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/20.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/17.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/sheykh-safi-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/23.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/24.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/6-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/222.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/safi5.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/phoca_thumb_l__mg_end-end-end.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/10.jpg",
+                "https://fa.tripyar.com/uploads/picture/185/1-(3).jpg"
+            ],
+            "year_built": "دوره صفوی",
+            "architect": null,
+            "constructor": "صدرالدین موسی فرزند شیخ صفی",
+            "description": "بقعه شیخ صفی الدین یکی از مکان های تاریخی و ارزشمند شهر اردبیل می باشد. این مکان ارزشمند و تاریخی در سال 2010 در فهرست میراث جهانی یونسکو به ثبت رسید. این مکان با استفاده از معماری سنتی ایرانی و به کارگیری حداکثر فضای در دسترس ساخته شده و انواع قسمت ها از قبیل کتابخانه، مسجد، مدرسه، مخزن، بیمارستان، آشپزخانه، نانوایی و چندین دفتر اداری در آن جای داده شده است. علاوه بر مقبره شیخ صفی الدین اردبیلی، مقبره شاه اسماعیل اول نیز در این مجموعه قرار دارد. بعد از مرگ شاه اسماعیل - اولین پادشاه سلسله صفویه – بازماندگان او تصمیم گرفتند پیکر شاه را در کنار قبر شیخ صفی الدین دفن کنند. بنابراین اولین بنای الحاقی به مقبره شیخ ، گنبدی کوچک بود که آرامگاه شاه اسماعیل به شمار می رفت. اما از آن به بعد، بقعه شیخ صفی کم کم تبدیل به مدفن جد سلاطین صفویه شد و بعد از مدتی این بقعه به عنوان محلی برای نشر تفکر سیاسی و مذهبی صفوی شناخته شد. به طوری که بزرگان این سلسله در این مجموعه جمع می شدند و امور حکومت را کنترل می کردند. بهمین دلیل این بقعه در دوره صفوی با عنایت ویژه شاهان این دوره به 21 هزار متر گسترش یافت و در نهایت دقت تکمیل و تزیین شد تا جائی که صفویان این بقعه را بهشت موعود خداوندی می دانستند. آرامگاه همسر شاه اسماعیل و برخی از مشایخ و صاحب منصبان دوران صفوی و کشته شدگان جنگ چالدران نیزدر این مکان قرار دارد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "حمام آقانقی اردبیل",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3658/31.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/27.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/21.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/25.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/28.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/33.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/15.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/30.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/29.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/26.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/18.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/16.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/19.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/20.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/17.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/23.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/24.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3658/10.jpg"
+            ],
+            "year_built": "دوره ایلخانی",
+            "architect": null,
+            "constructor": "حمام دوره ایلخانی شخصی بنام ظهیرالاسلام دوره قاجار آقانقی بازسازی مرمت است.",
+            "description": "حمام تاریخی آقانقی در میدان عالی ‌قاپو محل موزه مردم‌ شناسی اردبیل است. در این موزه علاوه بر نمایش 33 نوع مجسمه با پوشش محلی مردم استان اردبیل، آثار و دست نوشته‌ های مربوط به هویت تاریخی و فرهنگی این منطقه جمع ‌آوری و به نمایش گذاشته شده است. این حمام در تاریخ 11 مرداد 1376 با شمارهٔ ثبت 1896 به ‌عنوان یکی از آثار ملی ایران به ثبت رسیده ‌است و در دههٔ 1380 به موزهٔ مردم‌ شناسی اردبیل تغییر کاربری داد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه آب نئور",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/257/دریاچه-آب-شیرین-نئور-اردبیل5.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/دریاچه-آب-شیرین-نئور-اردبیل8.jpeg",
+                "https://fa.tripyar.com/uploads/picture/257/دریاچه-آب-شیرین-نئور-اردبیل1.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/دریاچه-آب-شیرین-نئور-اردبیل4.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/دریاچه-آب-شیرین-نئور-اردبیل3.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/قزآلا-در-دریاچه-آب-شیرین-نئور-اردبیل.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/دریاچه-آب-شیرین-نئور-اردبیل2.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/نقشه-دریاچه-آب-شیرین-نئور-اردبیل.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/دریاچه-آب-شیرین-نئور-اردبیل.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/دریاچه-نئور.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/دریاچه-آب-شیرین-نئور-اردبیل10.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/دریاچه-آب-شیرین-نئور-اردبیل9.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/دریاچه-آب-شیرین-نئور-اردبیل7.jpg",
+                "https://fa.tripyar.com/uploads/picture/257/دریاچه-آب-شیرین-نئور-اردبیل6.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دریاچه نِئور دریاچه‌ای ما بین شهر اردبیل و شهر خلخال در استان اردبیل واقع است. این دریاچه در حداکثر عمق در حد کمینه 5/5 متر ودر حد بیشینه 13 متر میباشد. آب این دریاچه برای استفاده آبیاری زمینهای کشاورزی مورد بهره برداری قرار می گیرد و هر ساله به میزان اندک بچه ماهی قزل آلای رنگین کمان جهت کنترل جمعیت گامارس های موجود در دریاچه های رها سازی می گردد. این دریاچه در شب های تابستانی ومهتابی همچون آینه ای شفاف می درخشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پل شهر اردبیل",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/209/seyed-abad-bridge-ardabil.jpg",
+                "https://fa.tripyar.com/uploads/picture/209/ebrahim-abad-bridge-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/209/edi-ghoz-bridge-ardabil-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/209/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/209/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/209/edi-ghoz-bridge-ardabil.jpg",
+                "https://fa.tripyar.com/uploads/picture/209/ebrahim-abad-bridge-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/209/ebrahim-abad-bridge.jpg"
+            ],
+            "year_built": "قدمت پل مربوط دوره صفوی است.",
+            "architect": null,
+            "constructor": null,
+            "description": "شهرستان اردبیل مرکز استان اردبیل می باشد که از شمال به شهرستان مشگین شهر، از شرق به شهرستان نمین، از جنوب شهر کوثر، از جنوب غربی به شهرستان میانه و از غرب به شهرستان نیز محدود می گردد. آب و هوای اردبیل سرد و خشک بوده، بیشترین درجه حرارت در تابستان ها به 35 درجه بالای صفر و کمترین آن در زمستان به 25 درجه زیر صفر می رسد. استان اردبیل دارای آثار باارزش گردشگری بسیاری است که در دنیا کم نظیر هستند. از جمله بقعه شیخ صفی الدین اردبیلی، آبگرم سرعین، طبیعت باشکوه سبلان و... در این بخش پل های تاریخی شهر اردبیل را مورد توجه قرار داده ایم.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "عشایر شاهسون",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/221/دشت_مغان.jpg",
+                "https://fa.tripyar.com/uploads/picture/221/عشایرایل-شاهسون7.jpg",
+                "https://fa.tripyar.com/uploads/picture/221/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/221/عشایرایل-شاهسون2.jpg",
+                "https://fa.tripyar.com/uploads/picture/221/shahsovan-nomads-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/221/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/221/عشایرایل-شاهسون3.jpg",
+                "https://fa.tripyar.com/uploads/picture/221/عشایرایل-شاهسون1.jpg",
+                "https://fa.tripyar.com/uploads/picture/221/عشایرایل-شاهسون5.jpg",
+                "https://fa.tripyar.com/uploads/picture/221/عشایرایل-شاهسون6.jpg",
+                "https://fa.tripyar.com/uploads/picture/221/عشایرایل-شاهسون9.gif",
+                "https://fa.tripyar.com/uploads/picture/221/عشایرایل-شاهسون8.jpg",
+                "https://fa.tripyar.com/uploads/picture/221/عشایر-ایل-شاهسون.jpg",
+                "https://fa.tripyar.com/uploads/picture/221/عشایرایل-شاهسون4.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "جامعه عشایری یادگارانی از تاریخ درخشان و پرافتخار این سرزمین کهن سال با قدمتی نزدیک به 12000 سال تاریخی می باشند. در آذربایجان، ایلات و طوایف متعددی مانند ایل شاهسون و ارسباران زندگی می کنند. ییلاق آن ها عمدتا در کوهپایه های سبلان و قوشا داغ در پیرامون شهرهای مشگین شهر، سراب و اهر واقع است و طوایف خلخال در کوه های طالش زندگی می کنند. قشلاق شاهسون ها و طوایف ارسباران در دشت مغان و گرمسیر طوایف خلخال، حاشیه رود قزل اوزن است. کشور ما از جمله معدود کشورهایی است که در آن عشایری از همه اقوام در سراسر کشور پراکنده‌اند. بدون وجود عشایر چرخه طبیعی اکوسیستم دچار اختلال شده و به زودی از بین می‌ رود. هدف از جذب گردشگر، کمک به بقای این اقوام از طریق افزایش شاخص‌ های سلامت و... است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بازار اردبیل",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/207/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/207/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/207/bazar-ardabil.jpg"
+            ],
+            "year_built": "دوره صفوی",
+            "architect": null,
+            "constructor": null,
+            "description": "مجموعه تاریخی بازار اردبیل در میانه شهر و در طرفین خیابان امام خمینی واقع گردیده و به جهت قدمت و دارا بودن معماری سنتی از بازارهای تاریخی و جالب توجه ایران به شمار می آید و چون دیگر بازارها مشتمل بر راسته ها، تیمچه ها، سراها و مسجد و گرمابه است. در قرن هفتم و هشتم بازار اردبیل رونق فراوان داشته‌ است. در دوره‌ های بعد، قسمتی از بازار بزرگ و تیمچه‌ ها و سرا ها از موقوفات بقعه شیخ صفی‌ الدین اردبیلی بشمار می‌ رفت و درآمد و عواید حاصله به‌ مصرف مخارج این بقعه می‌ رسید. مجموعه تاریخی بازار اردبیل در سال های اخیر از طرف سازمان میراث فرهنگی تعمیر و مرمت شده و به شماره 1690 به ثبت تاریخی رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "محوطه باستانی قلعه خسرو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/193/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/193/banner.jpg"
+            ],
+            "year_built": "عصر مفرغ",
+            "architect": null,
+            "constructor": null,
+            "description": "قلعه خسرو در 30 کیلومتری شمال غرب اردبیل قرار دارد. این قلعه که با شیوه خشکه چین سنگی ساخته شده‌است، به دوره مفرغ جدید تعلق دارد. در اواخر عصر آهن 3 این قلعه کاملا متروک شد و استقرار در آن به قلعه دیگری که متعلق به دوره هخامنشی است ، منتقل شد. این قلعه هخامنشی در حدود 700 متری قلعه خسرو قرار دارد. گورستان کوچکی نیز شامل 10 تا 20 گور در کنار قلعه ‌های هفت‌ گانه وجود دارد که تعداد کم قبور آن نشان‌ گر اقماری بودن این قلعه ‌ها است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "طبیعت زیبای استان اردبیل",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-24.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-30.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-23.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-29.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-19.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-27.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil25.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-22.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-28.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-26.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/323/ardabil-20.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "طراوت آب و هوا به همراه طبیعتی چشم نواز و مسحور کننده در دامنه های چشم نواز کوه سرافراز سبلان همان کیمیای حیات بخش استان اردبیل است، خصوصیات منحصربه فرد و خارق العاده طبیعت این استان با تمام وجود در پیشانی ایران زمین به نمایش گذارده شده و هر فردی با قرار گرفتن در پهنه طبیعت بی همتای این استان، ناباورانه دو حس متضاد هیجان و آرامش را در کنار هم تجربه می‌کند. استان اردبیل با طبیعت زیبا، دشتهای سرسبز و چشمه های آبگرم سبلان خاطره ساز بوده و دیدن آثار شگفت انگیز و تاریخی، همچنین گردش در روستاهای این استان سرزندگی و شادابی را با خود به همراه می آورد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بقعه شیخ جبرائیل کلخوران",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/219/بقعه-شیخ-جبرائیل-کلخوران-اردبیل.jpg",
+                "https://fa.tripyar.com/uploads/picture/219/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/219/روستای-کلخوران.jpg",
+                "https://fa.tripyar.com/uploads/picture/219/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/219/بقعه-شیخ-جبرائیل-کلخوران-اردبیل1.jpg",
+                "https://fa.tripyar.com/uploads/picture/219/بقعه-شیخ-جبرائیل-کلخوران-اردبیل2.jpg",
+                "https://fa.tripyar.com/uploads/picture/219/بقعه-شیخ-جبرائیل-کلخوران-اردبیل3.jpg"
+            ],
+            "year_built": "قرن هـ.",
+            "architect": null,
+            "constructor": null,
+            "description": "بزرگترین مجموعه تاریخی کلخوران شیخ آرامگاه امین‌الدین جبرائیل است، که به پدر شیخ صفی‌الدین اسحق، جد سلاطین صفوی تعلق دارد و در نیمه اوّل قرن دهم هـ. ق احداث شده است. بنای مقبره در وسط محوطه ی وسیع و با صفایی که مشهور به باغ شیخ است واقع شده است. این بنا شامل دیوار گلی بلند، مقبره امین الدین جبراییل، مقبره عوض الخواص بن فیروزشاه زرین کلاه، مقبره سید محمد الاعرابی، بقعه سید حمزه، مقابر داخل محوطه بقعه، مقابر خارج از محوطه بقعه می باشند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "خانه سید هاشم ابراهیمی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-19.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/218/ebrahimi-house-10.jpg"
+            ],
+            "year_built": "دوره زندیه",
+            "architect": null,
+            "constructor": "مرحوم سید هاشم ابراهیمی",
+            "description": "خانه تاریخی ابراهیمی که در اردبیل، میدان سرچشمه، کوچه شهیدگاه و تقریبا در مرکز شهر اردبیل قرار گرفته، این خانه متعلق به مرحوم سید هاشم ابراهیمی بوده و درحال حاضر تحت مالکیت سازمان میراث فرهنگی، صنایع دستی و گردشگری استان اردبیل قرار دارد. خانه سید هاشم ابراهیمی مربوط به دوره زند است و واقع شده و این اثر در تاریخ 25 اسفند 1379 با شمارهٔ ثبت 3041 به‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "خانه میرفتاحی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/201/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/201/banner.jpg"
+            ],
+            "year_built": "1290 هجری قمری",
+            "architect": null,
+            "constructor": "حاج میرآقا پسر حاج میرفتاح",
+            "description": "خانه میر فتاحی مربوط به دوره قاجار است و در اردبیل، میدان امام حسین، انتهای کوچه حسینی واقع شده و این اثر در تاریخ 10 دی 1381 با شمارهٔ ثبت 6687 به‌عنوان یکی از آثار ملی ایران به ثبت رسیده است. این بنا در بدو تاسیس حدود 1700 متر مربع بوده که شامل دو باب خانه اندرونی و بیرونی بوده است. خانه اندرونی در زمینی به مساحت 1100 مترمربع بوده که مرحوم حاج میرآقا و برادرش حاج میرمحسن در آن سکونت داشته‌اند که با مرور زمان تفکیک و نوسازی شده و از بین رفته است و عمارت بیرونی در زمینی به مساحت 618 مترمربع بوده که به آقای حاج میرآقا تعلق داشته و جهت برگزاری مراسم مذهبی و روضه‌خوانی و احسانات امام حسین کاربری داشته است و در حال حاضر همین قسمت بیرونی عمارت، بصورت موزه مفاخر دینی مرمت گردیده و مورد استفاده می‌ باشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار نره‌ اسبو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/261/آبشار-نره‌-گر-اسبو-خلخال4.jpg",
+                "https://fa.tripyar.com/uploads/picture/261/آبشار-نره‌-گر-اسبو-خلخال3.jpg",
+                "https://fa.tripyar.com/uploads/picture/261/آبشار-نره‌-گر-اسبو-خلخال5.jpg",
+                "https://fa.tripyar.com/uploads/picture/261/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/261/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/261/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/261/آبشار-نره‌-گر-اسبو-خلخال2.jpg",
+                "https://fa.tripyar.com/uploads/picture/261/آبشار-نره‌-گر-اسبو-خلخال1.jpg",
+                "https://fa.tripyar.com/uploads/picture/261/آبشار-نره‌-گر-اسبو-خلخال.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "روستای زیبای اسبو در بخش شاهرود شهرستان خلخال استان اردبیل واقع است. آبشار نره گر اسبو حدود 37 کیلومتری جنوب شرق خلخال و در نزدیکی روستای اسبو واقع شده است. این آبشار در نهایت زیبایی، از یک چشمه پرآب سرازیر شده پس از سیراب کردن باغات روستای اسبو، به رودخانه شاهرود می ریزد، این آبشار با حدود نیم ساعت پیاده روی از روستای اسبو قابل دسترسی است. برای رسیدن به این آبشار، پس از گذر از داخل روستا و طی مسیری در حدود 2 کیلومتر که بصورت صعب العبور بوده و فقط بصورت پیاده و سربالایی است، به این آبشار می رسیم. منبع آب این آبشار از برف زمستانی باریده شده بر فراز کوههای که این آبشار در دامنه آن جریان دارد تامین می شود و با وجود بارندگی های خوب فصل بهار، اگر برف خوبی در زمستان نبارد، میزان آب آن کم خواهد بود. این آبشار در ارتفاع 1900 متری از سطح آبهای آزاد قرار دارد. درختان انبوه گردو در این منطقه به وفور دیده میشود.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "غار یخگان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/187/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/187/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/187/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/187/banner.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "غار یخگان در سازندهای آهکی بر اثر انحلال و تشکیل اشکال فرسایشی آون و تخریب دیواره آونها تشکیل گردیده است. غار یخگان به دلیل ویژگی های منحصر به فرد در سطح جهانی نیز دارای شهرت میباشد. هوای داخل غار در زمستان گرم و در تابستان سرد بوده و با تشکیل بلورهای یخ به صورت قندیل و ورقه های نازک در سطح دیوارها و سقف غار، خاصیت متمایزی به غار یخگان می بخشد. فضای داخل غار در زمستان نیز گرم است که برای استراحت موقت چوپانان مورد استفاده قرار می گیرد. به دلیل وجود دریچه های سنگی و صخره ای غار و طی مسیر هوا از داخل آن دریچه ها که نزدیک به هشت متر داخل زمین است هوای جریان یافته بر روی صخره های موجود رطوبت تولید کرده و روی سنگها شروع به یخ زدن می کند. ویژگی منحصر به فرد غار یخگان موجب شده است اهالی ساکن در محدوده آن از این غار به عنوان یخچالی در فصول گرم سال استفاده کنند. قندیلهای یخ تشکیل شده غار در تابستان مورد استفاده اهالی است. هوای غار به وسیله دودکشی که به بیرون از غار راه دارد تامین می‌شود و در داخل آن هیچگونه کمبود اکسیژن مشاهده نمی‌شود. این منطقه طی آگهی رسمی شماره 19496-12 مورخه 15/05/1381 از تاریخ 15/05/1381 بعنوان اثر طبیعی ملی یخگان به تصویب شورای عالی حفاظت محیط زیست کشور رسیده است. خفاش که پستاندار معمول غارها می باشد به علت هوای سرد و مرطوب در این غار مشاهده نمی شود. از سایر جانوران غارزی نیز هنوز نمونه ای مشاهده نگردیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منطقه گردشگری فینارود خلخال",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/236/منطقه-گردشگری-فینارود-خلخال1.jpg",
+                "https://fa.tripyar.com/uploads/picture/236/منطقه-گردشگری-فینارود-خلخال3.jpg",
+                "https://fa.tripyar.com/uploads/picture/236/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/236/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/236/منطقه-گردشگری-فینارود-خلخال2.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "منطقه گردشگری فینارود خلخال به عنوان یکی از دالانهای آب و هوایی خلخال با مطبوع‌ ترین آب و هوا و چشم‌ اندازهای جنگل، مرتع و کوهستان دریچه‌ ای به زیبایی‌ های خلخال است. منطقه گردشگری فینارود خلخال یکی از زیباترین مناطق گردشگری بکر در جنوب شهر خلخال در بالادست روستای خوجین به زبان محلی فیین واقع شده است. در لحظه ورود به این منطقه با مشاهده مه غلیظ موجود در ارتفاعات منطقه با اطمینان میتوانید این منطقه را روزنه‌ ای به زیبایی‌ های شهرستان خلخال در جنوب استان اردبیل عنوان کنید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تپه آناهیتا",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/248/طبیعت-اطراف-آناهیتا.jpg",
+                "https://fa.tripyar.com/uploads/picture/248/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/248/banner.jpg"
+            ],
+            "year_built": "میلاد مسیح",
+            "architect": null,
+            "constructor": null,
+            "description": "تپه آناهیتا در قسمت غربی شهر سرعین وجود دارد و قدمت آن به دوره قبل از میلاد می رسد. مردمان آن زمان بر اساس اعتقادات دینی، معابد و آتشکده داشتند. وجود این معبد هم گواه همین امر است. تپه آناهیتا نشان دهنده اهمیت این منطقه در نزد ادیان مختلف و بخصوص زرتشتی میباشد. در بالای این تپه معبدی نیمه ویران واقع شده که سالیان دراز محل عبادت و ریاضت موبدان زرتشتی بوده است. همچنین طبق اسناد تاریخی، این منطقه آسایشگاه تابستانی حاکمان ساسانی بوده است. در این معبد نشانه های از آثار مربوط به دوره های بعد از جمله سلجوقیان و ایلخانان نیز موجود است. تپه باستانی آناهیتا که طی سالیان گذشته از آن به نامهای آناهیتا، سارقین و زرتشت یاد شده به شماره 1976 به ثبت آثار ملی رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پیست اسکی آلوارس",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/188/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/188/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/188/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/188/banner.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "این روزها با نزدیک شدن به فصل زمستان ورزش اسکی یکی از بهترین ورزش هایی است که به ورزشکاران معرفی می شود ورزشی که البته فواید بی شماری نیز دارد و همچنین از تفریحاتی است که خانم‌ها و آقایان می‌توانند در کنار هم یا خانوادگی از آن لذت ببرند. پیست اسکی آلوارس که بزرگترین پیست اسکی از لحاظ وسعت در ایران می باشد یکی از بهترین پیشنهادها برای لذت بردن از این ورزش مهیج و همچنین گردش در زیبایی های دامنه سبلان و تنفس در هوای پاک آن و لذت بردن از برف‌ های مرغوب است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبهای سرعین",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/241/عکس-قدیمی-گاومیش-گلی7.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/آبگرم-های-سرعین1.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/عکس-قدیمی-گاومیش-گلی4.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/عکس-قدیمی-گاومیش-گلی5.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/عکس-قدیمی-گاومیش-گلی3.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/طبیعت-اطراف-سرعین.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/سرعین.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/عکس-قدیمی-گاومیش-گلی1.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/آبگرم-های-سرعین2.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/آبگرم-های-سرعین.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/عکس-قدیمی-گاومیش-گلی6.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/آبگرم-های-سرعین-گاومیش.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/طبیعت-اطراف-سرعین1.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/آش-دوغ-سرعین.jpg",
+                "https://fa.tripyar.com/uploads/picture/241/عکس-قدیمی-گاومیش-گلی.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سرعین شهری کوچک در سی کیلومتری غرب اردبیل و مرکز شهرستان سرعین است. این شهر به علت چشمه‌ های آبگرم فراوان شهرت دارد و یکی از مناطق گردشگری در استان اردبیل است. سرعین دارای دهها چشمه آب گرم معدنی می‌ باشد که از کوه سبلان سرچشمه می‌ گیرند. آب های گرم سرعین در ردیف آب های کلرو بیکرو بناته کلسیک گازدار و خیلی گرم است که مقدار قابل توجهی سیلیس دارند. با در نظر گرفتن هدایت الکتریکی میزان املاح و باقیمانده خشک آنها، به نظر می رسد که همه این چشمه ها یک منشائ دارند و آب اصلی یک آب گرم با منشائ عمیق است که در مسیر بالاترین مقداری کربنات کلسیم را به صورت بیکربنات کلسیم در خود حل می کند. آب گرم معدنی گاومیش گلی اولین رتبه بازدید کنندگان استان اردبیل را بخود اختصاص داده است و در رتبه دوم این آمار قرار دارد، رتبه سوم نیز متعلق به است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "گلی بلاغ بیله سوار",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3411/3.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "گلی بلاغ از روستاهای هدف گردشگری بیله سوار در اردبیل است است که در بخش انجیرلو واقع شده ‌است. این منطقه مورد توجه گردشگران واقع شده و از نظر پروازهای پاراگلایدر در سطح کشور چشمگیر است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "محوطه تاریخی بیله سوار",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/251/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/251/banner.jpg"
+            ],
+            "year_built": "دوره اشکانی، اسلام",
+            "architect": null,
+            "constructor": null,
+            "description": "شهرستان بیله سوار در دشت مغان، در شمال غربی ایران و در شمال شرقی استان اردبیل واقع شده است، این شهرستان از قسمت شرق، شمال شرقی و جنوب شرقی با خاک جمهوری آذربایجان همسایه و حدوداً 68 کیلومتر مرز مشترک دارد. این منطقه از استان اردبیل دارای جاذبه های گردشگری متعددی است که در این بخش دو محوطه تاریخی آن مورد توجه قرار گرفته استمحوطه باستانی پتلقان با حفاریهای گنبدی شکل متعلق به دوره اشکانی و کاروانسرای عباسی واقع در محوطه شورگل دهستان قشلاق متعلق به سده های میانی بعد از اسلام میباشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بازارچه مرزی بیله سوار",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2296/bazar-b1.jpg",
+                "https://fa.tripyar.com/uploads/picture/2296/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2296/banner.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "بازارچه مرزی بیله سوار و بازار بین المللی گمرگ آن از مهمترین جادبه های گردشگری ایران و استان اردبیل محسوب میشود که در کنار توسعه واردات و صادرات، ظرفیتهای ویژه‌ای در حوزه رفت و آمد مسافران خارجی دارد. گمرگ بیله سوار یکی از دو گمرک مشترک بین ایران و جمهوری آذربایجان است و قدمت آن به بیش از 200 سال می ‌رسد. در زمان اتحاد جماهیر شوروی این گمرک برای مدتی تعطیل و بعد از استقلال کشور جمهوری آذربایجان، فعالیتش از سر گرفته شد. فعالیت گمرک بیله سوار شبانه روزی است. قابل ذکر است که بازارچه مشترک بین بازرگانان ایران و آذربایجان نیمه تعطیل است؛ ولی بازارچه گمرک در سه فاز فعالیت دارد و هر روز هزاران نفر را از نقاط مختلف کشور برای داد و ستد به این شهرستان می ‌کشاند. بعد از این بازارچه در ردیف دوم آمار بازدید های استان اردبیل قرار دارد و رتبه سوم نیز متعلق به است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه دختر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/213/قلعه-دختر-بیله-سوار.jpg",
+                "https://fa.tripyar.com/uploads/picture/213/قلعه-دختر-بیله-سوار3.jpg",
+                "https://fa.tripyar.com/uploads/picture/213/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/213/قلعه-دختر-بیله-سوار6.jpg",
+                "https://fa.tripyar.com/uploads/picture/213/قلعه-دختر-بیله-سوار2.jpg",
+                "https://fa.tripyar.com/uploads/picture/213/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/213/قلعه-دختر-بیله-سوار4.jpg",
+                "https://fa.tripyar.com/uploads/picture/213/قلعه-دختر-بیله-سوار1.jpg"
+            ],
+            "year_built": "اشکانی",
+            "architect": null,
+            "constructor": null,
+            "description": "در حال حاضر در سرزمین کهن و پهناور ایران چندین قلعه به نام قیز قلعه سی یا قلعه دختر و نیز چندین روستا و چندین پل قدیمی با همین نام وجود دارد اما از منظر گردشگری، شاید «قیز قلعه سی بیله سوار» از زیباترین این قلعه ها باشد. قئز قلعه سی مربوط به دوران اشکانیان و ساسانیان است و در شهرستان بیله سوار، کنار رودخانه برزند واقع شده است. این اثر در تاریخ 25 اسفند 1345 با شمارهٔ ثبت 629 به‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "موزه بیله سوار",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3412/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3412/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3412/5.jpg"
+            ],
+            "year_built": "1399",
+            "architect": null,
+            "constructor": null,
+            "description": "شهرستان بیله‌ سوار با توجه به میراث غنی و فرهنگ اصیل خود از نظر گردشگری حائز اهمیت است، از این لحاظ موزه شهر بیله سوار و همچنین برگزاری جشنواره کوچ عشایر از جاذبه های مورد توجه بیله سوار می باشد. موزه در محل مدرسه تاریخی امام دایر شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "شهر کندویی پتلقان",
+            "images": [],
+            "year_built": "اسلام",
+            "architect": null,
+            "constructor": null,
+            "description": "شهر تاریخی پتلقان مورد توجه دوستداران تاریخ و آثار باستانی است. این شهر تاریخی با حفاری هایی درون تپه ها بوجود آمده است. حفاری های دقیق همراه با گنبد هایی دقیق از دیدنی های شهر کندویی پلتقان است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشارهای شوله لر دره سی روستای گئوزلی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/238/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/238/آبشار-شوله-لر-دره-سی.jpg",
+                "https://fa.tripyar.com/uploads/picture/238/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/238/شوله-لر-دره-سی.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "روستای گئوزلی در شمال غربی کشور ایران، غرب دریای خزر، شمال شرقی آذربایجان، شمال استان اردبیل و جنوب شـرقی شهر گرمی مغــان، در دهستان اینی از بخش مرکزی شهرستان مغان واق شده است. این روستا طبیعت زیبا و چشمگیری دارد. آبشارهای شوله لر دره سی از جاذبه های مهم این روستا میباشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "خان بولاغی گرمی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3433/natural-khankandi.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "چشمه‌ خان بولاغی با آبی خودجوش، در جنوب روستای خان ‌کندی، در شهرستان گرمی استان اردیبل قرار دارد و از جاذبه‌ های مهم و بی ‌نظیر این روستا به‌ شمار می ‌رود. این منطقه جاذبه های طبیعی و تاریخی متعدد دارد که مورد توجه علاقمندان و گردشگران است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه گیلارلو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3427/gilarlu-lake-mughan-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3427/gilarlu-lake-mughan-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3427/gilarlu-lake-mughan-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3427/gilarlu-lake-mughan-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3427/gilarlu-lake-mughan-1.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "شهرستان مرزی گرمی که در فاصله بیش از 100 کیلومتری استان اردبیل واقع شده جاذبه‌ های گردشگری و طبیعی بسیار دلپذیر و بکری دارد. دریاچه گیلارلو نیز که از دریاچه های مصنوعی داخل شهری شهرستان گرمی محسوب می شود از دیدنیهای این منطقه است. طبیعت اطراف دریاچه، موقعیت جغرافیایی مناسب و قرار گرفتن در کنار جاده اردبیل–گرمی و بیله سوار، وجود آلاچیق ‌ها و کمپ‌ های اقامتی و امکانات تفریحی از جمله قایق سواری، گیلارلو را به قطب گردشگری این شهرستان تبدیل کرده است. دریاچه گیلارلو گرمی بعد از دریاچه شورابیل اردبیل دومین دریاچه بزرگ استان اردبیل به شمار می رود.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه قالغانلو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3432/qalghanlu-lake-mughan-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/3432/qalghanlu-lake-mughan-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3432/qalghanlu-lake-mughan-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3432/khan-kandi.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از زیباترین دیدنی های گرمی دریاچه بی نظیر قالغانلو است که در شرق روستای خان کندی قرار دارد. این دریاچه به سبب ذوب شدن برف کوه «قبله داشی» دریاچه ای پرآب محسوب می شود که در آن انواع آبزیان همچون ماهی های سردابی زندگی می کنند. آب دریاچه قالغانلو به مصرف مزارع کشاورزی اطراف می رسد. محیط سرسبز اطراف دریاچه با آب و هوای فوق العاده آن برای یک پیک نیک خانوادگی و یا دوستانه بسیار عالی است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "داشلی بولاغ گرمی",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "در نزدیکی گرمی و در حوالی روستای دیزج چشمه پرآبی به نام «داشلی بولاغ» وجود دارد. آب چشمه داشلی بولاغ مورد استفاده اهالی روستا و سایرین بوده و در شمار آب های معدنی آشامیدنی است. چشمه داشلی بولاغ در گذشته محل استراحت ایل عشایر شاهسون بوده و دارای مناطق حاصلخیز بسیار بکر است. علاوه بر این در اطراف چشمه آثار باستانی و قبور تاریخی نیز وجود دارد که قابل توجه است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "additional_info": [
+        "http://ardabil.imeo.ir",
+        "http://mihanmahigir.glxblog.com",
+        "http://www.shaghayeghclub1992.com",
+        "https://af.samta.ir",
+        "https://ardebilema.ir",
+        "https://berimkouh.com",
+        "https://borna.news",
+        "https://delta.ir",
+        "https://fa.wikipedia.org",
+        "https://geographyhashemi.blogsky.com",
+        "https://ghasedak24.com",
+        "https://iranminehouse.ir",
+        "https://jwem.areeo.ac.ir",
+        "https://lastsecond.ir",
+        "https://sabalanema.ir",
+        "https://safarmarket.com",
+        "https://vista.ir",
+        "https://www.abfa-ardabil.co.ir",
+        "https://www.alibaba.ir",
+        "https://www.donyayemadan.com",
+        "https://www.eghamat24.com",
+        "https://www.eligasht.com",
+        "https://www.flytoday.ir",
+        "https://www.homsa.net",
+        "https://www.isna.ir",
+        "https://www.mehrnews.com",
+        "https://www.mihmansho.com",
+        "https://www.pateh.com",
+        "https://www.safarbazi.com",
+        "https://www.tabiat.ir"
+    ]
+}

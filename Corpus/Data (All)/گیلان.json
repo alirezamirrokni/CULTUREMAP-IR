@@ -1,0 +1,3650 @@
+{
+    "title": "استان گیلان",
+    "location": {
+        "province": "گیلان",
+        "city": null
+    },
+    "geographical_features": [
+        {
+            "category": "رودخانه‌ها",
+            "description": [
+                {
+                    "name": "رود آستارا آستاراچای",
+                    "images": [
+                        "http://ostanegilan.com/wp-content/uploads/2018/07/%D8%B1%D9%88%D8%AF-%D8%A2%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7.jpg",
+                        "https://www.otaghak.com/blog/wp-content/uploads/2022/01/about-astara10.jpg",
+                        "https://media.salameno.com/d/2023/09/02/0/15561694.png?ts=1693656404940"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه سفیدرود",
+                    "images": [
+                        "http://ostanegilan.com/wp-content/uploads/2018/07/60017198-1.jpg",
+                        "https://techrato.com/wp-content/uploads/2022/04/سفیدرود-min-2048x1139.jpg",
+                        "https://irantourismonline.com/upload/other/XXSIn2Yh2f.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه پل رود",
+                    "images": [
+                        "http://ostanegilan.com/wp-content/uploads/2018/07/%D9%BE%D9%84-%D8%B1%D9%88%D8%AF.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه کرگان رود",
+                    "images": [
+                        "http://ostanegilan.com/wp-content/uploads/2018/07/%DA%A9%D8%B1%DA%AF%D8%A7%D9%86-%D8%B1%D9%88%D8%AF.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه گوهر رود",
+                    "images": [
+                        "http://ostanegilan.com/wp-content/uploads/2018/07/%DA%AF%D9%88%D9%87%D8%B1%D8%B1%D9%88%D8%AF.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه زرجوب",
+                    "images": [
+                        "http://ostanegilan.com/wp-content/uploads/2018/07/%D8%B2%D8%B1%D8%AC%D9%88%D8%A8.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه لنگرود رودخان",
+                    "images": [
+                        "http://ostanegilan.com/wp-content/uploads/2018/07/%D9%BE%D9%84-%D8%AE%D8%B4%D8%AA%DB%8C-%D9%84%D9%86%DA%AF%D8%B1%D9%88%D8%AF.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه شلمان رود",
+                    "images": [
+                        "http://ostanegilan.com/wp-content/uploads/2018/07/%D8%B4%D9%84%D9%85%D8%A7%D9%86-%D8%B1%D9%88%D8%AF.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه حشمت رود",
+                    "images": [
+                        "http://ostanegilan.com/wp-content/uploads/2018/07/%D8%AD%D8%B4%D9%85%D8%AA-%D8%B1%D9%88%D8%AF.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه پلنگ ور",
+                    "images": [
+                        "http://ostanegilan.com/wp-content/uploads/2018/07/%D9%BE%D9%84%D9%86%DA%AF-%D9%88%D8%B1.jpg",
+                        "https://secure.gravatar.com/avatar/911c964f48803e8924e7246d2d833f413e4d456c59a2c33a6dcc5d098ca2240c?s=80&d=mm&r=g"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه شفارود",
+                    "images": [
+                        "http://ostanegilan.com/wp-content/uploads/2018/07/%D8%B4%D9%81%D8%A7%D8%B1%D9%88%D8%AF.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه ماسوله رودخان",
+                    "images": [
+                        "http://ostanegilan.com/wp-content/uploads/2018/07/%D9%85%D8%A7%D8%B3%D9%88%D9%84%D9%87-%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه شاخزر",
+                    "images": [
+                        "https://ostanegilan.com/wp-content/uploads/2018/07/ماسوله-رودخان.jpg",
+                        "https://media.mehrnews.com/d/2023/09/18/3/4665377.jpg?ts=1695030390169"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه کرگان رود",
+                    "images": [
+                        "https://tarikhema.org/images/2020/02/244a9306-b9a3-45f9-9517-b4cae5754d86.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه سفید رود",
+                    "images": [
+                        "https://tarikhema.org/images/2020/02/Zarjoob_river_rasht.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه زرجوب گوهر رود",
+                    "images": [
+                        "https://tarikhema.org/images/2020/02/Zarjoob_river_rasht.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رود آستاراچای",
+                    "images": [
+                        "https://seeiran.ir/wp-content/uploads/2014/10/آستاراچای.jpg",
+                        "https://www.otaghak.com/blog/wp-content/uploads/2022/01/about-astara10.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "شفارود",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ماسوله رودخان",
+                    "images": [
+                        "https://majelan-tour.com/wp-content/uploads/2018/05/masouleh-roudkhan-castle-masal-tour-01.jpg",
+                        "https://redbilit.com/wp-content/uploads/2022/01/1569806306770039.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رود شاخزر",
+                    "images": [
+                        "https://ostanegilan.com/wp-content/uploads/2018/07/ماسوله-رودخان.jpg",
+                        "https://dobaresafar.ir/wp-content/uploads/2021/04/رودخانه-سمنان-5.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "لنگرود رودخان",
+                    "images": [
+                        "https://safarzon.com/mag/wp-content/uploads/2019/06/کاور1.jpg",
+                        "https://media.salameno.com/d/2022/12/12/3/15442129.jpg?ts=1670854927000"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "شلمان رود",
+                    "images": [
+                        "https://itto.org/iran/image-bin/192307095752rafd2hysd0.jpg",
+                        "https://itto.org/iran/image-bin/192307095754z87gqmrcet.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "کوه‌ها",
+            "description": [
+                {
+                    "name": "کوه تیلار",
+                    "images": [
+                        "https://soghatgilan.com/wp-content/uploads/2023/02/tilar-talesh-1024x668.jpeg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "قله آسبیناس",
+                    "images": [
+                        "https://siahkaman.com/mag/wp-content/uploads/2023/04/دماوند.jpg",
+                        "https://mojekooh.com/wp-content/uploads/2021/10/کی2-1.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "قله بغروداغ",
+                    "images": [
+                        "https://navardino.ir/mag/wp-content/uploads/2023/12/قله-بغروداغ.jpg",
+                        "https://parsgilda.ir/wp-content/uploads/2022/05/IMG_1193-scaled.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "قله تیلار",
+                    "images": [
+                        "https://parsgilda.ir/wp-content/uploads/2021/06/IMG_6441-scaled.jpg",
+                        "https://parsgilda.ir/wp-content/uploads/2021/06/IMG_6478-scaled.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "دریاچه‌ها",
+            "description": [
+                {
+                    "name": "دریاچه خلشکوه جیرنده",
+                    "images": [
+                        "https://gilan-amlak.com/mag/wp-content/uploads/2024/05/23232355225211.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه ویستان",
+                    "images": [
+                        "https://gilan-amlak.com/mag/wp-content/uploads/2024/05/3232323232111.webp",
+                        "https://www.homsa.net/blog/wp-content/uploads/2024/05/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C-%DA%AF%DB%8C%D9%84%D8%A7%D9%86.jpg5_.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه نئور",
+                    "images": [
+                        "https://gilan-amlak.com/mag/wp-content/uploads/2024/05/232325522225.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه سراگاه",
+                    "images": [
+                        "https://gilan-amlak.com/mag/wp-content/uploads/2024/05/23235656544.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه عروس حلیمه جان",
+                    "images": [
+                        "https://gilan-amlak.com/mag/wp-content/uploads/2024/05/3223232355225.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه ملاط",
+                    "images": [
+                        "https://gilan-amlak.com/mag/wp-content/uploads/2024/05/65556562223.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه لاهیجان",
+                    "images": [
+                        "https://gilan-amlak.com/mag/wp-content/uploads/2024/05/2323232555225.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه گیسوم",
+                    "images": [
+                        "https://gilan-amlak.com/mag/wp-content/uploads/2024/05/23232311.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه دیگه سرا",
+                    "images": [
+                        "https://gilan-amlak.com/mag/wp-content/uploads/2024/05/232356565633.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه سقالکسار",
+                    "images": [
+                        "https://gilan-amlak.com/mag/wp-content/uploads/2024/05/23232114141.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه سراوان",
+                    "images": [
+                        "https://gilan-amlak.com/mag/wp-content/uploads/2024/05/323232111411.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه پیرهرات",
+                    "images": [
+                        "https://gilan-amlak.com/mag/wp-content/uploads/2024/05/32323232111.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه عروس حلیمه جان",
+                    "images": [
+                        "https://www.homsa.net/blog/wp-content/uploads/2024/05/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C-%DA%AF%DB%8C%D9%84%D8%A7%D9%86.jpg4_.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه کومله",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه خولشکو جیرنده",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه عروس",
+                    "images": [
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2021/01/7-8.jpg",
+                        "https://dobaresafar.ir/wp-content/uploads/2021/03/دریاچه-عروس-1-768x709.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه سراگاه",
+                    "images": [
+                        "https://www.homsa.net/blog/wp-content/uploads/2024/05/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C-%DA%AF%DB%8C%D9%84%D8%A7%D9%86.jpg8_.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه خولشکوه",
+                    "images": [
+                        "https://www.homsa.net/blog/wp-content/uploads/2024/05/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C-%DA%AF%DB%8C%D9%84%D8%A7%D9%86.jpg9_.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه استیل",
+                    "images": [
+                        "https://www.homsa.net/blog/wp-content/uploads/2024/05/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C-%DA%AF%DB%8C%D9%84%D8%A7%D9%86.jpg11.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه ملاط",
+                    "images": [
+                        "https://www.homsa.net/blog/wp-content/uploads/2024/05/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C-%DA%AF%DB%8C%D9%84%D8%A7%D9%86.jpg13.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه گیسوم",
+                    "images": [
+                        "https://www.homsa.net/blog/wp-content/uploads/2024/05/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C-%DA%AF%DB%8C%D9%84%D8%A7%D9%86.jpg16.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه پیر هرات",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "کومله استخری",
+                    "images": [
+                        "https://eghamatyar.org/blog/wp-content/uploads/2025/01/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87-%DA%A9%D9%88%D9%85%D9%84%D9%87.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "چشمه‌ها",
+            "description": [
+                {
+                    "name": "چشمه آبگرم ماستخور",
+                    "images": [
+                        "https://www.mihmansho.com/mag/Files/Root/exteraImage/f32b940a-5ab6-4a7e-ad19-e40252224db2_mihmansho.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم کلشتر",
+                    "images": [
+                        "https://www.mihmansho.com/mag/Files/Root/exteraImage/f32b940a-5ab6-4a7e-ad19-e40252224db2_mihmansho.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم کولور",
+                    "images": [
+                        "https://www.mihmansho.com/mag/Files/Root/exteraImage/f32b940a-5ab6-4a7e-ad19-e40252224db2_mihmansho.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم لویه",
+                    "images": [
+                        "https://www.mihmansho.com/mag/Files/Root/exteraImage/f32b940a-5ab6-4a7e-ad19-e40252224db2_mihmansho.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم علی داشی",
+                    "images": [
+                        "https://www.mihmansho.com/mag/Files/Root/exteraImage/f32b940a-5ab6-4a7e-ad19-e40252224db2_mihmansho.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم کوته کومه",
+                    "images": [
+                        "https://www.mihmansho.com/mag/Files/Root/exteraImage/f32b940a-5ab6-4a7e-ad19-e40252224db2_mihmansho.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه معدنی آب شور لاکان",
+                    "images": [
+                        "https://www.mizanonline.ir/client/themes/fa/main/img/defultpic.png",
+                        "https://tabiattour.ir/wp-content/uploads/2020/06/چشمه-آب-شور-لاکان.jpg",
+                        "https://villarabet.com/wp-content/uploads/2021/06/چشمه-آب-معدنی-چشماگل-چشماگل-سنگر-چشمه-چشماگل-طالم-سه-شنبه-سنگر-چشمه-چشماگل-سه-شنبه-چشمه-چشماگل-رشت-کجاست-ویلاراب-1-555x360.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب معدنی چشماگل",
+                    "images": [
+                        "https://www.mizanonline.ir/client/themes/fa/main/img/defultpic.png",
+                        "https://villarabet.com/wp-content/uploads/2021/06/چشمه-آب-معدنی-چشماگل-چشماگل-سنگر-چشمه-چشماگل-طالم-سه-شنبه-سنگر-چشمه-چشماگل-سه-شنبه-چشمه-چشماگل-رشت-کجاست-ویلاراب-2.jpg",
+                        "https://valimeh.com/wp-content/uploads/آب-معدنی-چشماگل-660x330.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه های آب معدنی سنگرود",
+                    "images": [
+                        "https://www.mizanonline.ir/client/themes/fa/main/img/defultpic.png",
+                        "https://aftabnews.ir/files/fa/news/1400/12/26/841290_317.jpg",
+                        "https://aftabnews.ir/files/fa/news/1400/12/26/841314_936.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب گاز سنگرود",
+                    "images": [
+                        "https://www.mizanonline.ir/client/themes/fa/main/img/defultpic.png",
+                        "https://rasekhoon.net/_files/thumb_images700/article/230971_312.jpg",
+                        "https://setare.com/files/1397/11/27/چشمه-آب-گرم-سنگرود-1024x658.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب کولور سنگرود",
+                    "images": [
+                        "https://www.mizanonline.ir/client/themes/fa/main/img/defultpic.png",
+                        "https://rasekhoon.net/_files/thumb_images700/article/230971_312.jpg",
+                        "https://aftabnews.ir/files/fa/news/1400/12/26/841314_936.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب معدنی زمزمه",
+                    "images": [
+                        "https://seeiran.ir/wp-content/uploads/2014/10/چشمه-زمزمه-1.jpeg",
+                        "https://media.imna.ir/d/2021/04/09/4/1692171.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب معدنی چشماگل شنبه",
+                    "images": [
+                        "https://villarabet.com/wp-content/uploads/2021/06/چشمه-آب-معدنی-چشماگل-چشماگل-سنگر-چشمه-چشماگل-طالم-سه-شنبه-سنگر-چشمه-چشماگل-سه-شنبه-چشمه-چشماگل-رشت-کجاست-ویلاراب-2.jpg",
+                        "https://villarabet.com/wp-content/uploads/2021/06/چشمه-آب-معدنی-چشماگل-چشماگل-سنگر-چشمه-چشماگل-طالم-سه-شنبه-سنگر-چشمه-چشماگل-سه-شنبه-چشمه-چشماگل-رشت-کجاست-ویلاراب-1-300x200.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب معدنی سجیران",
+                    "images": [
+                        "https://villarabet.com/wp-content/uploads/2021/06/آب-معدنی-سجیران-سجیران-گیلان-ویلارابط-جاذبه-گردشگری-3.jpg",
+                        "https://yaldamedtour.com/images/content-image/2021/03/iranwatching-2090-1617000946-sajiran.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب گرم ماستخور",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه های آب معدنی سنگرود",
+                    "images": [
+                        "https://www.beytoote.com/images/stories/iran/ir3736-3.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "آبشارها",
+            "description": [
+                {
+                    "name": "آبشار دودوزن شفت",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Doodvazan-Waterfall-1.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار زمرد تالش",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Zomorrod-water-fall.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار لاتون آستارا",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Latoon-waterfall-1.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار لونک دیلمان",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Lounak-%E2%80%8C%E2%80%8CW%E2%80%8C%E2%80%8Caterfall.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار ورزان تالش",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Varzan-Waterfall-in-talesh.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار لوشکی تالش",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Visadar-Waterfall-in-rezvanshahr.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار ویسادار رضوانشهر",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Visadar-Waterfall-in-rezvanshahr.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار چالدشت لنگرود",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Chaldasht-waterfall-in-langrood.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار تولی نساء ماسال",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Sheitankooh-waterfall.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار شیطان کوه لاهیجان",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Sheitankooh-waterfall.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار لاس لپوندان شفت",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Lasposht-waterfall.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار میلاش رودسر",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Millash-waterfall.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار کلشتر رودبار",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Keleshter-wateffall.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار اشکلیت ماسوله",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Koosham-waterfall-in-masooleh.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار کوشم ماسوله",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Koosham-waterfall-in-masooleh.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "امکانات آبشار دودوزن",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Zomorrod-water-fall.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "تفریحات آبشار زمرد",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Latoon-waterfall-1.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار لوشکی",
+                    "images": [
+                        "https://www.mahbantour.com/storage/tour/882/FZ9J420703.jpg",
+                        "https://pinno.app/api/internal/cdb/contents/b3da17b2-590b-45d7-8002-f6d8314835c4/603132/593883"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار دودوزن",
+                    "images": [
+                        "https://media.karnaval.ir/uploads/2020/03/bafe9a0d-a24f-456a-a8dd-6e9268aa1f2c.jpg",
+                        "https://cdn.tourinpersia.com/main/2021/04/doodvazan-4.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار زمرد",
+                    "images": [
+                        "https://cdn.mashreghnews.ir/d/2020/06/22/4/2832541.jpg",
+                        "https://cdn.yjc.ir/files/fa/news/1399/4/2/12110855_594.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار لونک",
+                    "images": [
+                        "https://anyja.ir/assets/upload/blog/AR-4175-1402-4-12-10-26-5p9fj.jpg",
+                        "https://last-cdn.com/2019/12/15/CjByxpBGpbpFXZjCOe0G58ZGNBDwXbQV8STrDrXY.jpeg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار لاتون آستارا بلندترین آبشار ایران",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_image",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار ماسوله رودخان",
+                    "images": [
+                        "https://www.jajiga.com/mag/wp-content/uploads/2022/05/آبشار_خربو.jpg",
+                        "https://storage.jajiga.com/mag/2022/07/ماسوله-رودخان.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار خرم بو خربو ماسوله",
+                    "images": [
+                        "https://www.jajiga.com/mag/wp-content/uploads/2022/07/آبشار_خربو.jpg",
+                        "https://luxvila.ir/wp-content/uploads/2022/06/ABSHAR-KHORAM-BO-1.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار توریشوم ماسوله",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_image",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار دودوزن سیاهمزگی",
+                    "images": [
+                        "https://mag.parsnews.com/wp-content/uploads/2021/11/111-696x454.jpg",
+                        "https://villarabet.com/wp-content/uploads/2021/06/روستای-سیاهمزگی-کجاست-روستای-سیاهمزگی-شفت-روستای-سیاهمزگی-در-گیلان-دودوزن-شفت-کجاست-روستای-خرمکش2-750x500.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار لاس شفت",
+                    "images": [
+                        "https://www.otaghak.com/blog/wp-content/uploads/2023/05/shaft-lasposht.jpg",
+                        "https://www.jajiga.com/mag/wp-content/uploads/2023/01/abshar-shaft-lasposht.png"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار آسیاب رود رودبار",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_image",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار سیاه تاش املش",
+                    "images": [
+                        "https://intoday.ir/wp-content/uploads/2020/12/siyahtash-waterfall1.jpg",
+                        "https://blog.rahbal.com/wp-content/uploads/2021/06/Black-Stone-Waterfall.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشارجیره ",
+                    "images": [
+                        "https://www.jajiga.com/mag/wp-content/uploads/2022/07/ابشار-شاندرمن.jpg",
+                        "https://www.jajiga.com/mag/wp-content/uploads/2022/07/ماسوله-رودخان.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "مشخصات آبشار دودوزن خرم کش",
+                    "images": [
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D8%AF%D9%88%D8%AF%D9%88%D8%B2%D9%86-4.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "اقامت آبشار دیدنی دودوزن",
+                    "images": [
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/wood-bridge-dodvazan.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "فاصله فومن آبشار دودوزن",
+                    "images": [
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D8%AF%D9%88%D8%AF%D9%88%D8%B2%D9%86-3.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "فاصله رشت آبشار دودوزن",
+                    "images": [
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D8%AF%D9%88%D8%AF%D9%88%D8%B2%D9%86-3.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "جنگل نوردی مسیر آبشار",
+                    "images": [
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Cdninstagram-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D8%AF%D9%88%D8%AF%D9%88%D8%B2%D9%86.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "دشت‌ها",
+            "description": [
+                {
+                    "name": "ییلاق خصیب دشت بهشت طبیعتگردی",
+                    "images": [
+                        "https://www.otaghak.com/blog/wp-content/uploads/2023/05/khasib-dasht-summerhouse.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "منطقه ییلاقی دشت النزه",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ییلاق خصیل دشت املش",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_image",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "منطقه ییلاقی هلودشت",
+                    "images": [
+                        "https://blog.rahbal.com/wp-content/uploads/2022/08/dasht-e-Haludash-to-amlash-1024x512.jpg",
+                        "https://blog.rahbal.com/wp-content/uploads/2022/08/dasht-e-Haludash-1024x512.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دشت النزه زیباترین ییلاق شاندرمن",
+                    "images": [
+                        "https://www.jabama.com/mag/wp-content/uploads/2023/05/%D8%AF%D8%B4%D8%AA-%D8%A7%D9%84%D9%86%D8%B2%D9%87%D8%8C-%D8%B2%DB%8C%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C%D9%86-%DB%8C%DB%8C%D9%84%D8%A7%D9%82-%D8%B4%D8%A7%D9%86%D8%AF%D8%B1%D9%85%D9%86.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "منطقه ییلاقی خصیل دشت املش",
+                    "images": [
+                        "https://www.jabama.com/mag/wp-content/uploads/2023/05/%D9%85%D9%86%D8%B7%D9%82%D9%87-%DB%8C%DB%8C%D9%84%D8%A7%D9%82%DB%8C-%D8%AE%D8%B5%DB%8C%D9%84%E2%80%8C-%D8%AF%D8%B4%D8%AA-%D8%A7%D9%85%D9%84%D8%B4.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ییلاق هلودشت املش",
+                    "images": [
+                        "https://www.jabama.com/mag/wp-content/uploads/2023/05/%DB%8C%DB%8C%D9%84%D8%A7%D9%82-%D9%87%D9%84%D9%88%D8%AF%D8%B4%D8%AA-%D8%A7%D9%85%D9%84%D8%B4.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دشت النزه ماسال",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Rudkhan-castle-in-gilan.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ییلاق هلودشت",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Khurgam.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ییلاق جواهر دشت",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Javaher-dasht.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ییلاق شکردشت",
+                    "images": [
+                        "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Anzali-wetland.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آب",
+            "description": [
+                "وضعیت آب سطحی و زیرزمینی مطلوب",
+                "فراوانی رودها و آبگیرها",
+                "سفره های آب شیرین غنی"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "عدم ذکر منابع معدنی خاص در متن"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "irrelevant"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "معادن",
+            "description": [
+                "سنگ گرانیت قرمز",
+                "سنگ تزئینی نما",
+                "خاک نسوز",
+                "زغال سنگ",
+                "بنتونیت",
+                "دولومیت",
+                "صدف",
+                "مارن"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": [
+                "مناطق کوهستانی و جلگه‌ای",
+                "وجود دره و دشت‌های وسیع",
+                "تنوع اقلیمی در ارتفاعات مختلف"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ارتفاعات",
+            "description": [
+                "کوه های تالش و البرز",
+                "دامنه های شیب دار",
+                "ارتفاعات تا 2510 متر"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "وجود گسل های متعدد",
+                "شکستگی مخروط افکنه ها",
+                "ظهور چشمه های متعدد"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "نتیجه فعالیت نیروهای درونی و بیرونی زمین",
+                "شکل گیری در دوره های مختلف زمین شناسی",
+                "تأثیر کوه زایی آلپی در شکل گیری نهایی"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "پارک جنگلی سراوان",
+            "images": [
+                "https://www.pateh.com/blog/wp-content/uploads/2024/07/saravan-forest.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "برای رهایی از هیاهوی شهر و غرق شدن در طبیعت، سری به پارک جنگلی سراوان از جمله جاهای دیدنی گیلان بزنید",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه سقالکسار",
+            "images": [
+                "https://www.pateh.com/blog/wp-content/uploads/2024/07/lake.webp",
+                "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Latoon-waterfall.webp",
+                "https://last-cdn.com/2023/08/27/6ytlNc2pldOxxLTxvEYObRMBZymySVVe4a40aJFT.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "در اعماق جنگل‌ها و جاهای دیدنی گیلان، دریاچه‌ای بکر و آرامش‌بخش به نام سقالکسار انتظار شما را می‌کشد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک جنگلی ریزه مندان",
+            "images": [
+                "https://www.pateh.com/blog/wp-content/uploads/2024/07/rizeh-mandan.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "پارک جنگلی ریزه مندان یکی از بزرگ‌ترین پارک‌های جنگلی استان گیلان است که با طبیعت بکر و امکانات تفریحی متنوع، مکانی مناسب برای گذراندن اوقات فراغت است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک جنگلی سیاه داران",
+            "images": [
+                "https://www.pateh.com/blog/wp-content/uploads/2024/07/jungle-park.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "پارک جنگلی سیاه‌داران، یکی از زیباترین و محبوب‌ترین مقاصد گردشگری در استان گیلان و به ویژه شهرستان تالش به شمار می‌رود",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "شیطان کوه",
+            "images": [
+                "https://www.pateh.com/blog/wp-content/uploads/2024/07/sheytankooh.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "شیطان کوه، با ارتفاعی حدود ۷۰۰ متر، بلندترین نقطه شهر لاهیجان و یکی از دیدنی‌ترین جاذبه‌های طبیعی گیلان است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار لاتون",
+            "images": [
+                "https://www.pateh.com/blog/wp-content/uploads/2024/07/latun-fall.webp",
+                "https://last-cdn.com/2023/08/27/snnFvUihlkIyiCSyJ3wxX6Mx2zNTbULZK3LZ57yx.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار لاتون، با ارتفاعی نزدیک به 105 متر، بلندترین آبشار ایران و یکی از زیباترین جاذبه‌های طبیعی کشورمان است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دشت النزه ماسال",
+            "images": [
+                "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Rudkhan-castle-in-gilan.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دشت النزه یکی از جاهای دیدنی گیلان در فصل بهار است و در اواسط اردیبهشت شما می‌توانید مطلوب‌ترین آب و هوای این منطقه را مشاهده کنید",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ییلاق هلودشت",
+            "images": [
+                "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Khurgam.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "ییلاق هلودشت در ارتفاعات شهرستان املش قرار دارد که به هالی دشت نیز معروف است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ییلاق شکردشت",
+            "images": [
+                "https://cdn.ghasedak24.com/mag/wp-content/uploads/2024/05/Anzali-wetland.webp"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "ییلاق شکردشت یکی از زیباترین جاهای دیدنی گیلان است که به شکردشت سوباتان نیز معروف است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه رودخان",
+            "images": [
+                "https://emroozkojaberim.com/mi_ax/Original/1402/12/914.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": "ی تاریخی و جذابیت‌های طبیعی به عنوان یک مقصد فرهنگی و تاریخی برجسته محسوب می‌شود",
+            "description": "قلعه رودخان از مهمترین و جذاب‌ترین جاهای دیدنی گیلان است که با معماری تاریخی و جذابیت‌های طبیعی به عنوان یک مقصد فرهنگی و تاریخی برجسته محسوب می‌شود",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه سقالکسار",
+            "images": [
+                "https://emroozkojaberim.com/mi_ax/Original/1402/12/917.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سقالکسار یکی از جاذبه‌های گردشگری بسیار زیبا و از جاهای دیدنی گیلان در شمال ایران است که با تنوع طبیعتی و امکانات گردشگری غنی، سفری لذت‌بخش را برای بازدیدکنندگان به ارمغان می‌آورد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "شیطان کوه",
+            "images": [
+                "https://emroozkojaberim.com/mi_ax/Original/1402/12/918.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "شیطان کوه یکی از جاهای دیدنی گیلان با زیبایی‌های طبیعی، امکانات تفریحی و جاذبه‌های گردشگری متنوع خود شناخته شده است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار لاتون",
+            "images": [
+                "https://emroozkojaberim.com/mi_ax/Original/1402/12/923.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار لاتون یکی از زیباترین جاهای دیدنی گیلان است که به دلیل زیبایی طبیعی خاص و ارتفاع قابل توجه خود، همواره مورد توجه گردشگران داخلی و خارجی قرار دارد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "جواهردشت",
+            "images": [
+                "https://emroozkojaberim.com/mi_ax/Original/1402/12/925.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "جواهردشت یکی از جاهای دیدنی استان گیلان در شمال ایران است که به خاطر زیبایی‌های طبیعی و جاذبه‌های گردشگری خاص خود، مورد توجه مسافران قرار گرفته است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار ویسادار",
+            "images": [
+                "https://emroozkojaberim.com/mi_ax/Original/1402/12/927.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار ویسادار یکی از جاذبه‌های طبیعی زیبا در استان گیلان، ایران است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک جنگلی سراوان",
+            "images": [
+                "https://emroozkojaberim.com/mi_ax/Original/1402/12/933.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "پارک جنگلی سراوان یکی از جاهای دیدنی گیلان، با تنوع طبیعی، جاذبه‌های گردشگری و امکانات فراوان، محلی مناسب برای تفریح و گردش در طبیعت است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "خانه میرزا خان جنگلی",
+            "images": [
+                "https://media.salameno.com/d/2021/12/03/4/15268328.jpg",
+                "https://dojinja.com/wp-content/uploads/2023/07/1690774208358.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "خانه میرزا کوچک‌خان جنگلی از دیگر جاذبه‌های دیدنی استان گیلان است که بازدید از آن، لطف خاص خودش را دارد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه عروس",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2021/01/7-8.jpg",
+                "https://dobaresafar.ir/wp-content/uploads/2021/03/دریاچه-عروس-1-768x709.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "یکی دیگر از جاذبه‌هایی که طبیعت گیلان را بسیار دیدنی کرده، دریاچه عروس است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه رودخان",
+            "images": [
+                "https://last-cdn.com/2023/08/27/9IxD6lGka5QWvydMRoTglQQCLyS4YN0jNT7VtngJ.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "از دیگر جاهای دیدنی گیلان که عطر‌و‌بوی تاریخ را با خود به‌همراه دارد، قلعه رودخان است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چشمه آبگرم علی زاخونی",
+            "images": [
+                "https://villarabet.com/wp-content/uploads/2021/06/چشمه-های-آب-معدنی-علی-زاخونی-و-زمزمه-چشمه-علی-زاخونی-فومن-چشمه-آب-معدنی-زمزمه-چشمه-زمزمه-فومن.jpg",
+                "https://last-cdn.com/2019/06/06/66DSlM0v277coHInaHiZZ9ZW217zxRWAwDXi3HEz.jpeg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "از دیگر جاهای دیدنی استان گیلان، چشمه طبیعی آبگرم علی زاخونی است که از دل کوه‌های ماسوله می‌جوشد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دشت آلنزه",
+            "images": [
+                "https://www.otaghak.com/blog/wp-content/uploads/2023/08/درباره-دشت-النزه-مجله-اتاقک.jpg",
+                "https://itavila.com/wp-content/uploads/yeylagh-dashte-alanze.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "ماسال جاذبه‌های بصری فوق‌العاده زیادی دارد که دشت آلنزه یکی دیگر از آن‌هاست",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار سیاه تاش",
+            "images": [
+                "https://intoday.ir/wp-content/uploads/2020/12/siyahtash-waterfall1.jpg",
+                "https://blog.rahbal.com/wp-content/uploads/2021/06/Black-Stone-Waterfall.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "در فاصله ۲۰ کیلومتری از مرکز املش، آبشاری مرتفع و دیدنی وجود دارد که گردشگران را حسابی به وجد می‌آورد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک جنگلی سیاه داران",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1933/3326.jpg",
+                "https://www.alaedin.travel/Files/Jazebe/Talesh/siahdaran-jungle-park-in-talesh/Alaedin-Travel-Agency-Attraction-Park-Jungle-Siahdaran-Talesh-14.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "پارک جنگلی سیاه‌داران نیز از بهترین جاهای دیدنی گیلان است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار ماهی مشو",
+            "images": [
+                "https://i1.delgarm.com/i/766/0107/07/1664442646d66c.jpg",
+                "https://hamyartrip.ir/wp-content/uploads/2024/05/The-view-of-Mahi-Meshu-waterfall.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "برای آبشار ماهی مشو هیچ توصیفی دقیق‌تر و کامل‌تر از بهشت نداریم! این جاذبه طبیعی به‌واسطه وجود درختان سرسبز و صدای خوش پرندگان در آن، حال‌وهوایی بهشتی پیدا کرده است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ییلاق جواهردشت",
+            "images": [
+                "https://safarmarket.com/blog/data/uploaded_files/efe00dcf28cedc97908908c4.jpg",
+                "https://saednews.com/storage/media-center/images/ac-image-YM1674749750kp.jpeg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "از دیگر جاهای دیدنی گیلان که شما را حسابی غافلگیر می‌کند، ییلاق جواهردشت است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "سد سفیدرود",
+            "images": [
+                "https://yaldamedtour.com/images/content-image/2021/03/iranwatching-2071-1615448774-manjil-dam-1.jpg",
+                "https://intoday.ir/wp-content/uploads/2020/08/sefidrood-lake.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "از دیگر جاهای دیدنی استان گیلان که شکوه و عظمت آن، هر گردشگری را متحیر و شگفت‌زده می‌کند، سد سفیدرود یا سد منجیل است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار ویسادار",
+            "images": [
+                "https://last-cdn.com/2023/08/27/12BSYwCip30sKKmCKl5q2CJolY3u04KqTb2lewbH.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از دیدنی‌ترین جاذبه های گردشگری گیلان، آبشار ویسادار است که در منطقه رضوان‌شهر قرار دارد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار زمرد",
+            "images": [
+                "https://last-cdn.com/2023/08/27/lDiiDOaM4cU8iUP3nW7JuPSoFUSKURZsSKHBKCPd.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار زمرد را با نام آبشار دوقلو هم می‌شناسند؛ چراکه اگر از رو‌به‌رو به آن نگاه کنید، دو آبشار خواهید دید که یکی از دیگری کوچک‌تر است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار دودوزن",
+            "images": [
+                "https://last-cdn.com/2023/08/27/rCc0gc6ZsujVkDk2mmKkA8q8GdnHzcCcaM8mVnpK.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار دودوزن، در روستای سیاه‌مزگی قرار گرفته است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "جنگل دریاچه سراوان",
+            "images": [
+                "https://last-cdn.com/2023/08/27/lEyzrNp0n1him9n1REZxdvtSKqip6p1rKTYqA5LO.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سبزی بی‌پایان و انبوه؛ این اولین تصویر شما از مواجهه با پارک جنگلی سراوان است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "جنگل گیسوم",
+            "images": [
+                "https://last-cdn.com/2023/08/27/Hd4kMznA0JeBvMawtBuV9rTaqdxXvrKvg1PUgutB.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "کنار هم قرار گرفتن دریا و جنگل اتفاق کم‌نظیری است که در جنگل گیسوم، به‌عنوان یکی از زیباترین دیدنی های گیلان، می‌توانید شاهدش باشید",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پل خشتی لنگرود",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1613/990.jpg"
+            ],
+            "year_built": "دوران میشود.",
+            "architect": null,
+            "constructor": null,
+            "description": "شهرستان لنگرود یکی از شهرستانهای استان گیلان است که در غرب به شهرستان لاهیجان و در شرق به شهرستان رودسر منتهی می‌شود.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تالاب کیاکلایه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1926/img_9559.jpg",
+                "https://fa.tripyar.com/uploads/picture/1926/img_9543.jpg",
+                "https://fa.tripyar.com/uploads/picture/1926/img_9561.jpg",
+                "https://fa.tripyar.com/uploads/picture/1926/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1926/img_9548.jpg",
+                "https://fa.tripyar.com/uploads/picture/1926/img_9545.jpg",
+                "https://fa.tripyar.com/uploads/picture/1926/img_9546.jpg",
+                "https://fa.tripyar.com/uploads/picture/1926/img_9554.jpg",
+                "https://fa.tripyar.com/uploads/picture/1926/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/1926/img_9542.jpg",
+                "https://fa.tripyar.com/uploads/picture/1926/img_9552.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": null,
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منطقه ییلاقی لیلاکوه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1942/ir3176-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1942/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1942/ir3176-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1942/leilakooh-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/1942/ir3176-1.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "منطقه ییلاقی لیلاکوه یکی از مناطق گردشگری و زیبای شمال ایران است که در نزدیکی شهر لنگرود در استان گیلان قرار دارد و همه ساله مسافران و طبیعت‌دوستان بسیاری را به خود جذب می‌کند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ساحل چمخاله",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2022/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/55.jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/ch-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/12652.jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/44.jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/seastar-(2).jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2022/banner.en.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "ساحل چمخاله یکی از زیباترین و مجهزترین و همچنین کم خطرترین ساحل های موجود در کشور است که در سال هزار و سیصد و نود نیز از جانب وزارت کشور به عنوان بهترین ساحل استان گیلان انتخاب گردید. بهترین جاذبه های چمخاله ساحل ماسه ای بسیارزیبا و رودخانه بزرگ چمخاله میباشد. این منطقه زیبا، نزدیکترین ساحل به لنگرود بوده و یکی از نقاط توریستی گیلان به شمار می آید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پل لیشاوندان گیلان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3341/3.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "پل لیشاوندان مربوط به دوره قاجار است و در شهرستان شفت، در روستای لیشاوندان واقع شده است. این رود بارها شاهد عبور نیروهای قزاق و مبارزان جنگلی از فراز خود بوده است. این پل که در میان مردم منطقه به مرغانه پل نیز معروف است، در تاریخ 12 آذر 1375 با شمارهٔ ثبت 1782 به ‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار دودوزن خرم کش",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan1400.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-20.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-24.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-23.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-19.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/banner.en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2399/doodvazan-7.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار دودوَزَن از آبشارهای زیبای استان گیلان است که در منطقه کوهستانی و ییلاقی سیاهمزکی قرار گرفته است. از آنجا که پژوهش های دقیقی در مورد این آبشار صورت نگرفته ارتفاع دقیق آن مشخص نیست اما حدود 54 متر تخمین زده شده است. پوشش جنگلی انبوه، رودخانه های پر جوش و خروش، چشمه های گوارا و زیبایی های کم نظیر در حوالی این آبشار از تماشایی ترین مناطق ایران هستند. این منطقه کوهستانی دارای هوای خنک در بهار و تابستان است. قرار گیری این آبشار در میان جنگلی انبوه و راه دسترسی مناسب از دلایل جذب گردشگر به این منطقه است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "السبلنگاه ماسال",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2429/olsabelangah-41.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-28.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olsabelangah-39.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olsabelangah-30.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-29.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-32.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-27.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-36.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-40.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasablangah.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-26.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-33.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olsabelangah-31.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-24.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-34.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-38.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/banner.en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/2429/olasblangah-35.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "اُلَسَبِلَنگاه ییلاق و روستایی در ارتفاعات ماسال است. این منطقه چشم و چراغ ییلاق های این شهر است و جایگاه ویژه و محبوبی در میان ییلاق های اطراف ماسال دارد. مردم ماسال هر بهار و تابستان کوچ خود را از شهر، به این منطقه می آورند. ییلاق ماسال از مناطق بی نظیر ایران است و اولسبلنگاه از بهترین مقاصد اکوتوریسم در ایران محسوب می ‌شود. غروب در ارتفاعات اولسبلانگاه بسیار خیال ‌انگیز و زیبا است. در این منطقه ییلاقی بهترین لحظات حضور در طبیعت را به یادگار خواهید برد، در ارتفاعات آن حضور در دل آسمان و بودن روی زمین را بطور هم زمان تجربه خواهید کرد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "غار آویشوی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1870/irancaves_3_4_1806_(www.irancaves.com).jpg",
+                "https://fa.tripyar.com/uploads/picture/1870/avisho-nama.jpg",
+                "https://fa.tripyar.com/uploads/picture/1870/216.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از جاذبه های و پدیده های زیبایی که در نوع خود در استان گیلان بی نظیر است غار آویشوی واقع در منطقه ای به همین نام در 40 کیلومتری جنوب غربی شهر شاندرمن شهرستان ماسال است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "جواهردشت رودسر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2822/javaherdasht-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2822/javaherdasht-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2822/javaherdasht-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2822/javaherdasht-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2822/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2822/javaherdasht-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2822/javaherdasht-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2822/javaherdasht.jpg",
+                "https://fa.tripyar.com/uploads/picture/2822/javaherdasht-2.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "جواهر دشت، از زیباترین دشت ‌های ایران است که در خطه سرسبز گیلان واقع شده است. طبیعت بکر، دشت ‌های وسیع و سرسبز، هوای پاک، سکوت وصف ناپذیر در این منطقه زیبا در شرق گیلان گرد هم آمده و پذیرای گردشگران و مسافران ایرانی و خارجی است. وسعت سبزه زارانی چون ناصره دشت و لووه سر و منظره چریدن دامها از هر بیننده ‌ای دلربایی می ‌کنند و طبیعت دل انگیز باعث آرمش بیشتر می شود. این همه نشاط و سرور و جنب و جوش مرهون هوای سالم و روح بخش کوهستانی جواهر دشت است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "اشکورات",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1932/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/1932/999.jpg",
+                "https://fa.tripyar.com/uploads/picture/1932/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/1932/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/1932/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/1932/15.jpg",
+                "https://fa.tripyar.com/uploads/picture/1932/44.jpg",
+                "https://fa.tripyar.com/uploads/picture/1932/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/1932/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/1932/16.jpg",
+                "https://fa.tripyar.com/uploads/picture/1932/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/1932/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1932/10.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "استان گیلان با دارا بودن جاذبه های طبیعی بکر و چشم اندازهای زیبای خود، همواره مقصد ایده آلی برای طبیعت گردان بوده است. از جمله مهم ترین این مناطق، اشکورات می باشد که علاوه بر طبیعت منحصر به فرد خود، دارای آثار باستانی و تاریخی ارزشمند نیز است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار چشمه سجیران",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1967/-1389550253.jpg",
+                "https://fa.tripyar.com/uploads/picture/1967/22.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "استان گیلان دارای جاذبه های طبیعی بسیار است که شهرستان رودسر نیز از این طبیعت زیبا بهره مند است. از جاذبه های رودسر آبشار و چشمه معدنی سجیران را به شما معرفی میکنیم. این آبشار از تفرجگاههای مهم مردم منطقه و استان است و با 60 متر ارتفاع همچون دیواری عظیم در برابر دیدگانتان به تصویر کشیده شده است. همچنین چشمه آب معدنی سجیران که فواید بیشمار دارد از جلوه های اعجاز انگیز این منطقه از ایران کهن است. این چشمه بعنوان سنگ شکن کلیه و درمان کننده قارچهای پوست و ناخن در منطقه از اعتبار بسیار برخوردار است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار ورزان تالش",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2102/varzan-waterfall-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2102/varzan-waterfall-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2102/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2102/varzan-waterfall-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2102/varzan-waterfall.jpg",
+                "https://fa.tripyar.com/uploads/picture/2102/banner.en.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "از جلوه‌های دیدنی استان گیلان آبشار ورزان است که تنها در چند کیلومتری ییلاق سوباتان قرار گرفته است. نمای زیبای این آبشار همراه با صخره‌ های عظیم و دشت ‌های سرسبز اطرافش، طبیعت این منطقه را محبوب گردشگران زیادی کرده است، آبشاری که در فصل بهار به پرآب ترین زمان خود میرسد و در نهایت به رودخانه سوباتان منتهی میشود …",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ناوان تالش",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2424/navan-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/2424/navan-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2424/navan-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/2424/navan-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2424/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2424/navan-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/2424/navan-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/2424/navan-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/2424/navan-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2424/navan.jpg",
+                "https://fa.tripyar.com/uploads/picture/2424/navan-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2424/navan-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2424/banner.en.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "ناوان روستا و منطقه ای ییلاقی در بخش مرکزی شهرستان تالش در استان گیلان است. ناوان با چشمه های گوارا و آبشاری دل انگیز و طبیعتی زیبا از بهترین مناطق گردشگری شهرستان تالش محسوب می شود. آق اِولَر یا مریان با کاخ های باستانی و ناوان با داشتن گورهای 2000 ساله از دیدنی ترین مناطق این شهرستان به شمار می روند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ییلاق سوباتان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1894/27.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/21.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/114.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/28.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/15.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/29.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/18.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/155.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/16.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/17.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/23.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1894/222.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "به جرات یکی از زیباترین نقاط طبیعت ایران است که بدلیل سختی دسترسی برای عموم کمتر شناخته شده است ولی دربین ماجراجویان ایرانگردی به زیبایی بی وصف شهره است. سوباتان در ارتفاعات تالش قرار دارد ولی عموما گردشگران از ضلع جنوب غربی ارتفاعات و از دریاچه نئور راهپیمایی به سمت این دهکده بی نظیر را آغاز می کنند. بهترین زمان برای سفر به سوباتان خرداد ماه است که گل های تازه شکفته و عطرآگین زیبایی بهشتی این منطقه را بی مثال می کنند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار زمرد، گیلان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1911/آبشار-زمرد-حویق-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1911/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1911/1226.jpg",
+                "https://fa.tripyar.com/uploads/picture/1911/dsc_3002.jpg",
+                "https://fa.tripyar.com/uploads/picture/1911/30380.jpg",
+                "https://fa.tripyar.com/uploads/picture/1911/ش.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "استان سر سبز و زیبای گیلان به دلیل آب و هوایی که دارد، سرشار از جاذبه های توریستی طبیعی است که واقعا برای طراوت روح هر جنبده ای مفیدند. آبشار ها در کنار پهنه های سبز مخصوصا در فصل بهار در این استان لطف دیگری دارد. اگر می خواهید به یکی از بکرترین جاذبه های گردشگری شمالی ایران بروید باید گیلان را انتخاب کنید. در این استان درست در شهر حویق شما می توانید از آبشار زمرد دیدن کنید. این آبشار زیبا که از ممتاز ترین جاذبه های گردشگری ایران است، در کنار طبیعتی زیبا انتقال دهنده ی حس آرامش و امید به زندگی است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک جنگلی گیسوم",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/964/gisum-forest-park-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/964/gisum-forest-park-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/964/gisum-forest-park.jpg",
+                "https://fa.tripyar.com/uploads/picture/964/gisum-forest-park-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/964/gisum-forest-park-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/964/gisum-forest-park-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/964/gisum-forest-park-6.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از نقاط دیدنی استان گیلان و شهرستان تالش پارک جنگلی گیسوم است. مسیری زیبا و دیدنی درختان سر به فلک کشیده آن تونلی جنگلی را ایجاد کرده است که دل هر بیننده‌ای را با خود می‌برد. در جنوب گیسوم، رضوانشهر به فاصله 14کیلومتر و شمال آن، شهر هشتپر با فاصله حدود 20کیلومتر قرار دارد. جاده گیسوم تونلی جنگلی را با نسیم خنک کوهستان های تالش در هم آمیخته تا تن و جان هر رهگذری را آرامش ببخشد و روحش را آسایش دهد. گیسوم جایی است که جنگل و دریا به هم می رسند و سحر طبیعت به اوج خود می رسد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک جنگلی سیاه داران",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1933/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1933/46829.jpg",
+                "https://fa.tripyar.com/uploads/picture/1933/46827.jpg",
+                "https://fa.tripyar.com/uploads/picture/1933/13495116-3845-l.jpg",
+                "https://fa.tripyar.com/uploads/picture/1933/13076253-7590-l.jpg",
+                "https://fa.tripyar.com/uploads/picture/1933/46830.jpg",
+                "https://fa.tripyar.com/uploads/picture/1933/3326.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "تالش یکی از زیباترین شهرستان های استان گیلان است که از یک سو به چشم انداز جلگه، شهر و دریا و از سوی دیگر به کوهپایه های پوشیده از جنگل منتهی می باشد. این شهر جاذبه های گردشگری بسیار دلپذیری را برای گردشگران خود ارائه می دهد که پارک جنگلی سیاه داران از جمله این جاذبه ها به شمار می آید. سورتمه ریلی، تماشای گوزن و غازهای محافظت شده در این جنگل بسیار فرح بخش است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "خانه میرزا کوچک خان جنگلی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2588/mirza-house-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2588/mirza-house-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2588/mirza-house-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2588/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2588/mirza-house-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2588/mirza-house-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2588/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2588/mirza-house.jpg",
+                "https://fa.tripyar.com/uploads/picture/2588/banner.en.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "خانه میرزا کوچک خان جنگلی به واقع زادگاه یونس استاد سرایی معروف به میرزا کوچک خان از مبارزان انقلاب مشروطه و رهبر جنبش جنگل است که استان گیلان و شهر رشت واقع شده است. میرزا کوچک خان جنگلی در خانه ای متولد شد که اکنون به یکی از جاذبه های گردشگری مهم استان گیلان و خانه یکی از بزرگترین مشاهیر ایران تبدیل شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "عمارت شهرداری رشت",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2919/historical-building-post-office.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht-municipality-building-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht_municipality_1.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht_municipality_mansion-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht-municipality-building-41.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht-municipality-building-30.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht-municipality-building-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht_municipality_mansion-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/sabzemaydan-park.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht_municipality_mansion-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht_municipality_mansion.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht_municipality_clock-tower.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht_municipality_mansion_in_an_autumn_night.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht_municipality_mansion-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht_municipality_mansion-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht-municipality-building-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/national-library-of-rasht.jpg",
+                "https://fa.tripyar.com/uploads/picture/2919/rasht-municipality-building-40.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": "آرتم سردارف",
+            "description": "ساختمان سفید و زیبای کاخ شهرداری در شهر رشت یکی از جاذبه‌ های زیبای این شهر و از چشم‌ نوازترین عمارت‌ های رشت است که توجه گردشگران را به خود جلب می ‌کند. کاخ یا عمارت شهرداری رشت بین سال‌ های 1286 تا 1305 خورشیدی به دستور ادارهٔ بلدیه رشت، در ضلع غربی میدان شهرداری با الهام از معماری سن پترزبورگ توسط آرتم سرداراف معمار ارمنی-آلمانی مقیم رشت ساخته شد و از آن زمان تاکنون به عنوان ساختمان شهرداری رشت مورد استفاده قرار دارد که با تقسیم شهر رشت به 5 منطقه، این بنا به عنوان شهرداری مرکزی شهر رشت محسوب می ‌شود. بعد از ساخته شدن مجموعه ساختمان های میدان شهرداری رشت، برج ساعت نیز به عنوان نماد تجدد به این مجموعه اضافه شد تا زمان را به اطلاع مردم برساند. عمارت شهرداری رشت در تاریخ 26 آذر ماه 1356 با شماره ثبت 1516 به عنوان یکی از آثار ملی ایران در فهرست آثار ثبت شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آرامگاه میرزا کوچک خان جنگلی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2585/mirakoochak-tomb-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2585/mirakoochak-tomb-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/2585/mirakoochak-tomb-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2585/mirakoochak-tomb-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2585/mirakoochak-tomb-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2585/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2585/mirakoochak-tomb.jpg",
+                "https://fa.tripyar.com/uploads/picture/2585/mirakoochak-tomb-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2585/mirakoochak-.jpg",
+                "https://fa.tripyar.com/uploads/picture/2585/banner.en.jpg"
+            ],
+            "year_built": "دوره معاصر",
+            "architect": null,
+            "constructor": null,
+            "description": "یونس استاد سرایی مشهور به میرزا کوچک خان جنگلی مبارز انقلاب مشروطه و رهبر جنبش جنگل بود که در اعتراض به نقض تمامیت ارضی و استقلال ایران از سوی بیگانگان بعد از مشروطه قیام کرد. آرامگاه این رهبر انقلابی ایران در شهر رشت واقع شده است. آرامگاه میرزا کوچک خان در تاریخ 10 خرداد 1382 با شمارهٔ ثبت 8782 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "موزه میراث روستایی گیلان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1619/846423673.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/resized_266891_760.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/65.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/77.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/img11323091.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/143799_843.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/4548.thumbst.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/10168064-5378-l.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/143802_505.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/nf00228157-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/resized_266880_284.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/266878_214.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/resized_266884_596.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/23.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/resized_266881_919.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/846422102.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/resized_266886_435.jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/m.r-(12).jpg",
+                "https://fa.tripyar.com/uploads/picture/1619/7696.jpg"
+            ],
+            "year_built": "1384",
+            "architect": null,
+            "constructor": null,
+            "description": "موزه میراث روستایی گیلان موزه‌ای در پارک جنگلی سراوان رشت در استان گیلان است. این موزه در زمینی به مساحت حدود 260 هکتار در پارک جنگلی سراوان، واقع در کیلومتر 18 بزرگراه خلیج فارس ساخته شده است. فاز مطالعات مقدماتی این موزه از اوایل سال 1381 خورشیدی آغاز گردید. در اردیبهشت 1384 اولین کارگاه این طرح راه‌اندازی شد که مجری این طرح آقای دکتر طالقانی و اولین سرپرست کارگاه و سازنده اولین ساختمانها و محوطه موزه خانم مهندس پویا میریوسفی بوده‌اند. فکر تاسیس موزه، پس از زمین لرزه‌ی خرداد1369 گیلان که روند تخریب بناهای سنتی را شدت بخشید، شکل گرفت. اما فاز مطالعات مقدماتی آن، از اوایل سال 1381 آغاز شد. در این سایت موزه بناهای 9 روستای اصیل استان گیلان که نمادهای معماری اصیل گیلان در آن‌ها نمایان است واچینی شده و سپس در محل این موزه دوباره‌چینی گردیده اند. از این تعداد روستا، یک روستا در جلگه شرقی گیلان یعنی لاهیجان و رودبنه و روستای دوم مربوط به جلگه مرکزی رشت است. روستای سوم مربوط به فومن است. دیرینگی بناهای موجود در سایت موزه از 65 تا 180 سال است. در این موزه نوع زندگی، کار، مسکن و صنایع دستی بومی گیلان به نمایش درمی‌آید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تالاب عینک",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1930/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1930/img11492323.jpg",
+                "https://fa.tripyar.com/uploads/picture/1930/6.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "در حاشیهٔ پارک دانشجو، در غرب شهرستان رشت واقع است و از نظر مساحت، دومین تالاب بزرگ استان گیلان محسوب می شود. این تالاب به دلیل آن که در عکس های هوایی شبیه عینک است به این نام خوانده می شود. این تالاب از مناطق مهم گردشگری شهر رشت محسوب می شود. محیط آن 12 کیلومتر و منبع آبی آن 30 هکتار است. در مرداب عینک حدود 2 تن ماهی کپور و ماهی آزاد پرورشی وجود دارد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک جنگلی سراوان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1969/99.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/55.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/saravan3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/15535187806059482225.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/4548.thumbst.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/32.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/10168064-5378-l.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/44.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/1880512-8442-l.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/23.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/banner.en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/910.jpg",
+                "https://fa.tripyar.com/uploads/picture/1969/m.r-(12).jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "از قدیمی ترین عرصه های جنگلی گیلانِ است که به خاطر گونه های متنوع گیاهی در سطح کشور و حتی جهان کم نظیرِ است. ابتدای ورودی پارک جنگلی سراوان یک آبگیر کوچک وجود دارد که فوق العاده زیباست. این آبگیر دارای یک سکوی چوبی و دو قایق قو شکل برای گشتن در آب است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "خانه قدیری",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1738/2274.jpg",
+                "https://fa.tripyar.com/uploads/picture/1738/khaneh_ghadiri.jpg"
+            ],
+            "year_built": "اواخر دوره قاجار اوایل دوره پهلوی",
+            "architect": null,
+            "constructor": "محمدولی خان تنکابنی سپهدار",
+            "description": "خانه قدیری رشت در ضلع شرقی سبزه میدان رشت واقع شده‌است. خانه قدیری رشت یکی از بناهای تاریخی استان است که به اواخر دوره قاجار و اوایل دوره پهلوی تعلق دارد. این بنا توسط محمدولی خان تنکابنی سپهدار حکمران گیلان احداث شد و از سال 1369 خورشیدی تا 1381 به عنوان اداره کل میراث استان گیلان مورد استفاده بوده و به شماره 2686 در فهرست آثار ملی کشور به ثبت رسیده‌است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه رودخان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/954/قلعه-رودخان-فومن-گیلان5.jpg",
+                "https://fa.tripyar.com/uploads/picture/954/قلعه-رودخان.jpg",
+                "https://fa.tripyar.com/uploads/picture/954/قلعه-رودخان-فومن-گیلان2.jpg",
+                "https://fa.tripyar.com/uploads/picture/954/قلعه-رودخان-فومن-گیلان4.jpg",
+                "https://fa.tripyar.com/uploads/picture/954/قلعه-رودخان-فومن-گیلان8.jpg",
+                "https://fa.tripyar.com/uploads/picture/954/قلعه-رودخان-فومن-گیلان7.jpg",
+                "https://fa.tripyar.com/uploads/picture/954/rudkhan-castle-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/954/قلعه-رودخان-فومن-گیلان9.jpg",
+                "https://fa.tripyar.com/uploads/picture/954/قلعه-رودخان-فومن-گیلان.jpg",
+                "https://fa.tripyar.com/uploads/picture/954/پارک-قلعه-رودخان-فومن-گیلان.jpg"
+            ],
+            "year_built": "دوره ساسانی",
+            "architect": null,
+            "constructor": null,
+            "description": "ایران دارای قلعه‌های فراوانی است. اما اغلب آن‌ها در نواحی خشک واقع شده‌اند. قلعه رودخان از معدود قلعه‌هایی است که در میان جنگل قرار دارد. دژ رودخان یا قلعه حسامی نام قلعه‌ای تاریخی در 20 کیلومتری جنوب غربی شهر فومن در استان گیلان است. برخی از کارشناسان، ساخت قلعه را در دوران ساسانیان و مقارن با حمله عرب‌ها به ایران دانسته‌اند. این قلعه در ارتفاعی بین 665 تا 715 متر از سطح دریا واقع شده و در کنار آن رودخانه‌ای با همین نام جاری است. این دژ با ارزش تاریخی که دارد بنابر ساختار، معماری و ویژگی‌های استراتژیکی و رزمی، در 30 امرداد 1354 خورشیدی، به شماره 3/1549 در سیاههٔ یادمان‌های دیرین ایران ماندگار شد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک مجسمه فومن",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2264/park-foman-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/park-foman-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/27.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/park-foman.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/21.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/park-foman-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/park-foman-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/14.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/park-foman-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/25.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/park-foman-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/15.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/park-foman-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/park-foman-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/park-foman-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/26.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/18.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/16.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/20.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/17.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/park-foman-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/park-foman-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/23.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/24.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/banner.en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2264/10.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "فومن یکی از شهرستان‌ های زیبای استان گیلان و شهری با مجسمه‌ های رنگارنگ و ابنیه‌ های تاریخی منحصر به فرد است. از مکانهای پرطرفدار فومن و ماسوله میباشد که برای هر گردشگری بسیار دیدنی است. از زیباترین و محبو ب ترین تفرجگاه ها در فومن، «پارک فومن» است که به دلیل وجود انواع مجسمه ها از جمله مجسمه های چهار دختران، در بین گردشگران مشهور و محبوب است. پارک شهر فومن با داشتن انواع مجسمه های بی نظیر و تاریخی و فضای زیبا و سرسبز و امکانات رفاهی مناسب طی چند سال گذشته مورد توجه گردشگران زیادی بوده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تی تی کاروانسرا",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3340/tt-19.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/plan.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-20.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-23.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-25.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-24.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/karvansaratiti.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/3340/tt.jpg"
+            ],
+            "year_built": "دوره صفوی",
+            "architect": null,
+            "constructor": null,
+            "description": "سیاهکل از نظر غنی بودن چشم اندازهای طبیعی و ارزش تاریخی از نقاط دیدنی استان گیلان به شمار می رود. تی‌ تی کاروانسرا از جاذبه های تاریخی این شهرستان است و به دوره صفویه تعلق دارد. کاروانسرای تی تی در سیاهکل در سال 1375 به شماره ی 1784 در فهرست آثار ملی ایران ثبت گردیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار لونک گیلان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2369/lonak-waterfall-20.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/siahkal_lounak_5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/lonak-waterfall-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/loonak-waterfall-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/loonak-waterfall-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/lonak-waterfall-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/lonak-waterfall-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/loonak-waterfall-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/siahkal_lounak_6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/lonak-waterfall-25.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/loonak-waterfall-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/loonak-waterfall-27.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/siahkal_lounak.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/lonak-waterfall-22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/banner.en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2369/loonak-waterfall-29.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "در گوشه ای از طبیعت سرسبز گیلان و در کنار جاده کوهستانی سیاهکل به دیلمان آبشاری زیبا وجود دارد که به نام آبشار لونک معروف است. این آبشار متشکل از دو آبشار است که همچون فرزندان دو قلو در آغوش طبیعت جای گرفته اند و پهنای آنها به 20 متر می رسد. آب پس از سقوط از ارتفاع 6 متری به رودخانه شیم می ریزد و به جریان رود می پیوندد. زیبایی این منطقه در بهار و تابستان وصف ناپذیر است، گونه‌ های مختلف پرندگان و انواع گلهای زیبا در منطقه، آبشار لونک را به یکی از جاذبه ‌های مهم گردشگری استان گیلان و حتی ایران تبدیل کرده ‌است. زیبایی لونک به حدی است که عروس و داماد های گیلان در روز پیوند خود برای آمدن به کنار آبشار برنامه ریزی می کنند تا تصاویری خاطره انگیز از این آبشار نیز با خود ثبت کنند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "امامزاده سید جلال الدین اشرف",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3334/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3334/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3334/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3334/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3334/6.jpg"
+            ],
+            "year_built": "بنای 1356 است.",
+            "architect": null,
+            "constructor": null,
+            "description": "سید جلال الدین اشرف از فرزندان موسی کاظم و برادر تنی علی بن موسی الرضا است. سید جلال الدین اشرف در شهرستان آستانه اشرفیه واقع در 35 کیلومتری شهر رشت مدفون است. بارگاه سید جلال الدین از قدیم ‌الایام پذیرای گردشگران بومی وغیر بومی که به قصد زیارت به شهرستان آستانه اشرفیه سفر می‌ کردند بوده‌ و از عوامل پیشرفت شهرستان شده‌ است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک ملی بوجاق",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/4136/white-river.jpg",
+                "https://fa.tripyar.com/uploads/picture/4136/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/4136/bojag-national-park-handicraft-market-kiashahr-gilan.jpg",
+                "https://fa.tripyar.com/uploads/picture/4136/bojag-national-of-park-kiashahr-gilan-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/4136/bojag-national-park-of-kiashahr-gilan-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/4136/bojag-national-park-of-kiashahr-gilan-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/4136/bird-watching-in-bojag-national-park-gilan.jpg",
+                "https://fa.tripyar.com/uploads/picture/4136/bojag-national-of-park-kiashahr-gilan.jpg",
+                "https://fa.tripyar.com/uploads/picture/4136/amirkalaye-lagoon.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "پارک ملی بوجاق در منطقه‌ ای حفاظت ‌شده در بندر کیاشهر، شهرستان آستانه اشرفیه استان گیلان قرار دارد. این منطقه نخستین «پارک ملی خشکی-دریایی» ثبت ‌شده در ایران است. منطقه ‌ای که می ‌توانید چرخه منظم طبیعت را در آن ببینید. سالیان دراز جانوارنی کمیاب نسل ‌در ‌نسل مهمان تالاب این پارک می ‌شوند. آبزیان در آب خانه دارند و پرندگان روی درختان این پارک زندگی می‌ کنند. قایق ‌سواری، موتورسواری، پرنده‌ نگری و بازارچه صنایع دستی از امکانات تفریحی این پارک ملی می باشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تالاب بوجاق",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1841/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1841/orms__mg_0750.jpg",
+                "https://fa.tripyar.com/uploads/picture/1841/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1841/m.gaeini_bujaq274.jpg",
+                "https://fa.tripyar.com/uploads/picture/1841/77.jpg",
+                "https://fa.tripyar.com/uploads/picture/1841/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/1841/m.gaeini_bujaq_map.jpg",
+                "https://fa.tripyar.com/uploads/picture/1841/521008_orig.jpg",
+                "https://fa.tripyar.com/uploads/picture/1841/3498.gif",
+                "https://fa.tripyar.com/uploads/picture/1841/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1841/iui4__mg_0719.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "پارک ملی بوجاق در استان گیلان و در محدوده شهرستان آستانه اشرفیه واقع شده است. این پارک با مساحتی بالغ بر3250 هکتار اولین با ر در سال 1377 با عنوان منطقه شکار ممنوع تحت حفاظت قرارگرفت و در حال حاضر طی مصوبه شماره 232مورخ 21/3/81 به مجموعه پارکهای ملی کشور پیوسته است. پارک ملی بوجاق کیاشهر با کاربری گردشگری و طبیعت‌گردی در محدوده منطقه آزاد قرار دارد. از پرندگان تالاب میتوان به این موارد اشاره کرد: باکلان بزرگ، کاکایی پازرد، چنگر نوک سرخ، سهره جنگلی، حواصیل بزرگ سفید، کاکایی نوک سبز، کاکایی سر سیاه، حواصیل کوچک، آبچلیک تک زی، گاوچرانک، دم جنبانک ابلق، سینه سرخ، سنقر تالابی، پاشلک کوچک، پاشلک معمولی، زردپره تالابی، اردک سرسیاه، اردک سیاه کاکل، چنگر، اردک ارده ای، کشیم کوچک، کاکایی کوچک، فیلوش، بلبل خال دار، ماهی خورک، گیلار، اردک سرحنایی، اردک تاجدار، اگرت کوچک، پیپت تالابی، اردک نوک پهن، گیلانشاه بزرگ، خروس کلی، غاز خاکستری، تلیله سفید، چنگر نوک سرخ، خوتکا، قرقی، چیف چاف، الیکایی",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تالاب المللی امیر کلایه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2024/21_880.jpg",
+                "https://fa.tripyar.com/uploads/picture/2024/20_287.jpg",
+                "https://fa.tripyar.com/uploads/picture/2024/talabamirkelayeh-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2024/24_760.jpg",
+                "https://fa.tripyar.com/uploads/picture/2024/29_168.jpg",
+                "https://fa.tripyar.com/uploads/picture/2024/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2024/talabamirkelayeh-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2024/22_696.jpg",
+                "https://fa.tripyar.com/uploads/picture/2024/23_969.jpg",
+                "https://fa.tripyar.com/uploads/picture/2024/banner.en.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "تالاب بین المللی امیر کلایه یکی از تالاب‌ های منحصر به فرد استان گیلان است. از ویژگیهای منحصر به فرد تالاب امیر کلایه لاهیجان در مقایسه با دیگر تالابهای گیلان این است که این تالاب از معدود تالابهای آب شیرین است که تنها در یک کیلومتری دریا قرار دارد. قابل توجه اینکه تالاب امیر کلایه یکی از مهمترین ذخیره گاههای نوعی ماهی با اسم علمی Tinca می باشد که در نوع خود بی نظیر است. در این محل هزاران قطعه پرنده مهاجر از جمله قو، پلیکان و سایر مرغابی سانان زمستان را سپری میکنند. از دیگر زیبایی های طبیعی تالاب می توان به نیلوفر آبی سفید اشاره کرد که جلوه خاصی به آن بخشیده است. این اکوسیستم آبی درسال 1354در کنوانسیون رامسر با توجه به جاذبه ها و ویژگی‌ های اکولوژیکی ‌آن، بانام تالاب امیرکلایه در فهرست تالاب‌ های بین ‌المللی قرار گرفت.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تفرجگاه شیطان کوه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1968/333.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/2788083_645.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/lahijan8.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/27.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/35.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/999.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/21.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/67.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/445.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/lahijan6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/434.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/65.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/77.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/38.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/7878.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/14.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/322.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/4466.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/656.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/37.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/899.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/878.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/88.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/25.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/33.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/554.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/lahijan11.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/32.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/3332.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/15.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/1009.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/lahijan13.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/66.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/44.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/5553.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/655.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/30.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/665.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/26.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/18.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/666.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/998.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/16.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/img09540352.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/19.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/27956857.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/32774.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/14331454200.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/pp15oi44s2jaul12aj81l5f5-pic.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/20.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/17.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/20258_1720439295_6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/56.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/23.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/232.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/334.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/40271843_6jjeyq1qfvni-jffmjhwvxb13jp_kqwjmwt3c68_ofs.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/6655.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/873116_faoitizr.jpg",
+                "https://fa.tripyar.com/uploads/picture/1968/14331454417.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "شیطان کوه، کوهی است در شرق شهر لاهیجان و در استان گیلان ایران. در گذشته به این منطقه شاه‌ نشین کوه می ‌گفتند و برکه‌ای که در جلوی آن است 200 متر عرض و 70 متر طول دارد که برای انبار کردن آب در امر آبیاری از آن استفاده می ‌شده است. امروز برکه به دریاچه‌ای مصنوعی تبدیل شده که در میان آن جزیره ‌ای وجود دارد و عمارت کوچکی در این جزیره خودنمایی می کند. در دل شیطان کوه آبشاری مصنوعی ایجاد شده که آب آن از همین دریاچه که به دریاچه یا استخر لا هیجان معروف است، تامین می ‌شود. منطقه خوش آب و هوایی که با آبشار و دریاچه ای به همین نام، گردشگر پذیرترین نقطه لاهیجان به حساب می آید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد پادشاه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1742/ilahijan9_2798.gif",
+                "https://fa.tripyar.com/uploads/picture/1742/3106.jpg",
+                "https://fa.tripyar.com/uploads/picture/1742/gca13135.jpg",
+                "https://fa.tripyar.com/uploads/picture/1742/م1.jpg"
+            ],
+            "year_built": "قرن هشت هجری قمری",
+            "architect": null,
+            "constructor": null,
+            "description": "مسجد چهار پادشاهان یا چهار پادشاه یکی از آثار تاریخی شهر لاهیجان و مدفن چهار تن از شاهان کیایی بیه پیش است. این اثر با شماره 322 در تاریخ 1317/08/21 در فهرست آثار ملی ایران به ثبت رسیده‌است. این مسجد در ابتدای خیابان کاشف قرار دارد. این محل در ابتدا مرقد سید خور کیا بود. چون سایر سادات زیدی کیایی را در جوار سید خور کیا به خاک سپردند این محل به نام چهار پادشاه شهرت پیدا کرد. بخش اصلی بقعه توسط سید هادی کیا فرمانروای تنکابن که برادران اش را در سال 791 در آن دفن کرد ساخته شده‌است. دومین تابوت‌دان قدیمی متعلق به سید رضی کیا، فرمانروای گیلان است که در 829 درگذشت. نمای دیوار شمالی با صحنه های مذهبی نقاشی شده اند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آرامگاه کاشف السلطنه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1824/372.jpg",
+                "https://fa.tripyar.com/uploads/picture/1824/کاشف-السطلنه-موزه-چای.jpg",
+                "https://fa.tripyar.com/uploads/picture/1824/images.jpg",
+                "https://fa.tripyar.com/uploads/picture/1824/32501568.jpg",
+                "https://fa.tripyar.com/uploads/picture/1824/514.jpg"
+            ],
+            "year_built": "دوره معاصر",
+            "architect": null,
+            "constructor": null,
+            "description": "لاهیجان بناهای تاریخی زیادی دارد، از بین این بناها، آرامگاه کاشف السّلطنه از یادمان های جالب توجه است. این یادمان، روی تپه ای مُشرف به باغ های چای بنا شده است. حاجی محمد میرزا کاشف السّلطنه نخستین کسی است که چای را به ایران آورد. او در سال 1275 خورشیدی با سِمَت سرکنسول ایران به هندوستان رفت. لاهیجان یکی از قدیمیترین و زیباترین شهرهای استان گیلان است که به \"شهر چای\" اشتهار دارد، زیرا چایکاری در ایران برای نخستین بار به همت حاج محمد میرزا کاشف السلطنه چایکار در سال 1319 هـ. ق در لاهیجان آغاز شد و به سرعت در این شهر و دیگر مناطق سواحل جنوبی دریای مازندران توسعه یافت.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بقعه شیخ زاهد گیلانی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1825/03-ط.jpg",
+                "https://fa.tripyar.com/uploads/picture/1825/photo_2015-11-24_14-14-29.jpg",
+                "https://fa.tripyar.com/uploads/picture/1825/9864.jpg",
+                "https://fa.tripyar.com/uploads/picture/1825/img19213547.jpg",
+                "https://fa.tripyar.com/uploads/picture/1825/مقبره_شیخ_زاهد.jpg"
+            ],
+            "year_built": "دوره صفویه",
+            "architect": null,
+            "constructor": "بنا روایتی سلطان حیدر صفوی",
+            "description": "بقعه شیخانور یا شیخ زاهد گیلانی مربوط به اواخر سده 9 ه‍. ق. است و در شهرستان لاهیجان، روستای شیخانور واقع شده و این اثر در تاریخ 5 دی 1347 با شمارهٔ ثبت 824 به‌عنوان یکی از آثار ملی ایران به ثبت رسیده است. بقعه شیخ زاهد گیلانی بنایی در روستای شیخانور در 3 کیلومتری لاهیجان در استان گیلان است که بنا بر برخی منابع آن را مدفن شیخ تاج‌الدین ابراهیم ملقب به شیخ زاهد گیلانی از عرفاً و دراویش بزرگ و از استادان شیخ صفی‌الدین اردبیلی دانسته اند. این بنا دارای یک گنبد هشت ترک فیروزه‌ای بوده و در میان مزارع برنج و چای و جنگل احاطه شده است و از مقاصد گردشگری استان گیلان است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مناره گسکر گیلان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3343/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/gaskar-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/gaskar-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/gaskar-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/gaskar6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/gaskar-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/gaskar-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/gaskar-19.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/gaskar-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/gaskar-20.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/gaskar-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/gaskar-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/gaskar.jpg",
+                "https://fa.tripyar.com/uploads/picture/3343/gaskar-15.jpg"
+            ],
+            "year_built": "دوره صفوی",
+            "architect": null,
+            "constructor": null,
+            "description": "مناره گسکر از آثار تاریخی گیلان است و در روستای مناره بازار در نزدیکی شهر صومعه‌ سرا قرار دارد. این مناره آجری که از زییاترین و تاریخی ‌ترین آثار استان است در سال 1378 توسط سازمان میراث فرهنگی با شماره 2681 در فهرست آثار ملی ایران به ثبت رسید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تالاب سیاه کشیم",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "منطقه سیاه کشیم طی مصوبه شماره 93 شورای عالی محیط زیست مورخ 1361/6/21 بعنوان منطقه حفاظت شده به مناطق تحت مدیریت سازمان حفاظت محیط زیست پیوسته است. منطقه حفاظت شده سیاه کشیم با وسعت 4، 498 هکتار در جنوب غربی تالاب انزلی و شمال شهرستان صومعه سرا واقع شده. سیمای ظاهری این منطقه تالابی است. مهمترین گونه های گیاهی منطقه حفاظت شده سیاه کشیم شامل لویی، نی، جگن، بارهنگ آبی، اسپرغان، آقطی، تراپا، لاله تالابی، نیلوفر آبی، سراتو فیلوم و گونه های کنار آبزی مانند تاج ریزی، سرخاب کولی و گونه های خشکی زی مثل توسکا است. این منطقه جایگاه مناسبی برای مهاجرت پرندگان و زاد آوری پرستوهای دریایی می باشد که در آن لانه گذاری و جوجه آوری می کنند. دو پاسگاه محیط بانی سیاه درویشان و پاسگاه اسپند حفاظت از این منطقه را به عهده دارند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار لاتون",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/957/laton-waterfall-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/957/laton-waterfall-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/957/آبشار-لاتون-آستارا8.jpg",
+                "https://fa.tripyar.com/uploads/picture/957/آبشار-لاتون-آستارا6.jpg",
+                "https://fa.tripyar.com/uploads/picture/957/آبشار-لاتون-آستارا1.jpg",
+                "https://fa.tripyar.com/uploads/picture/957/latton-waterfall.jpg",
+                "https://fa.tripyar.com/uploads/picture/957/آبشار-لاتون-آستارا.jpg",
+                "https://fa.tripyar.com/uploads/picture/957/آبشار-لاتون-آستارا5.jpg",
+                "https://fa.tripyar.com/uploads/picture/957/آبشار-لاتون-آستارا7.jpg",
+                "https://fa.tripyar.com/uploads/picture/957/آبشار-لاتون-آستارا4.jpg",
+                "https://fa.tripyar.com/uploads/picture/957/آبشار-لاتون-آستارا3.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشارهای ایران اگرچه از نظر ارتفاع قابل رقابت با آبشارهای بلند جهان نیستند ولی علاوه بر بلندی، شاخصه های دیگری نیز مانند عرض آبشار، حجم آب خروجی آبشار، یکپارچه یا چند پله ای بودن آبشار و همچنین عواملی محیطی دیگری چون اقلیم منطقه و جاذبه های طبیعی اطراف آبشار و همینطور باورهای اهالی بومی نیز می تواند در شهرت آنها موثر باشند. تاکنون مطالعه دقیق و جامعی در مورد ارتفاع آبشارهای مهم ایران صورت نگرفته ولی با توجه به تجربیات متخصصین طبیعت گردی و نظرات اهل فن، می توان آبشار لاتون آستارا را با ارتفاع 105 متر بلندترین آبشار ایران دانست، بعد از آن، آبشارهای وروار و سرنکوه در کوه های جبال بارز کرمان با ارتفاعی حدود 100 متر و آبشارهای شوی در سالن کوه دزفول و پیران کرمانشاه واقع در منطقه ریجاب با ارتفاعی بالغ بر 80 متر قرار دارند. آبشار لاتون با طول و عرض جغرافیایی 38 درجه و 19 دقیقه عرض شمالی و 48 درجه و 43 دقیقه طول شرقی در شهرستان آستارا، شهر لوندویل و روستای کوته کومه واقع شده است. آبشاری به ارتفاع تقریبی 105 متر که از محل ریزش آن تا مکانی که آب آن به جریان رونده مبدل می شود نیز دارای دو پله بلند دیگر می باشد. حجم آب ریزشی آبشار در ماههای مختلف سال متغیر است ولی به طور دایمی در تمام فصول در جریان است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تالاب استیل آستارا",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-22.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-23.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-20.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-27.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-26.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-19.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-29.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-25.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/estil-lagoon-24.jpg",
+                "https://fa.tripyar.com/uploads/picture/1652/10.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "تالاب استیل از تالاب های آب شیرین و دائمی ایران است که اکنون به عنوان منطقه شکار ممنوع استیل، تحت نظارت سازمان محیط زیست قرار دارد. این تالاب به دلیل مجاورت با روستای عباس آباد آستارا، به نام تالاب استیل عباس آباد نیز شناخته می شود. تالاب استیل به دلیل برخورداری از امتیازات فراوان از جمله امنیت نسبی و کمی عمق آب هر ساله پذیرای پرندگان مهاجر است. اهمیت اکو توریستی این تالاب از جهت نزدیکی به جاده، تنوع چشم ‌اندازهای طبیعی همچون کوهستان، جنگل و مزارع و کشتزارهای اطراف دو چندان می ‌شود. ضلع‌ غربی تالاب، پوشیده از جنگل و پوشش‌ های سبز گیاهی است و در ضلع شرقی آن درختان توسکای شناور منظره بسیار جالب توجهی را بوجود آورده است که در بهار و تابستان استراحتگاه مسافران بوده و از نظر گردشگری یکی از جاذبه‌ های مهم تلقی می ‌شود. این منطقه در مهر ماه سال 1381 توسط سازمان حفاظت محیط زیست به عنوان منطقه شکار ممنوع اعلام شد و در فروردین سال 1387 به مدت پنج سال دیگر نیز مورد تمدید قرار گرفت.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مراکز خرید آستارا",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2290/astara-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2290/astara.jpg",
+                "https://fa.tripyar.com/uploads/picture/2290/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2290/astara-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2290/astara-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2290/banner.en.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "اکثر مسافران به قصد خرید از بازار بزرگ ساحلی آستارا وارد این شهر می شوند. پیشیته این بازار به سال 1368 می رسد که همزمان با آن مرز بین ایران و جمهوری آذربایجان نیز آزاد شد. اسم قدیمی این بازار، بازارچه روسی بود که مرمان بومی آن را بازار بساط می نامیدند. بازار ساحلی آستارا و پاساژهای اطراف آن، حدود 1500 غرفه یا واحد تجاری دارد و اغلب کالاهای آن پوشاک داخلی و خارجی، کیف و کفش و لوازم آرایشی و بهداشتی است و به لحاظ قدمت و قرار گرفتن در نزدیکی دریا و گمرک آستارا، از شهرت زیادی برخوردار است و مسافران و گردشگران بسیاری را به خود جذب می کند. اگر به قصد خرید به آستارا سفر می‌ کنید، علاوه بر بازارچه ساحلی آستارا به مرکز شهر نیز سر بزنید. مراکز خرید آستارا بیشتر در خیابان شهید حاجی عباسی متمرکز شده ‌اند و می ‌توانید با رفتن به این خیابان همزمان از چند پاساژ دیدن کنید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1897/damash8.jpg",
+                "https://fa.tripyar.com/uploads/picture/1897/damash2.jpg",
+                "https://fa.tripyar.com/uploads/picture/1897/damash1.jpg",
+                "https://fa.tripyar.com/uploads/picture/1897/جشن-گل-داماش.jpg",
+                "https://fa.tripyar.com/uploads/picture/1897/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1897/1438319338806337.jpg",
+                "https://fa.tripyar.com/uploads/picture/1897/damash11.jpg",
+                "https://fa.tripyar.com/uploads/picture/1897/dsc04781.jpg",
+                "https://fa.tripyar.com/uploads/picture/1897/damash7.jpg",
+                "https://fa.tripyar.com/uploads/picture/1897/damash6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1897/2992.jpg",
+                "https://fa.tripyar.com/uploads/picture/1897/damash.jpg",
+                "https://fa.tripyar.com/uploads/picture/1897/damash4.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "در طبیعت سر سبز گیلان و از توابع شهر زیبای رودبار است. این روستا در منطقه ای بکر واقع شده و میزبانی آب معدنی گوارا و گل نایاب سوسن چلچراغ را دارد. گل سوسن سفید نخستین بار توسط محققی به نام کشف شد و در سال 1354 از طرف اداره محیط زیست استان گیلان، به عنوان اثر ملی ثبت شد. گل سوسن چلچراغ تنها در دو منطقه در جهان، یکی در بخش عمارلو روستای داماش و دیگری در لنکران جمهوری آذربایجان یافت میشود. در تمام دنیا تنها یک محوطه دو هکتاری است که گل سوسن چلچراغ در آن به صورت کلی می روید و سرتاسر این محل حفاظت و فنس کشی شده و همه گلها شماره گذاری شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تپه مارلیک",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1688/mohammad_reza_500_r_1961_to_1964.jpg",
+                "https://fa.tripyar.com/uploads/picture/1688/mojarradat_upload_11331379864.jpg"
+            ],
+            "year_built": "3000 سال",
+            "architect": null,
+            "constructor": null,
+            "description": "په مارلیک یک محوطهٔ باستانی در کرانهٔ خاوری سفیدرود و در درهٔ «گوهر رود» از توابع رودبار در استان گیلان است. تپه مارلیک بقایای به جای مانده از تمدن باستانی بیش از 3000 ساله است. پژوهشگران گمان می‌برند که این تپه آرامگاه خصوصی فرمانروایان و شاهزادگان مردمان این تمدن بوده‌است. تپهٔ مارلیک تا سالهای دههٔ 1340 تمدنی ناشناخته بود. در این سال دره گوهر رود توسط یک تیم باستان شناس ایرانی به سر پرستی دکتر عزت‌الله نگهبان کاوش شد. در این دشت تپه‌های باستانی زیادی وجود دارند که 5 تپه مارلیک، زینب بیجار، دور بیجار، پیلاقلعه و جازم کول از همه مهمتر هستند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه حلیمه جان رودبار",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2842/halimejan-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/halime-jan-lake-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/halimejan-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/halime-jan-lake-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/halime-jan-lake-20.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/halimejan-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/halime-jan-lake-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/halime-jan-lake-24.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/halime-jan-lake-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/halime-jan-lake-23.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/halime-jan-lake-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/halime-jan-lake-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/halime-jan-lake-1.jpeg",
+                "https://fa.tripyar.com/uploads/picture/2842/halimejan-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/2842/halime-jan-lake-22.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دریاچه عروس یا حلیمه جان که یکی از زیباترین مکان های طبیعی در استان گیلان است، در روستای حلیمه جان از توابع بخش رحمت آباد و بلوکات شهرستان رودبار واقع شده است. این دریاچه که به دو رنگ بودن خود معروف است، با هنرمندی باد و جلبک های روی دریاچه تصویر زیبایی خلق می کند، قبل از ظهر رنگ جنگل و بعد از ظهر رنگ آسمان در آن نمایان است. حلیمه جان مسیر جنگلی خارق العاده و زیبایی دارد که پیاده روی و گوش دادن به آواز پرندگان چشم و گوش هر مسافر و گردشگری را نوازش میکند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه ویستان بره رودبار",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1927/15360.thumbst.jpg",
+                "https://fa.tripyar.com/uploads/picture/1927/99.jpg",
+                "https://fa.tripyar.com/uploads/picture/1927/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1927/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/1927/88.jpg",
+                "https://fa.tripyar.com/uploads/picture/1927/33.jpg",
+                "https://fa.tripyar.com/uploads/picture/1927/66.jpg",
+                "https://fa.tripyar.com/uploads/picture/1927/145928_143.jpg",
+                "https://fa.tripyar.com/uploads/picture/1927/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/1927/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1927/sharshar6.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "در بره سر رودبار واقع شده و از دوسو به جنگل های زیبای راش و از جهات دیگر به مراتع و تپه ماهورهای زیبا محدود می ‌گردد. این منطقه فضای فرح بخش جهت مسافران و گردشگرا ن پدید آورده است. برای دیدار از این دریاچه باید به گیلان و شهرستان رودبار و به منطقه داماش بروید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "additional_info": [
+        "http://af.samta.ir",
+        "http://arian260.blogfa.com",
+        "http://www.mahabghodss.com",
+        "https://berimberim.com",
+        "https://diyarmirza.ir",
+        "https://eghamatyar.org",
+        "https://emroozkojaberim.com",
+        "https://fa.wikipedia.org",
+        "https://ghasedak24.com",
+        "https://gilan-amlak.com",
+        "https://gilan.frw.ir",
+        "https://idj.iaid.ir",
+        "https://koohbist.com",
+        "https://lastsecond.ir",
+        "https://mehrzadtrade.com",
+        "https://ostanegilan.com",
+        "https://redpipe.ir",
+        "https://roozaneh.net",
+        "https://setare.com",
+        "https://soghatgilan.com",
+        "https://soumagasht.ir",
+        "https://tarikhema.org",
+        "https://www.alibaba.ir",
+        "https://www.beytoote.com",
+        "https://www.eligasht.com",
+        "https://www.flytoday.ir",
+        "https://www.homsa.net",
+        "https://www.iranhotelonline.com",
+        "https://www.isna.ir",
+        "https://www.jabama.com",
+        "https://www.jajiga.com",
+        "https://www.mihmansho.com",
+        "https://www.mizanonline.ir",
+        "https://www.otaghak.com",
+        "https://www.pateh.com",
+        "https://www.payaneha.com",
+        "https://www.tasnimnews.com"
+    ]
+}

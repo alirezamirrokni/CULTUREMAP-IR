@@ -1,0 +1,3057 @@
+{
+    "title": "استان آذربایجان غربی",
+    "location": {
+        "province": "آذربایجان غربی",
+        "city": null
+    },
+    "geographical_features": [
+        {
+            "category": "رودخانه‌ها",
+            "description": [
+                {
+                    "name": "رود ارس",
+                    "images": [
+                        "https://mrbilit.com/mag/wp-content/uploads/2021/10/3-48.jpg",
+                        "https://last-cdn.com/uploads/lastgram/2019/09/28/oDc1i1C2gdONCdgst22XOPNimbfVZXgYM8XwLzEP.jpeg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رود زاب",
+                    "images": [
+                        "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1399/06/14/1399061410510618121133014.jpg",
+                        "https://www.radiozamaneh.info/u/wp-content/uploads/2022/08/Zab_river.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "کوه‌ها",
+            "description": [
+                {
+                    "name": "رشته کوه های مرزی",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_image",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "کوه اورین",
+                    "images": [
+                        "https://photos.wikimapia.org/p/00/01/36/66/22_big.jpg",
+                        "https://tochalclub.com/wp-content/uploads/2022/01/photo_2021-06-07_10-23-14-600x600.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "کوه های باستان",
+                    "images": [
+                        "https://www.topnaz.com/wp-content/uploads/2014/04/hhi2247-1.jpg",
+                        "https://www.destinationiran.com/fa/wp-content/uploads/2020/07/دورنما-تخت-سلیمان.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "کوه بینار",
+                    "images": [
+                        "https://cdn.pixabay.com/photo/2019/11/06/14/23/afghanistan-4606216_1280.jpg",
+                        "https://cdn.fararu.com/files/fa/news/1402/4/29/1658339_834.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "کوه قندیل",
+                    "images": [
+                        "https://cdn.yjc.ir/files/fa/news/1393/9/9/2780416_409.jpg",
+                        "https://i.pinimg.com/originals/15/75/40/15754034f83dd9cea80ff251b0127fb0.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "کوه حاجی",
+                    "images": [
+                        "https://static.cdn.asset.aparat.com/avt/10788656-6305-b__9441.jpg",
+                        "https://torbeh.com/wp-content/uploads/2023/01/تیتر-کوه.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "کوه طرغه",
+                    "images": [
+                        "https://media.salameno.com/d/2022/11/29/4/15437495.jpg?ts=1669750608000",
+                        "https://images.kojaro.com/2018/4/e7a71e88-296d-46f4-98a9-b41f1e5ce01a.jpg?w=840&h=560"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "کوه سلطان",
+                    "images": [
+                        "https://didshahr.ir/wp-content/uploads/2019/04/602-595x400.jpg",
+                        "https://anyja.ir/zftpusers/artuser3/1400/04/19/kooh-soltan-yaghob-2.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": " کوه اورین ",
+                    "images": [
+                        "https://berimkouh.com/images/17251911718503.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "دریاچه‌ها",
+            "description": [
+                {
+                    "name": "دریاچه ارومیه",
+                    "images": [
+                        "https://cdn.mashreghnews.ir/d/2020/03/27/4/2751357.jpg",
+                        "https://www.otaghak.com/blog/wp-content/uploads/2023/06/همه-چیز-درباره-دریاچه-ارومیه.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": " دریاچه مارمیشو",
+                    "images": [
+                        "https://safarmarket.com/blog/data/uploaded_files/6cccd744ec9139449e30391b.jpg",
+                        "https://i.pinimg.com/originals/cd/ec/ad/cdecadc4787bdffd3bcf6627d6625563.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "چشمه‌ها",
+            "description": [
+                {
+                    "name": "چشمه قینرجه ارومیه",
+                    "images": [
+                        "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1395/12/25/1395122510394452210284824.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب معدنی هفتابه",
+                    "images": [
+                        "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1395/12/25/1395122510493269510284884.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم هفت آباد",
+                    "images": [
+                        "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1395/12/25/1395122510503055610284894.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": " چشمه کانی گراوان",
+                    "images": [
+                        "https://safarmarket.com/blog/data/uploaded_files/f94da4ac23ca88f7c5c21444.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آبگرم محال باراندوز ارومیه",
+                    "images": [
+                        "https://www.pateh.com/blog/wp-content/uploads/2024/07/new-pateh.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "آبشارها",
+            "description": [
+                {
+                    "name": "آبشار سوله دوکل ارومیه",
+                    "images": [
+                        "https://cdn.isna.ir/d/off/orumiyeh/2025/03/20/3/63399860.jpg?ts=1742456869917",
+                        "https://www.beytoote.com/images/stories/iran/dukel-silo-waterfall-3.jpg",
+                        "https://safarmarket.com/blog/data/uploaded_files/73545601180cd7ad05252aa9.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار بدلان خوی",
+                    "images": [
+                        "https://cdn.isna.ir/d/off/orumiyeh/2025/03/20/3/63399861.jpg?ts=1742456943428"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار خرپاپ پیرانشهر",
+                    "images": [
+                        "https://cdn.isna.ir/d/off/orumiyeh/2025/03/20/3/63399863.jpg?ts=1742457029106"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار شلماش",
+                    "images": [
+                        "https://yaldamedtour.com/images/content-image/2019/05/iranwatching_134_1557339339_karnaval126.jpg",
+                        "https://images.kojaro.com/2020/3/1923fefc-b119-46c5-ab99-dbee47a6938c.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "مشخصات آبشار شلماش",
+                    "images": [
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/05/Google-Maps-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D8%B4%D9%84%D9%85%D8%A7%D8%B4-2-copy.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار شلماش کجاست",
+                    "images": [
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/05/shalmash-waterfall-3.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "دشت‌ها",
+            "description": []
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "معادن",
+            "description": [
+                "سنگ مرمریت کرم",
+                "کانسارهای فلزی",
+                "کرومیت",
+                "زغال سنگ بیتومینه کک",
+                "تالک",
+                "دولومیت",
+                "خاک رس",
+                "فلدسپات سدیک",
+                "کانی صنعتی",
+                "سنگ گرانیت مشکی",
+                "شیست",
+                "کانسنگ سرب",
+                "آهک",
+                "آهن",
+                "سیلیس",
+                "پلی",
+                "متال",
+                "پوزولان"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منابع آب",
+            "description": [
+                "رودهای قطور چای، آق چای، زنگمار",
+                "زرینه رود، سیمینه رود، زوال چای، شهر چای، باراندوز",
+                "رود زاب (کلوی)"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "درختان جنگلی (بلوط، صنوبر، بنه، اُرس، گردو، گالبی وحشی، زالزالک، بادام کوهی)",
+                "صمغ درخت بنه",
+                "میوه های درختان جنگلی (گردو، بادام وحشی، زالزالک، گالبی وحشی)"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": [
+                "مناطق کوهستانی و دشت‌های پست و جلگه‌ها",
+                "ارتفاعات در مناطق کوهستانی",
+                "دریاچه ارومیه به عنوان یک منطقه توپوگرافی",
+                "تنوع ارتفاعات در استان"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ارتفاعات",
+            "description": [
+                "مرتفع ترین قله: آورین (2263 متر)",
+                "کم ارتفاع ترین منطقه: خروج رود زاب از ایران به عراق (026 متر)",
+                "سه گروه عمده ارتفاعات: کوه های شمالی، مرکزی، جنوبی"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "مرزهای ایران و ترکیه و ایران و عراق در غرب",
+                "مرزهای ایران و ترکیه و ایران و عراق در غرب",
+                "مرزهای ایران و ترکیه و ایران و عراق در غرب"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "irrelevant"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "تنوع در ویژگی‌های زمین‌شناسی"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "دریاچه ارومیه",
+            "images": [
+                "https://snapp.ir/blog/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif",
+                "https://cdn.mashreghnews.ir/d/2020/03/27/4/2751357.jpg",
+                "https://www.otaghak.com/blog/wp-content/uploads/2023/06/همه-چیز-درباره-دریاچه-ارومیه.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آماده‌اید که با بزرگ‌ترین دریاچه آب شور خاورمیانه آشنا شوید؟ این دریاچه معروف در ۱۷کیلومتری مرکز استان آذربایجان غربی، یعنی ارومیه قرار دارد و زیستگاه حیوانات این منطقه است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه دالامپر",
+            "images": [
+                "https://snapp.ir/blog/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از جاذبه‌های طبیعی شمال غرب ایران که در ۳۵کیلومتری اشنویه واقع شده، دریاچه دالامپر است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "needs_image",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چشمه آب معدنی کوه زنبیل",
+            "images": [
+                "https://snapp.ir/blog/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif",
+                "https://urmiatourism.ir/wp-content/uploads/2022/07/چشمه-معدنی-کوه-زنبیل.jpg",
+                "https://www.eneshat.com/images/2018/02/kuh-e-zanbil-mineral-water-spring01.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "در نزدیکی روستای نازلوچای، جاذبه طبیعی زیبایی به نام چشمه زنبیل قرار دارد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چشمه کانی گراوان سرزمین صخره های آهکی زنده",
+            "images": [
+                "https://deltapayam.com/wp-content/uploads/2022/05/7458.jpg",
+                "https://media.karnaval.ir/uploads/2020/09/a3e04b87-48b9-4972-8c40-54c4d5f2576b.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "چشمه کانی گراوان نیز به‌عنوان یکی از زیباترین مناطق دیدنی آذربایجان غربی محسوب می‌شود",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه مارمیشو",
+            "images": [
+                "https://www.snapptrip.com/blog/wp-content/uploads/2023/05/1398041813090273617838314.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دریاچه مارمیشو، از جا‌های دیدنی آذربایجان غربی",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه سد بوکان",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سد بوکان در جنوب دریاچه ارومیه قرار دارد و پرآب ترین سد آذربایجان غربی با ظرفیت بیش از 700 میلیون مترمکعب آب است. سد بوکان از مناطق نمونه گردشگری آذربایجان غربی محسوب می‌ شود. سدی با دسترسی خاکی که در جنوب شرقی بوکان در میان دشت ‌های استپی و سرسبز قراردارد. این سد که بر روی زرینه رود ساخته شده هر سال پذیرای هزاران نفر از سرتاسر استان‌ های کشور برای تفریح است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تپه باستانی قلایچی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1578/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1578/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/1578/475.jpg",
+                "https://fa.tripyar.com/uploads/picture/1578/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1578/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1578/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/1578/12068.jpg"
+            ],
+            "year_built": "دوره تمدن ماناها",
+            "architect": null,
+            "constructor": null,
+            "description": "تپه قلایچی مربوط به عصر آهن I- II است و در شهرستان بوکان، روستای قالایچی واقع شده است. این اثر در تاریخ 18 اردیبهشت 1380 با شمارهٔ ثبت 3823 به‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پناهگاه حیات وحش سوتاو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1585/950115_mishmorgh-bookan-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1585/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1585/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1585/otis-tarda.jpg",
+                "https://fa.tripyar.com/uploads/picture/1585/سوتاو-2-620x441.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "پناه‌گاه حیات وحش سوتاو در موقعیت جغرافیایی N3633 E4611 در استان آذربایجان غربی واقع است. در ایران هم اکنون دشت «سوتاو» بوکان مهمترین زیستگاه پرنده میش مرغ در کشور است. این مکان به دلیل شرایط مطلوب و منحصر بفرد خود به مهمترین زیستگاه پرنده نادر میش مرغ در سطح کشور تبدیل شده‌است. دشت سوتاو که یک پهنه تپه ماهوری به وسعت 400 هکتار را در روستای حمامیان از توابع شهرستان بوکان شامل می‌شود، سالانه پذیرای 20 تا 25 قطعه از این‌نوع پرنده نادر است. اخیرا از سوی اداره کل حفاظت محیط زیست آذربایجان غربی، این منطقه به عنوان پناهگاه میش مرغ در آذربایجان غربی اعلام شده ‌است. محل زیست این پرنده در آذربایجان غربی مناطق «آزاد»، «باجوند» و «کانی سیب» در مهاباد و «دشت سوتاو»، «حمامیان» و «ینگجه» در بوکان است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک ساحلی بوکان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2857/bukan-park-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2857/bukan-park-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/2857/bukan-park-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2857/bukan-park-3.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "بوکان، شهری تاریخی، با آب و هوایی معتدل و وسیع ‌ترین شهر در جنوب استان آذربایجان غربی است. یکی از تفرجگاه‌ های بوکان، «پارک ساحلی» این شهرستان است که در بخش غربی آن احداث شده است. شهر بازی، میدانی بزرگ برای ورزش، پیست اسکیت و درختزارهای وسیع در این پارک ساحلی، از ویژگی ‌های مطلوب آن بشمار می رود که به مکانی دل انگیز برای تفریح خانواده ‌های محلی و دیگر مسافران تبدیل شده است. همچنین «سیمینه ‌رود» که در نزدیکی و مجاورت این پارک ساحلی قرار دارد، منظره‌ و طبیعتی زیبا خلق کرده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد جامع بوکان",
+            "images": [],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": "بنا دستور علی اصفهانی است.",
+            "description": "مسجد جامع بوکان، از مسجد‌ های قدیمی این شهر است که در دوره قاجاریه و به سبک این دوره طراحی و ساخته شده است. این مسجد دارای شانزده گنبد است که بر روی نه ستون قرار گرفته است و از مهمترین مساجد استان آذربایجان غربی به شمار می رود.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آرامگاه سرداران مکری",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3368/azizkhan-mukri.jpg",
+                "https://fa.tripyar.com/uploads/picture/3368/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3368/sardaran-tomb-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3368/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3368/sardaran-tomb-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3368/sardaran-tomb-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3368/azizkhan_mukri_qajar.jpg",
+                "https://fa.tripyar.com/uploads/picture/3368/sardaran-tomb.jpg",
+                "https://fa.tripyar.com/uploads/picture/3368/sardaran-tomb-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3368/sardaran-tomb-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3368/sardaran-tomb-5.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "آرامگاه سرداران مکری با قدمتی که به دوره قاجار بازمی ‌گردد، مدفن چند تن از نوادگان سردار عزیزخان مکری و برخی از بزرگان شهر بوکان است. این آرامگاه که در گویش کردی به «گومبه‌ زی سردار» شهرت دارد، متشکل از حیاطی کوچک، مقبره‌ ای مستطیلی شکل، گنبدی مرکزی با الگوی چلیپا در مرکز، ایوانی با دو ستون سنگی و شاه‌ نشین و نیز دو دهلیز در طرفین است. این اثر در سال 1380، با شماره ثبت 3847 در فهرست آثار ملی ایران به ثبت رسید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد سور حمامیان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3366/hamamiyan-mosque-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3366/hamamiyan-mosque-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/3366/hamamiyan-mosque-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3366/hamamiyan-mosque-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3366/hamamiyan-mosque-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3366/hamamiyan-mosque-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3366/hamamiyan-mosque-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3366/hamamiyan-mosque-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3366/hamamiyan-mosque-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3366/hamamiyan-mosque-16.jpg"
+            ],
+            "year_built": "1328 هجری قمری",
+            "architect": null,
+            "constructor": "موسس مسجد «محمود ایلخانی‌ زاده» معمار «معمار مراغه ‌ای» بوده‌ است.",
+            "description": "حَمامیان روستایی است از دهستان آختاچی شهرستان بوکان که در مسیر رودخانهٔ سیمینه‌ رود قرار دارد. در کنار روستای حمامیان، مسجد قدیمی و نسبتاً سالم حمامیان و بقایای مدرسهٔ قدیمی حمامیان که هم‌ اکنون قسمتی از کلاس ‌های آن سالم مانده، قرار گرفته‌ است. این مسجد در سال 1328 هجری قمری بنا شده و موسس آن «محمود آقا ایلخانی‌ زاده» و معمار آن «معمار باشی مراغه ‌ای» بوده‌ است. این مسجد در تاریخ 25 اسفند 1379 با شمارهٔ ثبت 3483 به ‌عنوان یکی از آثار ملی ایران به ثبت رسیده‌ است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "خانقاه شمس الدین برهانی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3369/khanghah-shams-borhan-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3369/khanghah-shams-borhan-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3369/shams-borhan.jpg",
+                "https://fa.tripyar.com/uploads/picture/3369/khanghah-shams-borhan-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3369/khanghah-shams-borhan-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3369/khanghah-shams-borhan-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3369/khanghah-shams-borhan.jpg",
+                "https://fa.tripyar.com/uploads/picture/3369/khanghah-shams-borhan-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3369/khanghah-shams-borhan-9.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "شمس ‌الدین برهانی، از شیوخ مشهور نقش ‌بندی است که در قرن 14 هجری قمری می زیست. خانقاه شیخ با قدمتی که به دوره قاجار بازمی ‌گردد، به دست پیروان وی و مردم ساخته شد. وی پس از وفات در این مکان به خاک سپرده شد. این خانقاه که در همان دوران از مراکز مهم نشر و ترویج علوم دینی، فرهنگ و معارف اسلامی به ‌شمار می ‌رفت، در تاریخ 17 اسفند 1381، با شماره ثبت 7736 به‌ عنوان یکی از آثار ملی ایران به ثبت رسید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبگرم تخت سلیمان تکاب",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "مجتمع آبدرمانی تخت سلیمان یکی از مهمترین جاذبه های گردشگری-درمانی آذربایجان غربی است که سالانه پذیرای شمار زیادی از مسافران و گردشگران از مناطق مختلف کشور است. این مجموعه آبگرم تخت سلیمان در روستای احمد آباد پذیرای گردشگران است. این مجتمع تفریحی و رفاهی دارای تجهیزات گرمایش از کف، اماکن اقامتی و چند باب سوئیت نیز می باشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چشمه آبشار قینرجه تکاب",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-27.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/takhte-soleyman.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-28.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-waterfall.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-waterfall-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-waterfall-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-25.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-waterfall-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-29.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-waterfall-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/222.jpg",
+                "https://fa.tripyar.com/uploads/picture/2905/gaynarja-hot-spring-19.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "روستای گردشگری قینرجه از توابع بخش تخت سلیمان تکاب به علت وجود آبشار زیبا، مجموعه چشمه های آبگرم طبیعی و طبیعت بکر هدف سفر بسیاری از ساکنان شهرهای همجوار است. در این روستا آبهای گرم فراوانی وجود دارد که هر یک به نوبه خود دارای خاصیت جداگانه ای هستند. این چشمه های آبگرم دارای املاح و مواد معدنی بسیاری هستنند که برای درمان انواع درد های مفاصل مفید و حائز اهمیت است و هرسال تعداد زیادی گردشگر به این منطقه آمده و از این طبیعت خدادادی استفاده می نمایند. در این منطقه حوضچه ها بهسازی شده و آلاچیق نیز وجود دارد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "زندان برنجه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1579/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1579/zendane-berenje-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/1579/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1579/zendane-berenje.jpg",
+                "https://fa.tripyar.com/uploads/picture/1579/zendane-berenje-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1579/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1579/برنجه3.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "در 28 کیلومتری شمال شهرستان تکاب در روستای برنجه در دامنه کوه معروف به کوه طویله سلیمان دهانه های چند چشمه آهک ساز خشک شده را می توان دید که مشهورترین آنها زندان برنجه یا «دریای برنجه» نام دارد. دهانه این چشمه بزرگ به شکل بیضی است که ژرفایش به حدود 70 متر می رسد. در کف این سازه بزرگ طبیعی دریاچه ای آکنده از آب سرد و گاز کربنیک است. به علت عمق زیاد سطح آب از دهانه امکان دسترسی به آن غیر ممکن است. آب دریاچه بعد از گذشتن از میان سنگها در جنوب شرقی به رودخانه مجاور در روستای برنجه میریزد. این چشمه دیوارهای بلند و پرشیب دارد. پایین رفتن از این دیواره های بلند بدون ریسمان و دیگر تجهیزات لازم غیر ممکن است بویژه آنکه کارشناسان احتمال میدهند وجود آب های گازکربنیک دار در ته دهانه چشمه موجب خردگی بیشتر دیواره شده و بر قطر آن افزوده است. گفته می شود که خان های محلی برای تنبیه روستاییان و مخالفان خود، به پایشان سنگ می بستند و آنها را به درون این چشمه ژرف می انداختند و علت نامگذاری زندان برنجه همین بوده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "یخچال اوغول بیگ",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2793/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2793/banner.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "در روستای اوغول بیگ که در حدود 5 کیلومتری شهرستان تکاب واقع است، آثار تاریخی زیادی از تمدن و معماری و مهندسی گذشتگان وجود دارد. از جمله این آثار قلعه، یخچال و مسجدی است که مورد بازدید گردشگران است. یخچال اوغول بیگ نمادی از معماری و مهندسی انسان های دوران بسیار دور در این روستا است که با فکر و بدون هزینه زیاد توانسته اند با ذخیره برف و یخ در فصل زمستان، گرمای طاقت فرسای تابستان را در این منطقه مهار کنند. یخچال اوغول بیگ که مربوط به دوره قاجار است، در تاریخ 27 دی 1377 با شمارهٔ ثبت 2255 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چملی گئول",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1581/chamli-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/1581/chamli-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1581/road-to-chamli-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/1581/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1581/chamli.jpg",
+                "https://fa.tripyar.com/uploads/picture/1581/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1581/chamli-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/1581/chamli-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1581/road-to-chamli-1.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "چمن متحرک یا \"چملی گول\" یکی از بی نظیرترین پدیده های ایران و حتی جهان است که در دل طبیعت تکاب جا خوش کرده و هنوز رازی سر به مهر به شمار می رود. در زبان محلی این منطقه یعنی \"جزیره ای از چمن بر روی برکه\"، چمن متحرک چملی، قطعه بزرگی از نی هایی است که از به هم چسبیدن ریشه آنها بدون ارتباط با زمین بر روی آب شناور مانده، تشکیل شده است. این چمن به صورت جزیره ‌ای متحرک با مساحت بیش از صد مترمربع بر روی برکه ای کوچک خودنمایی می‌کند که با وزش باد و جریان هوا و یا تکان خاصی به جهات مختلف تغییر مسیر داده و حرکت می ‌کند و همین امر موجب منحصر به ‌فرد شدن این جاذبه طبیعی شده ‌است. چمن به صورت معلق و شناور در وسط این برکه قرار گرفته و دارای پوشش گیاهی کاملا مطلوب و مناسب است و حتی در فصل زمستان و سرمای هوا نیز چمن آن سبزی خود را از دست نمی ‌دهد. سالانه حدود پنج هزار گردشگر داخلی و دویست گردشگر خارجی از این اثر بازدید می کنند اما این مکان هنوز ثبت ملی نشده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بقعه ایوب انصاری",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1830/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1830/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1830/ayyub-ansari.jpg"
+            ],
+            "year_built": "قرن 9 هجری قمری",
+            "architect": null,
+            "constructor": null,
+            "description": "بقعه ایوب انصاری مربوط به سدهٔ 9 ه. ق. است. این بقعه جزو زیباترین مقابر مذهبی آذربایجان به حساب می‌آید. بنای مذکور از تناسبات بسیار زیبایی برخوردار است که احتمال می‌رود 50 سال بعد از فوت این عالم و فقیه این بنا را به پاس داشت وی ساخته اند. در مورد شخصیت این عالم مطالب زیادی در دست نیست ولی از دید مردم منطقه فردی عارف بوده است. این اثر در تاریخ 17 خرداد 1335 با شمارهٔ ثبت 1244 به‌عنوان یکی از آثار ملی ایران به ثبت رسیده‌است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "محوطه تاریخی تخت سلیمان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/263/takht-e-soleyman6.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/takht-e-soleyman1.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/منظره-اطراف-تخت-سلیمان1.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/takht-e-soleyman3.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/منظره-اطراف-تخت-سلیمان5-(2).jpg",
+                "https://fa.tripyar.com/uploads/picture/263/takht-e-soleyman8.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/محوطه-تاریخی-تخت-سلیمان7.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/منظره-اطراف-تخت-سلیمان4.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/زندان-سلیمان-(3).jpg",
+                "https://fa.tripyar.com/uploads/picture/263/takht-e-soleyman9.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/منظره-اطراف-تخت-سلیمان.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/محوطه-تاریخی-تخت-سلیمان4.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/زندان-سلیمان.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/takht-e-soleyman.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/takht-e-soleyman5.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/محوطه-تاریخی-تخت-سلیمان-زندان-سلیمان.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/منظره-اطراف-تخت-سلیمان2.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/محوطه-تاریخی-تخت-سلیمان8.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/takht-e-soleyman7.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/محوطه-تاریخی-تخت-سلیمان2.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/غروب-آفتاب-محوطه-تاریخی-تخت-سلیمان.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/منظره-اطراف-تخت-سلیمان3.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/takht-e-soleyman4.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/محوطه-تاریخی-تخت-سلیمان3.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/takht-e-soleyman2.jpg",
+                "https://fa.tripyar.com/uploads/picture/263/منظره-اطراف-تخت-سلیمان5.jpg"
+            ],
+            "year_built": "سال",
+            "architect": null,
+            "constructor": "نقل اوستا کیخسرو پسر سیاوش بانی آنست.",
+            "description": "تخت سلیمان نام محوطهٔ تاریخی بزرگی در نزدیکی تَکاب و روستای تخت سلیمان در استان آذربایجان غربی و 45 کیلومتری شمال شرقی تکاب واقع است. تخت سلیمان محوطه ای باستانی است شامل چند کاخ ساسانی و آتشکده آذر گشنسب. در نزدیکی ‌آن، دو مجموعه باستانی دیگر به نامهای زندان سلیمان و تخت بلقیس قرار دارد. در اطراف زندان سلیمان آثاری از دوره مادها و سکاها بدست آمده و بر اساس این کشفیات تاریخ منطقه را به هزار سال پیش از میلاد نسبت می دهند. برخی تاریخ نویسان این مکان را شهر باستانی شیز قلمداد میکنند. کاوشگاه باستانی شیز از سوی یونسکو به عنوان میراث جهانی شناخته شده‌است و طرحهای بزرگی برای بازسازی و کاوش در آن در دست اجراست. در سالهای اخیر در جریان پژوهش های مربوط به دوران پارینه سنگی در تخت سلیمان دو محوطه باستانی شناسایی شدند که تخت سلیمان دقیقا در وسط این دو محوطه قرار گرفته است. محوطه چال تپه، استقرارگاه موقت دوران پارینه سنگی میانی بوده و محوطه چخماق لی نیز با آثاری از کارگاه ابزارسازی در این محوطه شناسایی و کشف شد. قدیمی ترین بقایای شناسایی شده قبل از اسلام مجموعه میراث جهانی تخت سلیمان به دوره ی پارینه سنگی و عصر مس و سنگی تا عصر آهن یک، دو، سه و دوره ی تاریخی ساسانی تعلق دارد. هرچند محوطه تحت عنوان تخت سلیمان نامیده می شود ولی در گذشته اسامی مختلفی چون گنزک یا گنجه و گنجک، گزکا، شیز نام داشت. ضمن این که ایلخانان آن را ستوریق و در دوره صفویه به تخت سلیمان معروف گشت.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کانی سیو پیرانشهر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3402/kani-siv.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "تپه باستانی کانی سیو مربوط به دوران قبل از تاریخ، اشکانیان، ساسانیان است و در شهرستان پیرانشهر، بخش مرکزی، دهستان پیران، روستای کانی سیو واقع شده است. تپه کانی سیو در تاریخ 25 آبان 1387 با شمارهٔ ثبت 23485 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تپه خورنج پیرانشهر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3403/khoranj-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3403/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3403/khoranj-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/3403/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3403/khoranj-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3403/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3403/khoranj-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/3403/khoranj-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3403/khoranj-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/3403/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3403/khoranj-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/3403/khoranj-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3403/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3403/khoranj-13.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "روستای خورنج در پیرانشهر در فاصله 20 کیلومتری شمال شرقی این شهر بر سر راه مهاباد قرار دارد. این روستا در مجاورت منطقه ای قرار دارد که با سنگ های عظیم الجثه ای احاطه شده که این سنگ ها به طرز شگفت انگیزی بر روی هم انباشته شده اند. در اطراف این روستا چندین تپه باستانی با تاریخ قبل از اسلام و یک کتیبه و همچنین آثار یک دژ محکم کوهستانی شناسایی شده اند که حکایت از تاریخ کهن و پرفراز و نشیب این منطقه دارد. بعضی از این آثار توسط سازمان میراث فرهنگی ثبت شده اند و بعضی دیگر در شرف ثبت شدن قرار دارند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تپه لاوین پیرانشهر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3401/lavin.jpg"
+            ],
+            "year_built": "دوران نوسنگی",
+            "architect": null,
+            "constructor": null,
+            "description": "محوطه تاریخی لاوین در پیرانشهر از مکانهای تاریخی و مهم شمال غرب کشور است که در حاشیه «رودخانه زاب» قرار گرفته و نشان دهنده وجود استقراری تاریخی از هزاره پنجم قبل از میلاد و دوران مفرغ و عصر آهن است. آخرین بار، استقراری از دوران اسلامی و در زمان زمامداری ایلخانان مغول در این محوطه شکل گرفته و به تدریج متروک شده ‌است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بازارچه مرزی پیرانشهر تمرچین",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2293/piranshahr-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2293/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2293/piranshahr-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/2293/piranshahr-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2293/banner.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "از مهمترین جاذبه های پیرانشهر «بازارچه مرزی» این شهر است. مرزی بودن منطقه، پائین بودن قیمت ها و همچنین تنوع اجناس و مارک ها باعث شده است مسافران از این بازار برای خرید دیدن کنند. این شهرستان نزدیکترین شهر به مرز عراق است و دارای مبادلات گسترده اقتصادی و فرهنگی با شمال عراق می باشد که این امر منجر به ایجاد بازارچه مرزی تمرچین و بازارچه کالاهای خارجی با پاساژهای بسیار در قلب بافت شهر شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دره بازالتی ماکو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2422/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/14.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/16.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/20.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/17.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2422/10.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "شهرستان ماکو به دلیل دارا بودن رودخانه های پرآب و تنوع اقلیمی قابل توجه، دارای دره‌ هایی متنوع است. از این رو دره‌ گردی و دره‌ نوردی در این منطقه می‌ تواند مورد توجه علاقه‌ مندان به این رشته قرار گیرد. یکی از این دره های زیبا و تماشایی دره بدولی است که میتوانید بسیاری از تحولات زمین شناسی و تراشه های سنگی زیبا و طبیعی را در آن ببینید. ساختاری که در صخره های بازالتی این دره تشکیل شده شامل ستون های چند وجهی است که از شکستگی های سنگی به هنگام سرد شدن گدازه آتشفشانی شکل گرفته است. مشاهده اتصالات عمودی صخره های بازالتی و ستون های کاملا هندسی آنها بسیار خیره کننده است. جانوران، تخته سنگ های شش ضلعی بزرگ، پوشش گیاهی دره و درختچه هایی که در میان و بالای منشور ها رشد کرده اند، جلوه ای از طبیعت بکر را در این دره به نمایش گذاشته اند. دیدن ستارگان و راه شیری در آسمان شب این منطقه بسیار هیجان انگیز و فراموش نشدنی است. از مشهورترین مکانهای دنیا برای دیدن چنین ستونهایی، میتوان به داخل و خارج دره رودخانه کلمبیا و دره کانونیها در امتداد مرز اورگان و واشنگتن در امریکا اشاره کرد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه قبان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/291/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/291/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/291/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/291/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/291/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/291/800px-maku_001.jpg",
+                "https://fa.tripyar.com/uploads/picture/291/745566_cuqvz4gd.jpg",
+                "https://fa.tripyar.com/uploads/picture/291/6.jpg"
+            ],
+            "year_built": "اسلام",
+            "architect": null,
+            "constructor": null,
+            "description": null,
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "عمارت کلاه فرنگی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/293/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/293/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/293/banner.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": "بنا متعلق علیقلی خان بیات است.",
+            "description": "عمارت کلاه فرنگی ماکو که در قسمت شرقی خیابان امام قرار دارد، قسمتی از یک مجموعه بزرگ متعلق به علی قلی خان بیات ماکوئی است و قدمت آن به اواخر دوره قاجاریه می‌ رسد. این ساختمان در دو طبقه ساخته شده و نمای بیرونی آن به شکل چند ضلعی منظم است. تزئینات گچبری و آینه‌ کاری فوق‌العاده زیبا و شیشه‌ های رنگی ارسی‌ ها، اتاق آینه کاخ گلستان را تداعی می‌ کند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بام فرهاد",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/292/دخمه-سنگی-فرهاد6.jpg",
+                "https://fa.tripyar.com/uploads/picture/292/دخمه-سنگی-فرهاد2.jpg",
+                "https://fa.tripyar.com/uploads/picture/292/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/292/banner.jpg"
+            ],
+            "year_built": "دوره اورارتویی",
+            "architect": null,
+            "constructor": null,
+            "description": "اخیراً آثار یک شهر تاریخی مربوط به هزارهٔ اول پیش از میلاد متعلق به دوره حکومت اورارتویی در شهرستان ماکو کشف شده است که در مکانی موسوم به «بام فرهاد» در ارتفاعات مجاور روستای «سنگر» در هفت کیلومتری شمال شهر ماکو قرار دارد. در پایین این شهر اورارتویی مقبره ای صخره ای نیز وجود دارد که به دخمه سنگی این منطقه موسوم است. این گور دخمه شامل اتاقهایی است که در دل کوه و درون صخره‌ ای بزرگ تراشیده شده است و با راه پله‌ ای سنگی به کوه متصل می‌ شود. دیواره‌ های سنگی دخمه فرهاد به نحو اعجاب‌ انگیزی صاف و صیقلی است به نحوی که تراشیدن چنین دیوارهای صافی در دل صخره‌ های سخت کوه حتی در زمان حال نیز مشکل به نظر می‌ رسد. داخل دخمه کاملاً تاریک است و هیچ منبع نوری وجود ندارد. این اثر در تاریخ 1 فروردین 1347 با شمارهٔ ثبت 803 به‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کاخ موزه باغچه جوق",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/290/4comod.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/9lanter.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/m.gaeini_maku8.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/3saghf2.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/1363604298.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/m.gaeini_maku23.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/2saghf.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/آذر329.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/8dast-shoor.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/13930424.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/66881360-6868-457a-861d-377a08a5d6ce.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/14.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/6otagh2.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/آذر316.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/745717_9gcao2bt.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/jogh3.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/7mobl.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/15.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/1dahliz.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/آذر318.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/13774.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/18.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/5anali.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/back.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/13921214000177_photol.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/آذر315.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/2talar.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/1841447.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/کاخ-موزه-باغچه-جوق7.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/1363182686-0138.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/1363604022.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/14-3-2-221245139212100734041632232854.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/011.jpg",
+                "https://fa.tripyar.com/uploads/picture/290/کاخ-و-موزه-باغچه-جوق-(6).jpg"
+            ],
+            "year_built": "اواخر دوره قاجار",
+            "architect": null,
+            "constructor": "تیمور تیموری",
+            "description": null,
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تالابهای معروف ماکو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/289/65106580239380028999.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/10_273023.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/س.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/1901201.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/7_273020.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/11767.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/9_273022.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/درنا-خاکستری-gamesabz.com_.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/1636220.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/8_273021.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/10464.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/felamingo.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/4_273016.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/5_273017.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/32743.png",
+                "https://fa.tripyar.com/uploads/picture/289/12_273025.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/1676200_976.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/11_273024.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/2_273014.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/hada1272-recovered.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/6_273018.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/289/1_273013.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "بورالان منطقه ای است واقع در نقطه صفر مرزی ایران و ترکیه که علاوه بر ترکیه با جمهوری نخجوان و ارمنستان هم، مرز مشترک دارد. بورالان دشتی پهناور بوده که 32 روستا و هزار و 410 خانوار روستایی و عشایری را با نزدیک به صد هزار واحد دامی که تقریبا بیش از سه برابر توان اکولوژیک مراتع است در خود جای داده است. در ایام گذشته این منطقه به بهشت گمشده آذربایجان معروف بوده است. بورالان به واسطه چشمه پرآب \"چشم ثریا\" و مجاورت با کوه های پوشیده از برف آرارات در خاک ترکیه و حضور عشایر و روستاهای متعدد با فرهنگها و آداب و رسوم مختلف و بالاخره همسایگی با سه کشور، یکی از قطب های گردشگری ایران بویژه توریسم طبیعی محسوب می شود. سی تالاب در آذربایجان غربی با آب‌ های شور و شیرین وجود دارند که 640 هزار هکتار از وسعت استان را به خود اختصاص داده‌ اند. در حال حاضر، شش تالاب آذربایجان غربی جزو کنفرانس بین المللی رامسر هستند. در این بخش به معرفی تالاب بورالان و سایر تالابهای استان آذربایجان غربی در شهرستان ماکو پرداخته ایم.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کلیسای زور زور ماکو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1583/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1583/یس.jpg",
+                "https://fa.tripyar.com/uploads/picture/1583/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1583/شظ.jpg"
+            ],
+            "year_built": "تاریخ بنای زور زور سال‌های 1315 1324 میلادی تخمین",
+            "architect": null,
+            "constructor": "اسقف اعظم کلیسای تادئوس مقدس، «زکریا» خاندان مالکین منطقه، است.",
+            "description": "کلیسای مریم مقدس که به آن کلیسای زور زور هم گفته می شود، یکی از دیدنی ترین بناهای تاریخی ایران است. در کنار سد بارون در 13 کیلومتری ماکو در روستایی به نام بارون قرار دارد. در سال‌های 1315 تا 1324 میلادی کلیسا و دیر مریم مقدس به وسیله اسقف بسداچی زاکاریا ساخته شده است. این بنا در فهرست آثار جهانی یونسکو قرار دارد. نام کلیسا از همان ابتدا «کلیسای زور زور» بوده که به خاطر این است که در دوره ای تحت نظر هوانس یرز نقاش معروف به زورزورتسی، قرار داشته، به این نام معروف شده است. بنای کلیسا صلیبی شکل است که بیشتر به یک نمازخانه کوچک شبیه‌ است. این بنا با سنگ‌های تراشیده شده در حجم‌های مختلف ساخته شده است. نمای کلیسا بسیار ساده است و فقط در اطراف پنجره‌ها و نورگیری‌ها با ستون‌های کاذبی که به قوسی جناغی منتهی می‌شوند تزیین شده است. این کلیسا، از محل خود جا به جا شده است! این اتفاق در سال 1367 افتاد و دلیلش آن بود که در جریان احیای زمین های دشت ماکو احتمال تخریب ساختمان کلیسا وجود داشت. در آن زمان سازمان میراث فرهنگی با هماهنگی خلیفه‌گری ارمنیان آذربایجان کلیسا را به مکانی امن منتقل کرد. کار جا به جایی کلیسا 25 روز طول کشید و سنگ به سنگ این بنا پس از شماره گذاری درست به همان شکلی که از اول ساخته شده بود، به محل مورد نظر که600 متر دورتر و روی یک برآمدگی صخره‌ای که در حدود 110 متر مرتفع‌تر از محل اولیه کلیسا بود منتقل شد. پس از پایان عملیات جابه‌جایی، لوح سنگی نیز بر دیوار کلیسا نصب شد. این بنای تاریخی علاوه بر فهرست یونسکو در فهرست آثار ملی نیز ثبت گردیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دره باغی ماکو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2425/darre-baghi.jpg",
+                "https://fa.tripyar.com/uploads/picture/2425/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2425/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2425/darre-baghi-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2425/darre-baghi-3.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دره باغی در 5 کیلومتری ماکو، با گذر از کنارعمارت عزت اله خان خواهرزاده سردار ماکو در بین دره ای با درختان انبوه و آبشار شِر شِر و رود خانه زنگمار جلوه زیبایی دارد. این منطقه دارای بوفه، قهوه‌خانه و کبابی است که در فضای طبیعی و مکانی زیبا پذیرای گردشگران است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تالاب سولدوز نقده",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-22.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-25.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-23.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-32.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-24.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-29.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-19.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-31.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-27.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-28.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-34.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-30.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-26.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-20.jpg",
+                "https://fa.tripyar.com/uploads/picture/3400/solduz-18.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "وجود تالاب ‌های متعدد در آذربایجان غربی و تنوع زیستی گونه های جانوری در این تالاب‌ ها و اطراف آنها سبب پیدایش مظاهر زیبای خدادادی شده است. آذربایجان غربی با 30 تالاب دایمی و فصلی از استان ‌های داری زیستگاه‌ های بسیار مطلوب آبی است که هر سال با شروع فصل تابستان میزبان گردشگران است. در این میان تالاب \"سولدوز\" در 25 کیلومتری نقده زیستگاه مطلوبی برای پرندگان است و سبب مهاجرت و حضور بسیاری از پرندگان آبزی و کنار‌آبزی و همچنین آبزیان و جانوران دیگر به این منطقه می شود. تالاب سولدوز نقده یک منطقه حفاظت شده بوده و هر گونه فعالیت صیادی و شکار پرندگان و سیار حیوانات در آن ممنوع و با متخلفان برابر مقررات برخورد‌های قانونی صورت می ‌گیرد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پل ممیند نقده",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3396/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3396/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3396/7.jpg"
+            ],
+            "year_built": "دوران صفوی قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "پل ممیند نقده مربوط به دوره قاجار است و در انتهای شرق جلگه سولدوز، روی رودخانه گادار احداث شده است. این پل که در تاریخ 29 تیر 1377 با شمارهٔ ثبت 2064 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده است مربوط به دوران صفوی است و در دوره قاجار نیز مرمت شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "یئددی گوز نقده",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3393/yedi-goz-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3393/yedi-goz-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3393/yedi-goz-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3393/yedi-goz-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3393/yedi-goz-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/3393/yedi-goz-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3393/yedi-goz-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3393/yedi-goz.jpg",
+                "https://fa.tripyar.com/uploads/picture/3393/yedi-goz-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3393/yedi-goz-9.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "شهر نقده دارای جاذبه‌ های توریستی متنوعی است. از لحاظ تاریخی می‌ توان در هفت کیلومتری نقده را مهم‌ ترین و پرتوریست ‌ترین جاذبه تاریخی این شهرستان دانست. اما از معروف ‌ترین و زیباترین جاذبه ‌های طبیعی تفریحی و جاهای دیدنی نقده، گردشگاه یئددی گوز یا گردشگاه هفت چشمه این شهر است که در منطقه طرفداران بسیاری دارد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تالاب درگه سنگی نقده",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3398/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3398/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3398/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3398/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3398/14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3398/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/3398/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3398/18.jpg",
+                "https://fa.tripyar.com/uploads/picture/3398/16.jpg",
+                "https://fa.tripyar.com/uploads/picture/3398/19.jpg",
+                "https://fa.tripyar.com/uploads/picture/3398/17.jpg",
+                "https://fa.tripyar.com/uploads/picture/3398/24.jpg",
+                "https://fa.tripyar.com/uploads/picture/3398/6.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "نقده دارای 17 تالاب فصلی و دایمی است که سالانه میزبان هزاران قطعه انواع پرندگان مهاجر و بومی بوده و از بین تالاب ‌های این شهرستان، تالاب‌ های \"درگه ‌سنگی\"، و \"یادگارلو\" جزو تالاب ‌های بین‌ المللی است. تالاب درگه سنگی از مهمترین تالابهای استان آذربایجان غربی است و منبع تامین آب آن روانابهای فصلی ناشی از بارندگی، مازاد جریان آب رودها و منشعب ازرودخانه گدارنقده، جریان چشمه ها و نشت آبهای زیرزمینی می باشد. با توجه به زاد آوری انواع پرندگان و طبیعت و کوهستان اطراف آن و سهل الوصول بودن تالاب در تمام فصول سال گردشگر زیادی به آن جذب می شود.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دره سلطان یعقوب نقده",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3395/soltan-yaghoob-valley-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3395/soltan-yaghoob-valley.jpg",
+                "https://fa.tripyar.com/uploads/picture/3395/soltan-yaghoob-valley-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3395/soltan-yaghoob-valley-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3395/soltan-yaghoob-valley-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3395/soltan-yaghoob-valley-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3395/soltan-yaghoob-valley-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3395/soltan-yaghoob-valley-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3395/soltan-yaghoob.jpg",
+                "https://fa.tripyar.com/uploads/picture/3395/soltan-yaghoob-valley-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3395/soltan-yaghoob-valley-12.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دره سرسبز سلطان یعقوب در پنج کیلومتری شهرستان نقده هر سال پذیرای کوهنوردانی از سراسر ایران است. در ارتفاعات این منطقه چشمه ‌های معدنی فراوانی وجود دارد که از لحاظ درمانی بسیار مفید است. مقبره محمد اوراز ملقب به «عقاب کوه‌ ها» اولین ایرانی صعود کننده به اورست نیز در کنار این دره قرار گرفته است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تالاب حسنلو نقده",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-26.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-28.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-34.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-27.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-41.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-42.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-38.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-23.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-35.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-36.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-30.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-50.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-37.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-24.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-19.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-44.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-43.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-39.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-25.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-29.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-32.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-20.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-31.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-40.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-22.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-33.jpg",
+                "https://fa.tripyar.com/uploads/picture/3049/hasanloo-lake-17.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "تالاب حسنلو یکی از جاذبه های طبیعی استان آذربایجان غربی است که در بیست کیلومتری شهر نقده قرار گرفته و با چشم اندازی بسیار زیبا در تمام فصول سال میزبان پرندگان بسیار است. این تالاب در کنوانسیون رامسر به همراه و یادگارلو در سال 1354 در فهرست تالاب های بین المللی به ثبت رسیده و از آن تاریخ به بعد مورد حفاظت قرار گرفته است، همچنین در جهت حفاظت و حمایت از پرندگان آبزی و کنار آبزی در سال 1380 به عنوان منطقه شکار ممنوع انتخاب شده است. مهمترین جاذبه این تالاب برخورداری از تنوع زیستی غنی پرندگان است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تپه باستانی حسنلو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/266/تپه-باستانی-حسنلو-نقده6.jpg",
+                "https://fa.tripyar.com/uploads/picture/266/تپه-باستانی-حسنلو-نقده4.jpg",
+                "https://fa.tripyar.com/uploads/picture/266/تپه-باستانی-حسنلو-نقده2.jpg",
+                "https://fa.tripyar.com/uploads/picture/266/تپه-باستانی-حسنلو-نقده7.jpg",
+                "https://fa.tripyar.com/uploads/picture/266/جام-زرین-حسنلو.jpg",
+                "https://fa.tripyar.com/uploads/picture/266/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/266/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/266/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/266/تپه-باستانی-حسنلو-نقده.jpg",
+                "https://fa.tripyar.com/uploads/picture/266/تپه-باستانی-حسنلو-نقده3.jpg",
+                "https://fa.tripyar.com/uploads/picture/266/تپه-باستانی-حسنلو-نقده1.jpg",
+                "https://fa.tripyar.com/uploads/picture/266/500x767_1456569279229828.jpg",
+                "https://fa.tripyar.com/uploads/picture/266/تپه-باستانی-حسنلو-نقده5.jpg"
+            ],
+            "year_built": "6 سال میلاد",
+            "architect": null,
+            "constructor": null,
+            "description": "تپه باستانی حسنلو در آذربایجان‌ غربی، در جنوب‌ غربی دریاچه‌ ارومیه، در منطقه‌ سرسبز شهرستان نقده و در هفت کیلومتری شمال شرقی این شهرستان واقع است و به‌ علت مجاورت با دهستان حسنلو به این نام معروف شده است. قدمت این محوطه باستانی به بیش از شش هزار سال قبل از میلاد برمیگردد. معروفترین اثر باستانی یافت شده در این محل جام طلای حسنلو است که به عصر آهن تعلق داشته و در موزه ایران باستان نگهداری می‌ شود. این جام در تاریخ باستان‌ شناسی ایران و جهان یکی از مهم‌ترین اکتشافات علمی بوده و از نادرترین آثار تاریخی دینی و هنری دنیای باستان شناسی بشمار می‌ رود. از تپه باستانی حسنلو انواع و اقسام ابزار و ادوات جنگی مانند شمشیر، خنجر، نیزه، سرنیزه‌ هایی از جنس مفرغ و آهن به همراه هزاران ظروف سفالی و اشیای استخوانی سنگی سفالی، شیشه‌ ای و فلزی گوناگون که هر یک دارای ارزش تاریخی، باستانی و هنری هستند، کشف شده است که در موزه‌ های ایران باستان، آذربایجان، آمریکا، فرانسه و دیگر کشورهای جهان نگهداری می‌ شود.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آب معدنی شیخ معروف نقده",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "چشمه شیخ معروف نقده از جاذبه های گردشگری این شهرستان است که بخاطر خاصیت درمانی آن، بسیار مورد توجه قرار دارد. آب پر خاصیت این چشمه معدنی بدون وقفه از دل زمین میجوشد و هر روز در ایام بهار و تابستان پذیرای مسافران شهرهای دور و نزدیک است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "سد حسنلو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3397/hasanloo-dam.jpg",
+                "https://fa.tripyar.com/uploads/picture/3397/hasanloo-dam-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3397/hasanloo-dam-2.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سد حسنلو نقده به منظور تامین آب اراضی محمدیار در ساحل چپ رودخانه گدار و اراضی بلندآب مشرف به مخزن سد و مجاور دریاچه ارومیه اجرا شده است. این منطقه علاوه بر سد و دریاچه از نظر تاریخی نیز ارزشمند است و همیشه مورد توجه گردشگران می باشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تالاب یادگارلو نقده",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "شهرستان نقده دارای تالابهای بین المللی متعددی است که میتوان سیران گلی، یادگارلو و شورگل را نام برد. از این تعداد، تالاب یادگارلو، کاملاً خشک شده و حالت بحرانی پیدا کرده است. سالانه بیش از 10 هزار قطعه انواع پرندگان مهاجر و بومی در تالابهای نقده زندگی می ‌کنند و از مکانهای گردشگری این شهرستان می باشند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "گمرک صوفعلی چالدران",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3406/soofali-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3406/soofali-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3406/soofali.jpg",
+                "https://fa.tripyar.com/uploads/picture/3406/soofali-2.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "از جاذبه های گردشگری روستای صوفعلی شهرستان چالدران گمرک تاریخی آن است. این بنا که در دوره قاجار ساخته شده در سال 1380 با شماره 30٥84 در فهرست آثار ملی ثبت گردید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بولاغ آواجیق",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3407/avajiq-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/avajiq.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/avajiq-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/avajiq-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/avajiq-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/avajiq-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/avajiq-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/avajiq-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/avajiq-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3407/10.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "از جاذبه های گردشگری چالدران، شیرین بولاغ آواجیق است که بعلت طبیعتی زیبا همواره مورد توجه گردشگران است و می توانید از این منطقه در تمام ایام سال لذت ببرید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار عرب دیزج چالدران",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3405/shor-shor.jpg",
+                "https://fa.tripyar.com/uploads/picture/3405/shor-shor-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3405/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/3405/shor-shor-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3405/shor-shor-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/3405/shor-shor-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3405/shor-shor-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3405/shor-shor-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3405/shor-shor-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3405/shor-shor-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3405/shor-shor-6.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار عرب دیزج که با نام‌ شرشر عرب دیزج نیز شناخته می ‌شود، در 37 کیلومتری شمال‌ غرب سیه‌ چشمه و در حاشیه روستای عرب دیزج قرار گرفته است. این آبشار چشم‌ اندازهایی بسیار زیبا دارد. تعدادی از غارهای طبیعی نیز در دل کوه‌ های مشرف به آبشار جای گرفته ‌اند که در نوع خود کم ‌نظیر هستند. اگر از علاقمندان به طبیعت هستید حتما از این آبشار طبیعی دیدن کنید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبگرم چالدران",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3052/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3052/abgarm-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3052/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3052/abgarm-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3052/abgarm.jpg",
+                "https://fa.tripyar.com/uploads/picture/3052/abgarm-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3052/abgarm-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3052/abgarm-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3052/abgarm-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3052/abgarm-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3052/abgarm-6.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبگرم معدنی چالدران از جاذبه‌ های گردشگری چالدران است. این آب معدنی در روستای گردشگری آبگرم قرار دارد و در تابستان و زمستان گردشگران زیادی را به خود جذب می‌ کند. همجواری با سه کشور و لجن و نمک درمانی دریاچه ارومیه در آذربایجان غربی نقش ویژه ای در جذب گردشگر دارد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قره کلیسا",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/870/آبگوشت-دیزی-در-قره-ضیاالدین.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/قره-کلیسا-۳.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/لک-لک-های-قره-ضیاالدین.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/قره-کلیسا-۷.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/قره-کلیسا-۴.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/آسیاب-قره-کلیسا-۱.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/قره-کلیسا-۱۳.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/قره-کلیسا-۱۴.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/قره-کلیسا-۹.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/مقبره-ساندوخت.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/لک-لک-های-قره-ضیاالدین-۱.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/قره-کلیسا-۶.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/قره-کلیسا-۱۰.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/قره-کلیسا-۱۲.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/قره-کلیسا-۱۱.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/آسیاب-قره-کلیسا.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/مسیر-منتهی-به-قره-کلیسا.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/قره-کلیسا-۲.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/قره-کلیسا-۸.jpg",
+                "https://fa.tripyar.com/uploads/picture/870/قره-کلیسا-۵.jpg"
+            ],
+            "year_built": "قدمت مکان قرون میلادی برمیگردد.",
+            "architect": null,
+            "constructor": null,
+            "description": "قره کلیسا یا کلیسای تاتائوس که از معتبرترین و پرنقش و نگارترین کلیساهای ارمنیان در ایران بوده و از شهرت جهانی برخوردار است، به عنوان نهمین اثر کشور در ردیف آثار جهانی، در سازمان علمی، فرهنگی، آموزشی ملل متحد ثبت شده است. این کلیسا با زیبایی منحصربفرد یکی از آثار تاریخی استان آذربایجان غربی است که نظر هر گردشگری را با معماری خاص و کم نظیر به خود جلب می‌ کند. قره کلیسا یا کلیسای تاتاووس از اماکن مذهبی ارامنه ایران است که چندین بار در ادوار مختلف تخریب و مجدداً بازسازی شده است. نخستین بار هنگام حمله چنگیزمغول بخش وسیعی از قره‌ کلیسا تخریب شد، اما در زمان حکومت هلاکوخان، این کلیسا به همت ”خواجه نصیرالدین طوسی“ مرمت گردید. در چهارم مرداد هر سال برابر با 26 ژوئن میلادی ارمنیان جهان برای زیارت کلیسای طاطائوس مقدس به این محل می آیند که به همراه آنها تعدادی از سفرای کشورهای مسیحی در ایران و نیز گردشگران خارجی در مراسم زیارت کلیسای طاطائوس شرکت می کنند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مقبره سید صدرالدین چالدران",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3404/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3404/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3404/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3404/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3404/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3404/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3404/14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3404/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/3404/15.jpg",
+                "https://fa.tripyar.com/uploads/picture/3404/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3404/16.jpg",
+                "https://fa.tripyar.com/uploads/picture/3404/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3404/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3404/10.jpg"
+            ],
+            "year_built": "دوره صفوی",
+            "architect": null,
+            "constructor": null,
+            "description": "آرامگاه سید صدرالدین یادگاری از جنگ چالدران بین ایران و دولت عثمانی است و از جاذبه‌ های گردشگری این شهر محسوب می ‌شود. این آرامگاه متعلق به سید صدرالدین صفوی، وزیر اعظم شاه اسماعیل صفوی است که در جنگ چالدران با رشادت ‌های فراوان با همراهی 27 هزار نفر از سربازان رشید ایران در این محل به شهادت رسید. جنگ حماسی چالدران به عنوان نگین درخشانی در تاریخ سرشار از مقاومت و حماسه ملت ایران می ‌درخشد. این مقبره در دوره صفوی ساخته شده و در تاریخ 25 اسفند 1379 با شماره ثبت 3256 در فهرست آثار ملی ایران به ثبت ملی رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد سردار",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/274/139311181339199484691434.jpg",
+                "https://fa.tripyar.com/uploads/picture/274/س.jpg",
+                "https://fa.tripyar.com/uploads/picture/274/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/274/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/274/سردار-1.jpg"
+            ],
+            "year_built": "قاجاریه",
+            "architect": null,
+            "constructor": "عبدالصمدخان، جد سردار",
+            "description": "مسجد سردار در خیابان امام شهرستان ارومیه و در امتداد بافت قدیمی شهر که به راسته غلامخان معروف است قرار دارد و از آثار دوره قاجاریه میباشد. این مسجد 400 الی 500 متر با مسجد جامع فاصله دارد و در عهد قاجاریه توسط عبدالصمدخان پدر آقاخان، جد اعظم عظیم السلطنه سردار بنا نهاده شد. سردار در سال 1330 هجری قمری به مرمت این بنا همت گماشت و در سال 1331 هجری قمری توسط وی ساعت بزرگی سر در آن نصب شده است و به همین دلیل این بنا به مسجد ساعت نیز معروف است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کتیبه کله شین موزه ارومیه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/272/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/272/موزه-ارومیه-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/272/banner.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "کتیبه سنگی کله شین در نزدیکی روستای کله‌ شین در شمال شرق عراق در حدود 200 متری از مرز ایران کشف شده است. کتیبه های کله شین، ماوانا و محمودآباد از جمله مهمترین آثار تمدن اوراتویی در موزه باستان شناسی ارومیه است. باستان شناسان معتقدند که این ستون در سال 814 قبل از میلاد به دست اشیونی پادشاه اورارتو در این محل نصب شده بوده است. نخستین کسی که این لوحه را به دنیا معرفی کرد شولتز، باستان شناس آلمانی بود که در سال 1829 این سنگ را کشف کرده و از آن کپی برداری نمود، اما چند روز بعد از کپی برداری این شخص به قتل رسید و هنگام کشته شدن رونوشت آن از بین رفت. در نهایت، پس از بررسی های بسیار در طول سالیان، پرشیل آشورشناس مشهور پس از زحمات فراوان موفق به ترجمه آن گردید. این ستون دارای دو صفحه است که بر روی هر صفحه‌ آن خطوطی به دو زبان آشوری و اورارتویی حک شده است. مفاد یک صفحه آن شامل دعا و نیایش برای رب النوع شهر و متن صفحه دیگر آن شرح عملیات جنگی است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "امامزاده غریب حسن ارومیه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3982/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3982/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3982/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3982/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3982/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3982/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3982/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3982/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3982/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3982/10.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "امامزاده غریب حسن شهرستان ارومیه جزو معتبرترین اماکن زیارتگاهی آذربایجان غربی است. امامزاده غریب حسن از نوادگان امام زین العابدین بشمار می اید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دهستان مَرگَوَر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1971/1_372260.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/dsc09732.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/dsc09064.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/dsc09039.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/30782_628.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/dsc09718.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/2013-02-13-666.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/dsc09740.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/2013-02-13-664.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/image634763311271207500.jpg",
+                "https://fa.tripyar.com/uploads/picture/1971/dsc09763.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دهستان مرگور از توابع بخش سیلوانای ارومیه، با مساحتی بالغ بر 442.5 کیلومترمربع، یکی از مناطق نادر ایران از نظر شرایط اقلیمی و موقعیت جغرافیایی و تنوع زیستی گونه های مختلف گیاهی است که در بین رشته کوه های زاگرس محصور بوده و امتداد سلسله کوه های زاگرس مانند حصاری این منطقه را در برگرفته است. دهستان مرگور از نظر وجود قله های بلند، دره های عمیق و سرسبز، چشمه های آب گرم، دریاچه های مرتفع، باغ های زیبا، رودهای کوچک و بزرگ، آبشارهای طبیعی، روستاهای زیبای کوهپایه ای و صد ها منظره طبیعی دیگرنه تنها در شمال غرب کشور بلکه در تمام کشور کم نظیر است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "امامزاده محمد ابراهیم ارومیه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3977/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3977/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3977/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3977/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3977/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3977/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3977/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3977/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3977/10.jpg"
+            ],
+            "year_built": "دوران زندیه قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "در نزدیکی شهر ارومیه در روستای امامزاده مدفن دو برادر از امامزادگان به نامهای ابراهیم و محمد که بنا به قولی چهار پشت آنها به حضرت زین العابدین می ‌رسد قرار دارد و نیز به قول برخی از معمرین مقابری که در این روستا وجود دارد به یکی از اولاد حضرت موسی بن ‌جعفر منسوب است. قدمت مقبره برکشلو «امامزادگان محمد وابراهیم» مربوط به دوره زندیه یا اوایل دوره قاجار بوده که به احتمال زیاد به جای مقبره قدیمی ‌تری ساخته شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مارمیشو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/281/مارمیشو-ارومیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/281/مارمیشو-ارومیه2.jpg",
+                "https://fa.tripyar.com/uploads/picture/281/دریاچه-مارمیشو.jpg",
+                "https://fa.tripyar.com/uploads/picture/281/مارمیشو-ارومیه3.jpg",
+                "https://fa.tripyar.com/uploads/picture/281/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/281/مارمیشو-ارومیه1.jpg",
+                "https://fa.tripyar.com/uploads/picture/281/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/281/مارمیشو-ارومیه4.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "مارمیشو یک زیستگاه آبی، کوهستانی و جنگلی واقع در شمالغربی‌ ترین نقطه کشور در نزدیکی سرحدات ایران با کشور ترکیه است. دریاچه‌ای آبی و دل‌انگیز در میان کوههای زاگرس با انبوه پوشیده از درختان جنگلی و آب جاری حاصل از ذوب برفها در این محیط قرار دارد که بسیار زیبا و معروف است. مارمیشو زیستگاه آبزیان از جمله ماهی قزل آلا و پرندگان مهاجر مختلف بوده می باشد. در محیط جنگلی مارمیشو پوشش گیاهی و جانوری متعددی وجود دارد. آبشار مارمیشو نیز در نزدیکی دریاچه و در مسیر رودخانه نازلوچای قرار گرفته است. این آبشار فصلی است و در فصل بارندگی از میان صخره‌ های کوههای اطراف رودخانه نازلوچای به آن می‌ ریزد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دره شهدا",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2443/khan-darasi.jpg",
+                "https://fa.tripyar.com/uploads/picture/2443/dareh-shohada.jpg",
+                "https://fa.tripyar.com/uploads/picture/2443/khan-darasi-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2443/dareh-shohada-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/2443/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2443/dareh-shohada-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2443/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2443/khan-darasi-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2443/dareh-shohada-3.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دره شهدا ارومیه که در زبان ترکی “خان دره سی” و در کردی “قاسملو” نامیده می شود، از مکانهای گردشگری استان آذربایجان غربی است. رودخانه های باراندوز و شهدا و جویبارها و رودهای مختلف و چشمه های متعدد بزرگ و کوچک و همچنین پوشش جنگلی و گیاهی دره شهیدان را علاوه از زیستگاه وحوش به یک منطقه تفریحی و گردشگری مبدل ساخته است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه هلاکو ارومیه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1924/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1924/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/1924/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1924/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/1924/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1924/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/1924/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/1924/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/1924/6.jpg"
+            ],
+            "year_built": "دوران اسلام",
+            "architect": null,
+            "constructor": null,
+            "description": "قلعه هولاکوخان یکی از قلعه های تاریخی و قدیمی آذربایجان است که به دوره ساسانیان و همچنین سده های میانه دوران پس از اسلام تعلق دارد. این قلعه تاریخی در بلندی های روستای آق گنبد در اسکله بین اورمیه و تبریز قرار گرفته است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه ارومیه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/317/urmia-lake-turned-red-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/دریاچه-ارومیه6.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/دریاچه-ارومیه4.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/دریاچه-ارومیه5.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/دریاچه-ارومیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/دریاچه-ارومیه3.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/دریاچه-ارومیه2.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/urmia-lake-turned-red.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/فلامینو-دریاچه-ارومیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/دریاچه-ارومیه7.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/دریاچه-ارومیه8.gif",
+                "https://fa.tripyar.com/uploads/picture/317/42.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/دریاچه-ارومیه1.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/urmia-lake-turned-red-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/دریاچه-ارومیه9.jpg",
+                "https://fa.tripyar.com/uploads/picture/317/urmia-lake-color-turned-red.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دریاچه ی اُرومیه با نام سابق دریاچه ی رضاییه، در شمال غربی ایران و در منطقه ی آذربایجان واقع شده‌است. این دریاچه طبق آخرین تقسیمات کشوری، بین دو استان و قرار گرفته است. پارک ملی دریاچه ی ارومیه پس از مرداب انزلی، از جالب‌ترین و نغزترین زیستگاه‌های طبیعی جانوران در ایران به‌شمار می‌رود. این زیست بوم بصورت بین‌المللی توسط یونسکو به عنوان منطقه تحت حفاظت به ثبت رسیده‌است. سازمان محیط زیست ایران اکثر نقاط این دریاچه را به عنوان پارک ملی شناسایی نموده‌است. دریاچه ی ارومیه، بزرگ‌ترین دریاچه ی داخلی ایران و دومین دریاچه ی آب‌شور دنیا است. این دریاچه، بزرگ‌ترین آبگیر دایمی آسیای غربی است که در شمال غرب فلات ایران قرار دارد. آب این دریاچه بسیار شور بوده و بیشتر از رودخانه‌های زرینه‌رود، سیمینه‌رود، تلخه رود، گادر، باراندوز، شهرچای، نازلو و زولا تغذیه می‌شود.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "برج سه‌ گنبد",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1749/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1749/سه4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1749/segonbad_agagiya.jpg",
+                "https://fa.tripyar.com/uploads/picture/1749/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1749/سه-گنبد-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1749/سه3.jpg"
+            ],
+            "year_built": "سال 580 قمری",
+            "architect": null,
+            "constructor": "بنا دستور امرای سلجوقی شیث قاطه المظفری",
+            "description": "سه‌گنبد نام برجی در جنوب شرقی شهر ارومیه مرکز استان آذربایجان غربی است. این بنا آرامگاه است و در سال 580 قمری ساخته شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بازار مرزی سرو ارومیه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2289/sero-border-market-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2289/seroo1.jpg",
+                "https://fa.tripyar.com/uploads/picture/2289/sero-border-market-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/2289/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2289/sero-border-market-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2289/sero-border-market-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2289/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2289/sero-border-market-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2289/sero-border-market-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2289/sero-border-market-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2289/sero-border-market-10.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سِرُو یکی از شهرهای استان آذربایجان غربی ایران است که در بخش صومای برادوست شهرستان ارومیه جای دارد. مراکز خرید پوشاک ترک در این نقطه مرزی باعث شده هرروز مسافران زیادی از اقصی نقاط کشور برای خرید کالاهای موردنیاز خود به این شهر مرزی سفر کنند. لازم به ذکر است که از شش بازارچه فعال مرزی استان آذربایجان غربی چهار بازارچه ادغام می ‌شود و بقیه بازارچه‌ ها ابقا و به فعالیت خود ادامه می ‌دهند. بازارچه‌ های مرزی رازی، سرو، ساری ‌سو ادغام شده اند و با مدیریت گمرک به فعالیت خود ادامه می ‌دهند. همچنین بازارچه تمرچین پیرانشهر نیز ادغام میشود. بازارچه صنم بولاغی که با نخجوان هم مرز است ابقا می ‌باشد و طبق روال همیشگی به فعالیت خود با مدیریت قبلی ادامه می ‌دهد، بازارچه کیله سردشت که نزدیک مرز عراق می‌ باشد نیز ابقا است و به فعالیت خود مثل گذشته ادامه می ‌دهد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "موزه ارومیه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/271/موزه-ارومیه3.jpg",
+                "https://fa.tripyar.com/uploads/picture/271/موزه-ارومیه2.jpg",
+                "https://fa.tripyar.com/uploads/picture/271/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/271/موزه-ارومیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/271/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/271/موزه-ارومیه1.jpg"
+            ],
+            "year_built": "سال 1346 شمسی",
+            "architect": null,
+            "constructor": null,
+            "description": "موزه ارومیه با 30 هزار قطعه شی تاریخی خود، یکی از غنی ترین موزه های ایران بوده و دومین گنجینه بزرگ تاریخی کشور محسوب می شود. این موزه آثاری از ماقبل تاریخ تا دوره اسلامی، اروراتویی تا قاجار را در خود جای داده است. در بازدید از این موزه می توان به راحتی دوره های مختلف تاریخ و ماقبل تاریخ ایران را به چشم دید و احساس کرد. این موزه در کل به دو بخش باستانشناسی و مردم شناسی اختصاص یافته است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "جزیره اشک",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/278/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/278/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/278/ashk.jpg",
+                "https://fa.tripyar.com/uploads/picture/278/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/278/banner.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "این جزیره در موقعیت جغرافیایی N372545 E453200 قرار دارد. این جزیره در قسمت جنوبی کبودان، در 40 کیلومتری بندر گلمانخانه قرار دارد و وسعت آن معادل 2115 هکتار است. این جزیره یک چشمه آب شیرین دارد و یکی از جالب‌ترین زیستگاه‌های پرندگان بومی و مهاجر از جمله فلامینگو و تنجه به حساب می‌آید. جزیره اشک از نظر پوشش گیاهی شبیه جزیره کبودان است و گوزن زرد ایرانی که یکی از نادرترین گوزن‌های جهان است در ان زندگی می‌کند. این جزیره در محدوده پارک ملی دریاچه ارومیه قرار دارد و ورود به آن نیازمند مجوز تردد از سازمان حفاظت محیط زیست است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "غار تاریخی تمتان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/273/آرامگاهی-در-روستای-تمتان-ارومیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/273/آرامگاهی-در-روستای-تمتان-ارومیه1.jpg",
+                "https://fa.tripyar.com/uploads/picture/273/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/273/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/273/آرامگاهی-در-روستای-تمتان-ارومیه3.jpg",
+                "https://fa.tripyar.com/uploads/picture/273/غار-تمتان-ارومیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/273/آرامگاهی-در-روستای-تمتان-ارومیه2.jpg",
+                "https://fa.tripyar.com/uploads/picture/273/غار-تمتان-ارومیه1.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "باستان شناسان و مورخان بر این باور دارند که ابتدای زندگی انسان در کوهها شکل گرفته و هر فرهنگ و تمدنی ریشه دردل کوه و سنگ دارد. در نزدیکی روستای تمتان غاری وجود دارد که قدمت اسکان انسانها در آن به 40 هزار سال قبل بر میگردد. روستای تمتان آثار تاریخی بارزش دیگری نیز از جمله قبور تاریخی و گور زیرزمینی دارد که در سفر به این منطقه بازدید از آن خالی از لطف نیست.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "گنبد",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/276/بازديد-استاندار-آذربايجان-غربي-از-روند-بازسازي-و-مرمت-بناي-سه-گنبد-در-اروميه-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/276/3gonbad-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/276/c1e2a956-de97-4f19-98ea-961966ea281a.jpg",
+                "https://fa.tripyar.com/uploads/picture/276/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/276/3gonbad-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/276/برج-سه-گنبد-ارومیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/276/127028.jpg",
+                "https://fa.tripyar.com/uploads/picture/276/segonbad_agagiya.jpg",
+                "https://fa.tripyar.com/uploads/picture/276/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/276/3gonbad-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/276/3gonbad-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/276/3gonbad-2.jpg"
+            ],
+            "year_built": "دوره سلجوقی",
+            "architect": null,
+            "constructor": "گنبد دستور امرای سلجوقی «شیث قاطه المظفری» است.",
+            "description": "طبق کتیبه این بنا، این گنبد به دستور یکی از امرای سلجوقی به نام «شیث قاطه المظفری» ساخته شده است. معماری این بنا شباهت زیادی به قبرهای قرن ششم هجری قمری به خصوص قبرهای مراغه و سایر مقبره های دوره های سلجوقی دارد. بد نیست بدانید که در عصر سلجوقی، سیر تحول آرامگاه سازی دوره اسلامی ایران، روندی رو به رشد و ترقی در پیش گرفت. ترکان سلجوقی موفق شدند که یک حکومت نمونه ایرانی اسلامی را خلق و ارائه کنند و در این میان نقش اصلی بر عهده وزیران بزرگ ایرانی آل سلجوق چون خواجه نظام الملک طوسی بود. این اثر مربوط به سده 6 ه. ق. است و در تاریخ 15 آذر 1314 با شماره ثبت 242 به عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کلیسای تاریخی سورپ گئورگ",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/288/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/288/m004.jpg",
+                "https://fa.tripyar.com/uploads/picture/288/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/288/m005.jpg",
+                "https://fa.tripyar.com/uploads/picture/288/m006.jpg",
+                "https://fa.tripyar.com/uploads/picture/288/m015.jpg",
+                "https://fa.tripyar.com/uploads/picture/288/m003.jpg",
+                "https://fa.tripyar.com/uploads/picture/288/m008.jpg",
+                "https://fa.tripyar.com/uploads/picture/288/m007.jpg"
+            ],
+            "year_built": "تاریخ احتمالی ساخت قرن هفدهم میلادی دانند.",
+            "architect": null,
+            "constructor": null,
+            "description": "شهرستان ارومیه در مقام مرکز استان آذربایجان غربی دارای سابقه تاریخی و فرهنگی کهنی است و از گذشته های دور آژار زندگی و سکونت انسان در آن به چشم می خورد. شرایط اقلیمی و زیست محیطی مناسب در دشت های این استان محیطی جذاب را برای اسکان فراهم آورده است. لذا، اقوام مختلفی در دوران های گذشته از این منطقه گذر کرده یا در آن ساکن شده اند. از بین این اقوام، ارامنه از دیرباز در ارومیه حضور داشته اند. شاهد این مدعا وجود چهل کلیسای تاریخی است که در سطح شهر ارومیه و روستاهای اطراف آن پراکنده اند. کلیسای سورپ گئورگ روستای گردآباد از جمله این کلیساهاست که کارشناسان ایتالیایی تاریخ ساخت آنرا به قرن هفدهم میلادی نسبت داده اند. این کلیسا یکی از یادگارهای ارزشمند ارامنه مهاجر دوره صفوی در حومه شهر ارومیه است. متاسفانه از پیشینه تاریخی آن اطلاعات زیادی در دست نیست. روستای گردآباد در حاشیه جاده، در دشتی معتدل و نیمه خشک قرار گرفته است و رودخانه قودوق بوغان از جنوب آن می گذرد. در این روستا، حدود 86 خانوار اعم از آذری، آشوری، ارمنی و کرد ساکن هستند که اغلب به دامداری و باغداری اشتغال دارند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تالاب گلمرز ارومیه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-20.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-23.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2860/gulamarz-14.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "بهشت های کوچک و زیادی همین نزدیکی ها وجود دارد که کمتر کسی با آنها آشناست، یکی از آنها تالابی کوچک و آرام در نزدیکی ارومیه است که بنام تالاب گلمرز شناخته می شود. در نزدیکی روستای گلمرز دریاچه‌ های بسیار زیبایی وجود دارد که عمق بزرگترین دریاجه آن حدود 14 متر و مساحت آن بالغ بر دو هکتار است. این تالاب، به عنوان یکی از زیباترین مناطق ایران شناخته شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد جامع ارومیه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/277/13.gif",
+                "https://fa.tripyar.com/uploads/picture/277/urmiye-mosque.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/masjed1_354275.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/ج2.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu2.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/ج4.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu5.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu16.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu17.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu14.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu4.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/سش.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu18.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu6.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu15.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu9.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu12.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu11.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu20.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/ج3.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu1.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/jameu13.jpg",
+                "https://fa.tripyar.com/uploads/picture/277/10.jpg"
+            ],
+            "year_built": "سلجوقی، ایلخانی، زندیه و...",
+            "architect": null,
+            "constructor": null,
+            "description": "مسجد جامع ارومیه یکی از آثار کهن و قدیمی این شهر تاریخی است و در خیابان اقبال قرار دارد. این مسجد در میان بازار قدیمی شهر واقع شده و یکی از ارکان اصلی بافت قدیمی شهر است. برخی از محققین معتقدند این بنا ابتدا آتشکده بود و بعد از تسلط مسلمین ویران شد و سپس در قرن هفتم هـ. ق بر روی آن مسجدی ساخته شد. به اعتقاد این گروه از محققین سبک تزیینات، گچ بری ها، ستون بندی ها و طاق های مسجد عینا شبیه به سبک معماری سلجوقیان است. این بنا ترکیبی از معماری دوران مختلف تاریخ ایران است. قدمت این مسجد به دوره‌ سلجوقی می‌رسد که در تاریخ 1314/09/15 و به شماره 243 در فهرست آثار ملی کشور به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه قلاتگاه اشنویه",
+            "images": [],
+            "year_built": "سال",
+            "architect": null,
+            "constructor": null,
+            "description": "تپه یا قلعه سه هزار ساله قلاتگاه در اشنویه قرار گرفته و در سال 1347 تحت عنوان قلعه و محوطه استقراری اورارتوها در لیست محوطه‌ های اورارتویی شمال ‌غرب ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منطقه گردشگری دالامپر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/287/منطقه-دالامبر-اشنویه-آذربایجان-غربی2.jpg",
+                "https://fa.tripyar.com/uploads/picture/287/منطقه-دالامبر-اشنویه-آذربایجان-غربی.jpg",
+                "https://fa.tripyar.com/uploads/picture/287/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/287/منطقه-دالامبر-اشنویه-آذربایجان-غربی3.jpg",
+                "https://fa.tripyar.com/uploads/picture/287/منطقه-دالامبر-اشنویه-آذربایجان-غربی1.jpg",
+                "https://fa.tripyar.com/uploads/picture/287/منطقه-دالامبر-اشنویه-آذربایجان-غربی4.jpg",
+                "https://fa.tripyar.com/uploads/picture/287/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/287/منطقه-دالامبر-اشنویه-آذربایجان-غربی5.jpg",
+                "https://fa.tripyar.com/uploads/picture/287/منطقه-دالامبر-اشنویه-آذربایجان-غربی6.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "کوه دالامپر در استان آذربایجان غربی، نقطه مرزی ایران، ترکیه و عراق، در 45 کیلومتری جنوب غربی ارومیه و 35 کیلومتری اشنویه قرار دارد. منطقه مرگور معروف به آلپ ایران مجموعه ای از تپه ها و کوه های پر برف تا ارتفاع 3500 متری است، این منطقه با دره ها، رودها و آبشار های پر آب و خروشان، دریاچه ها و تالاب های گوناگون مکانی پر از آرامش را برای مسافران مهیا می کند. این کوه در نقطه مرزی ایران، ترکیه و عراق واقع است و از فراز آن خاک هر سه کشور قابل مشاهده‌ است. شایان ذکر است که مناطق تالابی بورالان در مرز ایران و ترکیه و دالامپر داغی، معروف به آلپ ایران در شمال غربی کشور به عنوان پارک صلح و دوستی معرفی شدند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "گلاز چهل آسیاب اشنویه",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "گلاز و چل آش از دورافتاده ترین مناطق در شمال غربی شهرستان و از جاذبه های گردشگری اشنویه هستند. دشت های سرسبز و رودخانه های خروشان از ویژگیهای این منطقه خوش آب و هوا به شمار می روند، عبور رودخانه گلاز و باغات اطراف بر زیبایی آن افزوده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "میرآباد اشنویه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3363/mirabad-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3363/pooshabad-bridge.jpg",
+                "https://fa.tripyar.com/uploads/picture/3363/mirabad-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3363/mirabad-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3363/mirabad-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3363/mirabad-2.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "اشنویه از شهرهای استان آذربایجان غربی است که جاذبه های زیادی دارد. یکی از روستاهای این شهر روستای میر آباد می باشد که در نزدیکی اشنویه واقع شده و دارای جاذبه های فراوان است. در این روستا جنگل های زیادی نیز وجود دارد که بسیار زیبا و دیدنی بوده و برای تفریح بسیار مناسب است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کلیسای ننه مریم",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/264/کلیسای-ننه-مریم-(شرق-آشور)-ارومیه2.jpg",
+                "https://fa.tripyar.com/uploads/picture/264/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/264/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/264/کلیسای-ننه-مریم-(شرق-آشور)-ارومیه4.jpg",
+                "https://fa.tripyar.com/uploads/picture/264/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/264/کلیسای-ننه-مریم-(شرق-آشور)-ارومیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/264/کلیسای-ننه-مریم-(شرق-آشور)-ارومیه1.jpg",
+                "https://fa.tripyar.com/uploads/picture/264/کلیسای-ننه-مریم-ارومیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/264/کلیسای-ننه-مریم-(شرق-آشور)-ارومیه3.jpg"
+            ],
+            "year_built": "دوره ساسانی",
+            "architect": null,
+            "constructor": null,
+            "description": "کلیسای ننه مریم که امروزه به نام کلیسای شرق آشور نامیده می شود در خیابان قدس شهر ارومیه قراردارد و یکی از آثار بی نظیر و تاریخی آشوری های ارومیه است. نمای فعلی متعلق به دوره ساسانی است و دارای طاق های بسیار جالب و قرینه سازی کاملاً زیبا قابل مقایسه با معماری آتشکده های ساسانی است. طبق روایت نویسندگان آشوری و مسیحی این بنا قبلاً آتشکده بود و یکی از معابد معروف زرتشتیان این دیار به شمار می رفت. کلیسای ننه مریم بارها مرمت شده و شکل های ناهمگون پیدا کرده است. به نظر می رسد اولین مرمت در سال 642 و به دستور خواهر سلطان وقت چین صورت گرفت و در سال 1342 و 1343 شمسی نیز برجی جدید به کلیسا اضافه شد و خود کلیسا مورد مرمت قرار گرفت.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار سولک ارومیه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2858/suluk-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/2858/suluk-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2858/suluk-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/2858/suluk-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2858/suluk-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/2858/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2858/suluk-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2858/suluk-2.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "روستای سولک که در دره های عمیق و تپه های سرسبز نوار مرزی ایران و ترکیه قرار گرفته بواسطه کوههایی که تا اواسط تابستان اغلب پوشیده از برف است و نیز چشمه سارهای طبیعی که از دل کوهها سرچشمه می گیرند، از مناطق دیدنی استان آذربایجان غربی است. کوههای این منطقه از سرچشمه های اصلی رود روضه چای هستند که بعد از طی مسافتی نسبتا طولانی به دریاچه ارومیه می ریزد. روستای سولک در شهرستان ارومیه واقع شده و شهرت آن بواسطه وجود آبشاری نسبتا بلند در انتهای این روستا است که در فصول پرباران از کیلومترها دورتر نیز می توان آنرا تماشا کرد. در ضمن سولک یکی از مهمترین مسیرهای کوهنوردی در این منطقه و محل مناسبی جهت ایجاد کمپهای سیاحتی و پناهگاههای کوهستانی میباشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "جزیره کبودان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/279/921206_arezoo-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/279/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/279/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/279/جزيره-كبودان.jpg",
+                "https://fa.tripyar.com/uploads/picture/279/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/279/خه.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": null,
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه بسطام چایپاره",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3409/bastam-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/3409/bastam-castle-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3409/bastam-castle-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3409/bastam-castle.jpg",
+                "https://fa.tripyar.com/uploads/picture/3409/bastam-castle-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3409/bastam-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3409/bastam.jpg"
+            ],
+            "year_built": "دوره اورارتو",
+            "architect": null,
+            "constructor": null,
+            "description": "بسطام، روستایی از توابع بخش مرکزی شهرستان چایپاره در استان آذربایجان غربی است. این روستا دارای جاذبه های طبیعی و تاریخی بسیار است که می توان به دژ بسطام اشاره کرد که مربوط به دوران اورارتو می باشد. قدمت قلعه تاریخی بسطام به 800 سال قبل از میلاد مسیح می رسد و بزرگترین قلعه تمدن اورارتویی در ایران و سومین قلعه بزرگ این تمدن دردنیاست. شهر دژ بسطام به‌ شماره 949 در فهرست آثار ملی کشور به‌ ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ارزانسراهای چایپاره",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2867/qaraziaaldin-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2867/qaraziaaldin-4.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از ویژگی های اقتصادی و اجتماعی شهرستان چایپاره و مرکز آن شهر قره ضیاالدین وجود مغازه هایی در محله موسوم به ارزانسراها است. در این محدوده که شامل حد فاصل خیابان های طباطبایی شمالی و امام می شود، انواع پوشاک و کیف و کفش به قیمت مناسب در اختیار خریداران قرار می گیرد. در فصول مختلف سال به طور ویژه ایام نوروز و تابستان گردشگران مختلفی از شهرهای دور و نزدیک جهت خرید به شهر قره ضیاالدین می آیند و از مغازه های واقع در محدوده ارزانسراها خرید می کنند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پل دوقوز گوز کسیان",
+            "images": [],
+            "year_built": "دوره پهلوی",
+            "architect": null,
+            "constructor": null,
+            "description": "پل «دوقوز گوز کسیان» بر روی رودخانه آغ‌ چای و در امتداد جاده ابریشم ساخته شده که از لحاظ معماری در عصر خود بی نظیر بوده‌ است. بنای فعلی آن در اوایل دوره پهلوی بر روی پایه‌ های یک پل قدیمی مربوط به دوره ساسانی ساخته شده است. این پل بزرگترین پل سنگی آذربایجان ‌غربی به شمار می ‌رود و از آنجا که دارای نه دهنه بوده، به دوقوز گوز معروف است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "یادمان شمس تبریزی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2276/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/tomb-of-shams-tabrizi-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/tomb-of-shams-tabrizi-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/tomb-of-shams-tabrizi-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/tomb_of_shams_tabrizi.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/tomb-of-shams-tabrizi-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/tomb-of-shams-tabrizi-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/tomb-of-shams-tabrizi-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/tomb-of-shams-tabrizi-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2276/tomb-of-shams-tabrizi-4.jpg"
+            ],
+            "year_built": "قرن هجری",
+            "architect": null,
+            "constructor": null,
+            "description": "آرامگاه و یادمان شمس تبریزی از مکان ‌های گردشگری و زیارتی خوی در استان آذربایجان غربی است که به اعتقاد برخی مدفن صوفی مشرق زمین شمس تبریزی است. منار شمس تبریزی به شماره 996 در فهرست آثار ملی به ثبت رسیده است. کنگره بین‌ المللی شمس تبریزی همه ساله در شهر خوی در این مکان برگزار می گردد و علاقمندان شمس تبریزی از نقاط مختلف ایران و کشورهای همجوار در مراسم بزرگداشت این عارف گرانقدر شرکت کرده، یادش را گرامی میدارند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "موزه خوی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2912/khoy-museum-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2912/khoy-museum-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2912/khoy-museum-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/2912/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2912/khoy-museum-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2912/khoy-museum-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2912/khoy-museum-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2912/khoy-museum-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2912/khoy-museum-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2912/khoy-museum-8.jpg"
+            ],
+            "year_built": "1348 خورشیدی",
+            "architect": null,
+            "constructor": null,
+            "description": "موزه خوی گنجینه ای غنی از اشیای باستانی و تاریخی، جزو ده موزه غنی کشور است که در آن بیش از دو هزار اشیا ارزشمند نگهداری می شود. در موزه خوی اشیائ مربوط به سه دوره پیش از تاریخ، دوره تاریخی و دوره اسلامی به نمایش گذاشته شده است. از آثار با ارزش دوره تاریخی این موزه می توان به گل مهرهای دوره ساسانی و سکه های دوره اشکانی و ساسانی اشاره کرد. موزه شهرستان خوی نیز به عنوان یکی از موزه‌ های مطرح کشور به شمار می ‌رود که در سال 1348 تاسیس شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بازار خوی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-19.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-20.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-22.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/بازار-خوی-132292-همگردی.jpg",
+                "https://fa.tripyar.com/uploads/picture/1577/khoy-bazaar-3.jpg"
+            ],
+            "year_built": "دوره صفویه",
+            "architect": null,
+            "constructor": "شاه طهماسب است.",
+            "description": "بازار خوی بازاری عظیم از دوران صفویه و مرکز تجاری آن دوره آذربایجان بوده که در ضلع شرقی شهر خوی قرار دارد. با بیش از 300 سال قدمت همچنان رونق خود را حفظ کرده است و یکی از زیباترین و هندسی ترین بازارهای کشور محسوب می شود. این بازار در فهرست آثار ملی ثبت شده است. بازار خوی در مرکز شهر واقع شده و طبق کتیبه موجود که در گنجینه خوی نگهداری می شود، در زمان شاه طهماسب ساخته شده و در زمان عباس میرزا نایب السلطنه دخل و تصرفاتی در آن صورت گرفته است. از قسمت های قابل توجّه این مجموعه این است که، هر کدام از راسته ها، مربوط به شغل معینی بوده و به نام همان شغل، مانند: مسگر بازار، بورکچی بازار، زرگر بازار، خرازی بازار، فرشچی بازار و… و یا به نام اشخاص خیّر که در عمران و آبادی بازار، نقش موثّر داشته اند، مانند: امیر، جواد، حاجی بابا و… معروف بوده است که هم اکنون نیز نام های قدیمی را دارند. فرم بازار دارای پلان مستطیلی است که به علت نوسازی و گسترش شهر خوی در چند دهه اخیر دخل و تصرفاتی در آن به عمل آمده است. بقایای بازار موجود در زمان صفویه به بعد بوده مخصوصا بیشتر قسمت‌های آن به دستور عباس میرزای قاجار و توسط امیر احمدخان دنبلی و در اوائل دوران قاجاریه ساخته شده است. این بازار قدیمی با داشتن کاروانسراها و چهارسوق های متعدد یادآور روزهای پر رونق اقتصادی بازار به هنگام عبور جاده ابریشم از شهر بوده است. پنج کاروانسرای زیبا در دل این بازار سرپوشیده قدیمی بر رونق آن افزوده است کاروانسرای خان، کشمش چیلار، بلوسی، چیت ساز و کاروانسرای حاج میرهاشم و مساجد بسیار زیبا و تاریخی ملاحسن، حاج بابا و حجتیه و حمام بسیار زیبا و بی نظیر محمد بیگ و وجود دروازه سنگی با معماری منحصر به فرد در جنوب این بازار قدیمی این بنا را بیش از بیش برای علاقه مندان به بناهای تاریخی دیدنی تر کرده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منطقه حفاظت مراکان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3408/marakaan-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3408/marakaan-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3408/marakaan-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3408/marakaan-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3408/marakaan-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3408/marakaan-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3408/marakaan-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3408/marakaan-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3408/marakaan-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3408/marakaan-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3408/marakaan-7.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "منطقه حفاظت شده مراکان که تحت مدیریت اداره کل حفاظت محیط زیست قرار دارد بر اساس روزنامه رسمی کشور در تاریخ 7/6/1346 طبق مصوبه شماره یک شورای عالی شکاربانی و نظارت بر صید به عنوان منطقه حفاظت شده به تصویب رسیده ‌است. در حال حاضر منطقه حفاظت شده مراکان با حدود 40 سال سابقه حفاظت قانونی یکی از قدیمی ترین مناطق چهارگانه سازمان حفاظت محیط زیست کشور به شمار می رود.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "عمارت شهرداری خوی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2913/27.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/14.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/25.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/28.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/15.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/29.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/26.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/18.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/19.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/23.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/24.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2913/10.jpg"
+            ],
+            "year_built": "بنا سال 1307 شمسی است.",
+            "architect": null,
+            "constructor": "استاد علی اکبر توانا",
+            "description": "در میان شهر خوی در استان آذربایجان غربی، بنایی تاریخی و باشکوه دیده می شود که با معماری درخشان خود نگاه هر رهگذری را مجذوب می ‌کند. این بنا به عنوان عمارت شهرداری خوی شناخته می‌ شود. ساختمان شهرداری خوی یکی از زیباترین بناهای تاریخی استان آذربایجان غربی است که در گذشته مورد استفاده حکمرانان و بزرگان شهر خوی بوده و به نام ارگ یا ساختمان حکومتی نامیده می ‌شد. این ساختمان در دو طبقه ساخته شده و در آن از گچبری ‌ها و نقاشی ‌های زیبا استفاده شده و نشان ‌دهنده اوج ذوق و هنر معماری است. این بنای زیبا و تاریخی در سال 1312 عنوان نخستین ساختمان مستقل شهرداری خوی را بخود اختصاص داد و در تاریخ 2 شهریور 1378 با شمارهٔ ثبت 2393 به‌ عنوان یکی از آثار ملی ایران به ثبت رسید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "امامزاده سید بهلول خوی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3976/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3976/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3976/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3976/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3976/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3976/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3976/14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3976/15.jpg",
+                "https://fa.tripyar.com/uploads/picture/3976/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3976/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3976/16.jpg",
+                "https://fa.tripyar.com/uploads/picture/3976/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3976/10.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "امامزاده سید بهلول در محله ‌ای به همین نام در شهرستان خوی واقع گردیده و بزرگترین مکان زیارتی این شهر است. اکثر رجال مذهبی و سیاسی و نامی این شهر در این مکان مدفون هستند. به استناد سنگ نوشته مکان می ‌توان ادعا کرد امامزاده سید بهلول قدیمی ترین امام زاده در منطقه آذربایجان است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مجتمع آبدرمانی قطور خوی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2920/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2920/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2920/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2920/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2920/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2920/ghotur.jpg",
+                "https://fa.tripyar.com/uploads/picture/2920/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2920/shahabasi.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "در استان آذربایجان غربی مناطق گردشگری متعدد تاریخی و طبیعی وجود دارد که هر کدام به نوبه خود از جذابیت ویژه برخوردار است. در این میان چشمه های متعدد و مجتمع های آبدرمانی جایگاه ویژه ای دارند. شهر قطور در شهرستان خوی دارای چندین چشمه آب گرم معدنی بوده و مناظر زیبایی دارد. قطور به دلیل قرار گرفتن در مسیر جاده ابریشم تنها راه مرزی نزدیک به کشور ترکیه است. قطور تنها شهریست که مسافت آن با شهر وان در کشور ترکیه از طریق بازارچه رازی حدود یک ساعت است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "موزه خانه کبیری خوی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-32.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-30.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-and-museum-khoy-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-37.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-33.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2911/kabiri-house-3.jpg"
+            ],
+            "year_built": "1390",
+            "architect": null,
+            "constructor": null,
+            "description": "خانه کبیری خوی یا موزه کبیری یکی از قدیمی ترین و ارزشمندترین مکانهای تاریخی شهر خوی است و اولین موزه شخصی شمالغرب کشور در آن دایر شده است. در این موزه 750 قلم اشیای ارزشمند باستانی و تاریخی نگهداری می شود و تمامی اشیائ آن به ثبت رسیده است. با توجه به اسناد و مدراک موجود و نقاشی که در سالن طبقه دوم این خانه نصب شده است و همچنین سبک معماری آن، قدمت خانه کبیری از اواخر دوره صفوی تا اوایل دوره قاجار تخمین زده می شود. این خانه تاریخی متعلق به حاج میر اسماعیل کبیری بوده که به همین نام ثبت شده است و در اختیار ادره میراث فرهنگی آذربایجان غربی قرار گرفته است. خانه‌ کبیری در پنجم اردیبهشت 1356، با شماره‌ی 1613 در فهرست آثار ملی ایران به ثبت رسیده است و در سال 1390 نیز مجوز راه اندازی موزه به قنبر اکبری موزه دار شخصی خوی اعطا شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد مطلب خان خوی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2910/13.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/21.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/5.png",
+                "https://fa.tripyar.com/uploads/picture/2910/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/14.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/37.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/25.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/29.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/26.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/18.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/16.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/20.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/24.jpg",
+                "https://fa.tripyar.com/uploads/picture/2910/10.jpg"
+            ],
+            "year_built": "بازمانده دوره ایلخانی مرمت دوران تاریخ",
+            "architect": null,
+            "constructor": "بنا مطلب خان احیا است.",
+            "description": "مسجد «مطلب خان» خوی که بزرگترین مسجد رو باز و از بناهای تاریخی-مذهبی آذربایجان غربی به شمار می‌ رود، از ویژگی‌ های معماری کم نظیر برخوردار است. این بنا که در دوره قاجار تجدید بنا شده است، در مرکز شهر خوی جای گرفته است. مسجد مطلب خان بازمانده از دوره ایلخانی است که سبک معماری آن متعلق به دوره سلجوقی می باشد. این بنا از داخل به شکل هشت ضلعی بوده و دارای شبستان بزرگ روباز مربع شکلی می باشد که دور تا دور آنرا حجره‌های دو طبقه و شاه ‌نشین‌های رفیع و ایوانی عظیم احاطه کرده‌است. جبهه بیرونی و درونی این مسجد آجری، فاقد هر نوع تزئینات است و فقط قسمت فوقانی شاه‌ نشین بالای محراب ورودی شبستان، با مقرنس‌ های درشت گچی آرایش داده شده‌ است. این اثر در تاریخ 19 اسفند 1380 با شمارهٔ ثبت 4846 به‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پل خاتون خوی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1575/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1575/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1575/41093.jpg"
+            ],
+            "year_built": "دوره سلجوقی",
+            "architect": null,
+            "constructor": null,
+            "description": "پل خاتون در 3 کیلو متری جنوب شهرستان خوی بر روی رود خانه قطور و در راستای جاده خوی به ارومیه قرار گرفته است. در قسمت فوقانی پل، آجر به کار رفته و دارای هفت دهانه بزرگ آب رو بوده و در بین دهانه های بزرگ پایه های سنگی قرار گرفته و به طور منظّم، هفت دهانه طاق نمای تزئینی در این پل وجود دارد. در گذشته کاروان هایی که از عثمانی می آمدند، از این پل عبور می کردند و تا چند سال پیش نیز گذرگاه مردم بوده، ولی در سال های اخیر در راستای آن، پلی جدید ساخته شده و راه ارتباطی مردم از روی پل جدید است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "حوضخانه عباس مهاباد",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3388/abbasagha-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3388/abbasagha-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3388/abbasagha-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3388/abbasagha.jpg",
+                "https://fa.tripyar.com/uploads/picture/3388/abbasagha-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/3388/abbasagha-5.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از چند حوضخانه موجود در مساجد شهر مهاباد که قدمت آنها به 200 سال قبل برمیگردد و نمونه کاملی از حوضخانه های قدیمی مساجد می باشد حوضخانه مسجد عباس آقا است. این مکان توسط شخصی نیکوکار به همین نام ‌وقف شده است و آب این حوض از قنات های زیرزمینی تامین میشود. حیاط مسجد نیز که دور تا دور حوضخانه را دربر گرفته بزرگ و با صفا بوده و در گوشه شمالی حیاط ساختمان خانقاه با پنجره های رنگارنگ خودنمایی میکند. حوضخانه عباس آقا مهاباد به شماره 16389 و در سال 1385 در فهرست آثار ملی قرار گرفته است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "گور دخمه فخریگاه فقرگاه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1576/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1576/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1576/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1576/fakhrigae1.jpg",
+                "https://fa.tripyar.com/uploads/picture/1576/banner.jpg"
+            ],
+            "year_built": "دوره مادها",
+            "architect": null,
+            "constructor": null,
+            "description": "در 15 کیلومتری شمال شهرستان مهاباد و در جنوب قریه اگریگاش اثر تاریخی با عظمت فخریگاه از دوره مادها قرار دارد. این دخمه دو طبقه‌ دارد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "غار تاریخی سهولان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/280/غار-سهولان-مهاباد4.jpg",
+                "https://fa.tripyar.com/uploads/picture/280/غار-سهولان-مهاباد2.jpg",
+                "https://fa.tripyar.com/uploads/picture/280/غار-سهولان-مهاباد.jpg",
+                "https://fa.tripyar.com/uploads/picture/280/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/280/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/280/غار-سهولان-مهاباد3.jpg",
+                "https://fa.tripyar.com/uploads/picture/280/غار-سهولان-مهاباد1.jpg",
+                "https://fa.tripyar.com/uploads/picture/280/غار-سهولان-مهاباد5.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": null,
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "حمام میرزا رسول مهاباد",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3385/mirza-rasool-bathouse-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/3385/mirza-rasool-bathouse-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3385/mirza-rasool-bathouse-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3385/mirza-rasool-bathouse-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3385/mirza-rasool-bathouse-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3385/mirza-rasool-bathouse-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3385/mirza-rasool-bathouse-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3385/mirza-rasool-bathouse-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3385/mirza-rasool-bathouse-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3385/mirza-rasool-bathouse-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3385/mirza-rasool-bathouse-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3385/mirza-rasool-bathouse-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3385/mirza-rasool-bathouse-7.jpg"
+            ],
+            "year_built": "1386",
+            "architect": null,
+            "constructor": null,
+            "description": "حمام میرزا رسول از اماکن تاریخی مهاباد است که پس از مرمت و بازسازی توسط اداره میراث فرهنگی، صنایع دستی و گردشگری آذربایجان‌ غربی به موزه مردم‌ شناسی تبدیل شده است. این بنای زیبا که قدمت آن به اواخر دوره صفویه برمی‌ گردد توسط شخصی به نام میزرا رسول ساخته شده است. از نظر تعداد اشیای اهدایی، موزه مهاباد در سطح ایران کم ‌نظیر است و نظر هر گردشگری را به خود جلب می ‌کند. این مکان تاریخی در 19 اسفند 1380 با شمارهٔ ثبت 4848 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده است و پربازدیدترین موزه آذربایجان‌غربی شناخته شده‌ است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "حوضخانه شاه درویش مهاباد",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3386/shah-darvish-3.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "حوضخانه شاه درویش که متعلق به دوره قاجار است به عنوان وضوخانه استفاده می شده است. این اثر تاریخی که در سال 85 با شماره 16593 در فهرست آثار ملی به ثبت رسیده است به همراه چند حوضخانه دیگر از آثار تاریخی شهرستان مهاباد به شمار می ‌رود که از سبک معماری قاجاری و صفوی برای ساخت آنها استفاده شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "سد مهاباد",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-20.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-23.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/2783/mahabad-dam-19.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سد مهاباد یکی از سد های استان آذربایجان غربی است که در سال 1348 توسط مهندسان یوگسلاویایی، در ضلع غربی شهر مهاباد ساخته شده و تنها یک کیلومتر با این شهر فاصله دارد و یکی از نزدیکترین سدها به مناطق مسکونی در جهان به شمار می آید. سد مهاباد علاوه بر اینکه یک جاذبه طبیعی تاریخی منحصر به فرد در ایران و حتی خاورمیانه محسوب می شود؛ جزو ده سد پرآب کشور است که برای تداوم تامین آب شرب شهری و سیراب کردن محصولات زراعی و باغی بسیار دارای اهمیت بسیار است. همچنین این سد شامل دو توربین فرانسیس جمعا به قدرت 6 مگاوات است. ظرفیت تولید این نیروگاه 6 مگاوات است. هر سال با آغاز فصل بهار مسافران و گردشگران نوروزی از محل تاج این سد 50 ساله بازدید می کنند و از مناظر اطراف لذت می برند. جاده‌ های ارتباطی مهاباد به سردشت و پیرانشهر از کنار این دریاچه عبور می ‌کند. از نواحی دیدنی اطراف این دریاچه می‌ توان به جزیره، قاضی آباد، سر میدان و تاقه دار اشاره کرد. تفریحاتی همچون شنا و ماهیگیری در دریاچه صورت می ‌گیرد. از ماهی ‌های این دریاچه می ‌توان به ماهی کپور و سوف اشاره کرد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد جامع مهاباد",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3384/mahabad-jame-mosque-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3384/mahabad-jame-mosque-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3384/mahabad-jame-mosque-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3384/mahabad-jame-mosque.jpg",
+                "https://fa.tripyar.com/uploads/picture/3384/mahabad-jame-mosque-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3384/mahabad-jame-mosque-5.jpg"
+            ],
+            "year_built": "دوره صفوی",
+            "architect": null,
+            "constructor": "بداق سلطان مکری",
+            "description": "مسجد جامع سرخ مهاباد مربوط به دوره صفوی است و در داخل شهر مهاباد واقع شده است. این مسجد از اقدامات مهم عمرانی بداق سلطان مکری می‌ باشد که در سال 1089 بنا گردید و همچنان پابرجا است. این مسجد به واقع بخشی از تاریخ معاصر مهاباد و گواه آشکاری بر فرهنگ دوستی و هنرورزی مردم این دیار است. این اثر در تاریخ 25 آبان 1348 با شمارهٔ ثبت 882 به ‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بداق سلطان مهاباد",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/3645/bodaq-soltan-18.jpg"
+            ],
+            "year_built": "دوره صفوی",
+            "architect": null,
+            "constructor": null,
+            "description": "آرامگاه \"بداق سلطان\" که حکمران مهاباد در دوران صفویه بود، از بناها و اماکن زیارتی مهاباد است. دوران حکومت وی یکی از شکوفاترین دوران تاریخ این منطقه به شمار می ‌رود و آثار تاریخی فراوان از جمله مسجد جامع و پل سرخ مهاباد در دوران وی ساخته شده است. آرامگاه وی در فهرست آثار ملی ایران ثبت گردیده و یکی از چند آثار ارزشمند تاریخی شهر مهاباد می باشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "additional_info": [
+        "http://af.samta.ir",
+        "https://3click.com",
+        "https://af.samta.ir",
+        "https://berimkouh.com",
+        "https://borna.news",
+        "https://ctmehr.com",
+        "https://emroozkojaberim.com",
+        "https://fa.wikipedia.org",
+        "https://mehrzadtrade.com",
+        "https://news.abfaazgharbi.ir",
+        "https://safarmarket.com",
+        "https://snapp.ir",
+        "https://uhim.ir",
+        "https://www.alibaba.ir",
+        "https://www.eligasht.com",
+        "https://www.flytoday.ir",
+        "https://www.isna.ir",
+        "https://www.mehrnews.com",
+        "https://www.pateh.com",
+        "https://www.snapptrip.com",
+        "https://www.tasnimnews.com",
+        "https://www.wnn.wrm.ir"
+    ]
+}

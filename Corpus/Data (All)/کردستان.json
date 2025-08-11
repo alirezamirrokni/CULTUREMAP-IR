@@ -1,0 +1,1723 @@
+{
+    "title": "استان کردستان",
+    "location": {
+        "province": "کردستان",
+        "city": null
+    },
+    "geographical_features": [
+        {
+            "category": "رودخانه‌ها",
+            "description": [
+                {
+                    "name": "رودخانه قزل اوزن",
+                    "images": [
+                        "https://www.eligasht.com/Blog/wp-content/uploads/2018/09/Poldokhtarm.jpg",
+                        "https://mrbilit.com/mag/wp-content/uploads/2021/02/1-115.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه سفیدرود",
+                    "images": [
+                        "https://purson.ir/Media/Image/1400/01/02/637520094659171644.jpg",
+                        "https://www.rouydad24.ir/files/fa/news/1403/1/26/909185_521.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه سیروان",
+                    "images": [
+                        "https://last-cdn.com/2021/05/04/6i1XDK7frAwOszpFLflApDOEEThqgmoZYkFy6hC6.jpeg",
+                        "https://cdn.mashreghnews.ir/d/2022/03/14/4/3425440.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه زرینه رود",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_image",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه‌های گاوه رود",
+                    "images": [
+                        "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+                        "https://techrato.com/wp-content/uploads/2022/04/سفیدرود-min.jpg",
+                        "https://images.kojaro.com/2023/4/1bc1c2ac-0f31-42c6-857a-ef8d4f45475c.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه قشلاق",
+                    "images": [
+                        "https://www.flytoday.ir/blog/wp-content/uploads/2023/06/جاهای-دیدنی-سنندج-17.jpg",
+                        "https://img9.irna.ir/d/r2/2020/06/12/4/157169743.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه قم چقادر",
+                    "images": [
+                        "https://i.pinimg.com/originals/19/04/6b/19046bf091c79803f3b3a928e8bce72c.png",
+                        "https://app.akharinkhabar.ir/images/2014/03/30/59796196-974d-4f4f-a25d-3f06cb598695.jpeg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه تلوار",
+                    "images": [
+                        "http://s9.picofile.com/file/8279648442/IMG_2016122317998.jpg",
+                        "http://s8.picofile.com/file/8279647618/IMG_2016122313544.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه سقز یا جغتو",
+                    "images": [
+                        "https://i1.delgarm.com/i/804/9905/26/5f38d64bd0d0e.jpg",
+                        "https://images.kojaro.com/2018/6/b833496e-713b-4b53-9268-278c568a7770.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه ریخلان",
+                    "images": [
+                        "https://images.irantarh.com/pr:sharp/rs:fit:0:0:0/plain/s3:/uploads/designs/photo/41/3828.jpg",
+                        "https://i.ytimg.com/vi/LilxwmobRFs/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYVSBlKDUwDw==&rs=AOn4CLAq7DjRxaEAUVjg1gFpAJz3gbobbA"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه زرینه رود سقز",
+                    "images": [
+                        "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+                        "https://www.alaedin.travel/Files/Jazebe/saqqez/zarrineh-river-in-saqqez/Alaedin-Travel-Agency-Attraction-Saqqez-Zarrineh-River-1.jpg",
+                        "https://www.alaedin.travel/Files/Jazebe/saqqez/zarrineh-river-in-saqqez/Alaedin-Travel-Agency-Attraction-Saqqez-Zarrineh-River-4.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "کوه‌ها",
+            "description": [
+                {
+                    "name": "قله زلیخا",
+                    "images": [
+                        "https://atacg.ir/wp-content/uploads/2023/08/قله-زلیخا-بام-استان-کردستان.jpg",
+                        "https://berimkouh.com/images/destinations/large/16425070772169.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "دریاچه‌ها",
+            "description": [
+                {
+                    "name": "دریاچه زریوار",
+                    "images": [
+                        "https://emroozkojaberim.com/mi_ax/Original/1402/10/352.jpg",
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87-%D8%B2%D8%B1%DB%8C%D9%88%D8%A7%D8%B1.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه سد قشلاق",
+                    "images": [
+                        "https://emroozkojaberim.com/mi_ax/Original/1402/10/360.jpg",
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87-%D8%B3%D8%AF-%D9%82%D8%B4%D9%84%D8%A7%D9%82.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه سد بانه",
+                    "images": [
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87-%D8%B3%D8%AF-%D8%A8%D8%A7%D9%86%D9%87.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "چشمه‌ها",
+            "description": [
+                {
+                    "name": "چهل چشمه",
+                    "images": [
+                        "https://tishineh.com/tour/Pictures/Item/1556/18555.jpg",
+                        "https://last-cdn.com/2020/01/23/VszfDZAgPyvNzWXASVx4RvM3RfzqwLT6Bixil9e0.jpeg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب معدنی باباگرگر",
+                    "images": [
+                        "https://tishineh.com/tour/Pictures/Item/1547/33190.jpg",
+                        "https://tishineh.com/tour/Pictures/Item/1547/18496.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب معدنی گواز",
+                    "images": [
+                        "https://static.cdn.asset.aparat.com/avt/46487321-8241-b__4071.jpg",
+                        "https://saednews.com/storage/media-center/images/ac-image-ae16325620757q.jpeg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب تلخ پیرصالح",
+                    "images": [
+                        "https://www.alaedin.travel/Files/Jazebe/bijar/bitter-water-spring-in-bijar/Alaedin-Travel-bitter-water-spring-in-bijar-1.jpg",
+                        "https://tishineh.com/tour/Pictures/Item/1737/20488.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه سراب",
+                    "images": [
+                        "https://last-cdn.com/2020/01/28/coLc0wHjSWZfItyi6e0uqyZE0RbImjJug0X5ePzr.jpeg",
+                        "https://last-cdn.com/2020/01/28/uz53ufsX13I96jk9l6Pa0FAYq3rw4M1EoYlaS9Qq.jpeg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه خاور آباد",
+                    "images": [
+                        "https://media.chtn.ir/old/upload/files/2021-01/1610996195_014.jpg",
+                        "https://media.salameno.com/d/2022/04/25/0/15339804.jpeg?ts=1650894389214"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه هفت آسیاب",
+                    "images": [
+                        "https://jamejamonline.ir/Media/Image/1394/02/06/635656627123702602.jpg",
+                        "https://media.mehrnews.com/d/2015/04/02/3/1630112.jpg?ts=1486462047399"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه قمچقای",
+                    "images": [
+                        "https://visitiran.ir/visitPic/de2e/public/2019-12/ghamchoghay.jpg",
+                        "https://media.farsnews.ir/Uploaded/Files/Images/1402/01/06/14020106000171_Test_PhotoN.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه سراب وینسار",
+                    "images": [
+                        "https://last-cdn.com/2020/01/28/coLc0wHjSWZfItyi6e0uqyZE0RbImjJug0X5ePzr.jpeg",
+                        "https://ghajer.com/assets/image/upload/DSC04008.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه های اورامان ژاورود مریوان",
+                    "images": [
+                        "https://www.snapptrip.com/blog/wp-content/uploads/2018/07/اورامان.jpg",
+                        "https://images.kojaro.com/2021/5/b149846c-bfbb-4d7e-8916-9d0c4ef26b37.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب معدنی باباگرگر",
+                    "images": [
+                        "https://www.pateh.com/blog/wp-content/uploads/2024/07/cheshmeh-baba-gargar.webp",
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%DA%86%D8%B4%D9%85%D9%87%E2%80%8C-%D8%A2%D8%A8-%D9%85%D8%B9%D8%AF%D9%86%DB%8C-%D8%A8%D8%A7%D8%A8%D8%A7%DA%AF%D8%B1%DA%AF%D8%B1.jpg",
+                        "http://gardeshgariiran.ir/wp-content/uploads/2014/02/قروه887.jpg",
+                        "http://gardeshgariiran.ir/wp-content/uploads/2014/02/قروه-300x199.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه گواز",
+                    "images": [
+                        "https://www.pateh.com/blog/wp-content/uploads/2024/07/cheshmeh-govaz.webp",
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%DA%86%D8%B4%D9%85%D9%87-%DA%AF%D9%88%D8%A7%D8%B2.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "آبشارها",
+            "description": [
+                {
+                    "name": "آبشارگویله",
+                    "images": [
+                        "https://www.cafeerent.com/storage/www/blog/2022-10/waterfalls_in_kurdistan/3.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار سلور",
+                    "images": [
+                        "https://www.cafeerent.com/storage/www/blog/2022-10/waterfalls_in_kurdistan/4.jpg",
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D8%B3%D9%84%D9%88%D8%B1.jpg",
+                        "https://www.pateh.com/blog/wp-content/uploads/2024/07/sloz.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشارهای چهل چشمه",
+                    "images": [
+                        "https://www.cafeerent.com/storage/www/blog/2022-10/waterfalls_in_kurdistan/5.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار ویلزی",
+                    "images": [
+                        "https://www.cafeerent.com/storage/www/blog/2022-10/waterfalls_in_kurdistan/5.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار تنگی ور",
+                    "images": [
+                        "https://www.cafeerent.com/storage/www/blog/2022-10/waterfalls_in_kurdistan/6.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار بل",
+                    "images": [
+                        "https://www.cafeerent.com/storage/www/blog/2022-10/waterfalls_in_kurdistan/7.jpg",
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D8%A8%D9%84.jpg",
+                        "https://www.pateh.com/blog/wp-content/uploads/2024/07/abshar.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار گویله",
+                    "images": [
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Ctmehr-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%DA%AF%D9%88%DB%8C%D9%84%D9%87.jpg",
+                        "https://safarmarket.com/blog/data/uploaded_files/151905050937961f0345f717.jpg",
+                        "https://www.pateh.com/blog/wp-content/uploads/2024/07/abshar-gavile.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار قلوز",
+                    "images": [
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D9%82%D9%84%D9%88%D8%B2.jpg",
+                        "https://www.pateh.com/blog/wp-content/uploads/2024/07/abshar-gloz.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "آبشار گویله",
+                    "images": [
+                        "https://safarmarket.com/blog/data/uploaded_files/2ba5d1c350f1ccc8045e91ff.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "معرفی آبشار گویله",
+                    "images": [
+                        "https://safarmarket.com/blog/data/uploaded_files/fb708685eb8e2561817c75f0.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رستوران های آبشار گویله",
+                    "images": [],
+                    "vote": [
+                        {
+                            "labels": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "دشت‌ها",
+            "description": [
+                {
+                    "name": "دشت بیلو",
+                    "images": [
+                        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Balad-%D8%AF%D8%B4%D8%AA-%D8%A8%DB%8C%D9%84%D9%88.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آب",
+            "description": [
+                "بارندگی ساالانه حدود 005 میلی متر",
+                "بخش اعظم آب ها به روان آب سطحی تبدیل می شود",
+                "54 درصد آب ها به داخل زمین نفوذ می کند یا تبخیر می شود"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "طال",
+                "سنگ آهن",
+                "سنگ مرمر",
+                "گرانیت",
+                "سیلیس"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "معادن",
+            "description": [
+                "سنگ مرمریت قرمز",
+                "سنگ ترائونیکس",
+                "کانسنگ آهن پلاسری",
+                "لاشه",
+                "آهم",
+                "شن",
+                "ماسه",
+                "فلزی",
+                "آهنی",
+                "فلدسپات"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": [
+                "مناطق کوهستانی با پوشش گیاهی انبوه",
+                "آب و هوای معتدل و بارندگی فراوان",
+                "مناطق مناسب برای کشاورزی و باغداری"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ارتفاعات",
+            "description": [
+                "دامنه های پرشیب و دره های تنگ و عمیق",
+                "ارتفاعات در بخش غربی استان",
+                "مناطق با شیب تند و خطر لغزش زمین"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "وجود کوه های گنبدی شکل و رسوبی",
+                "تپه ماهوری در دشت ها",
+                "تغییرات ناگهانی در شیب دامنه ها"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "وجود رسوبات آهکی و فرسایش آب های روان",
+                "تشکیل غارها و سراب ها",
+                "مناطق معدنی با چشمه های آب گرم"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "زرینه رود",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%B2%D8%B1%DB%8C%D9%86%D9%87-%E2%80%8C%D8%B1%D9%88%D8%AF.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "پرآب‌ترین رود شمال غرب کشور، زرینه رود است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه سد قشلاق",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87-%D8%B3%D8%AF-%D9%82%D8%B4%D9%84%D8%A7%D9%82.jpg",
+                "https://emroozkojaberim.com/mi_ax/Original/1402/10/360.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دریاچه وحدت یا دریاچه سد قشلاق یکی از مهم‌ترین جاذبه های گردشگری استان کردستان در نزدیکی شهر سنندج است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه سد بانه",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87-%D8%B3%D8%AF-%D8%A8%D8%A7%D9%86%D9%87.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "این دریاچه یکی از زیباترین چشم‌اندازهای جاده‌های استان کردستان است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه زریوار",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87-%D8%B2%D8%B1%DB%8C%D9%88%D8%A7%D8%B1.jpg",
+                "https://emroozkojaberim.com/mi_ax/Original/1402/10/352.jpg",
+                "https://www.jabama.com/mag/wp-content/uploads/2021/11/%D8%AF%D8%B4%D8%AA-%D8%A8%DB%8C%D9%84%D9%88.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از زیباترین جاذبه های گردشگری مریوان و کردستان دریاچه همیشه زیبای زریوار است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار بل",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D8%A8%D9%84.jpg",
+                "https://www.jabama.com/mag/wp-content/uploads/2021/11/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%DB%8C-%D8%B3%D9%86%D9%86%D8%AF%D8%AC.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "صحبت از عجایب خلقت در کردستان تقریبا شوخی است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار گویله",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Ctmehr-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%DA%AF%D9%88%DB%8C%D9%84%D9%87.jpg",
+                "https://emroozkojaberim.com/mi_ax/Original/1402/10/365.jpg",
+                "https://www.jabama.com/mag/wp-content/uploads/2021/11/%D8%AF%D8%B4%D8%AA-%D8%A8%DB%8C%D9%84%D9%88.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "۳۹ کیلومتر بعد از مریوان در جاده مریوان ـ سقز به روستای گویله و آبشار گویله می‌رسید",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار قلوز",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D9%82%D9%84%D9%88%D8%B2.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "قلوز یا سنگین آباد یکی از جاذبه های گردشگری کردستان نزدیک شهر قروه است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار سلور",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D8%B3%D9%84%D9%88%D8%B1.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار سلور را می‌توان یکی از جاذبه های گردشگری کردستان با دسترسی سخت دانست",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چشمه آب معدنی باباگرگر",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Google-Maps-%DA%86%D8%B4%D9%85%D9%87%E2%80%8C-%D8%A2%D8%A8-%D9%85%D8%B9%D8%AF%D9%86%DB%8C-%D8%A8%D8%A7%D8%A8%D8%A7%DA%AF%D8%B1%DA%AF%D8%B1.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "باباگرگر روستایی در نزدیکی شهر قروه کردستان است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دشت بیلو",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Balad-%D8%AF%D8%B4%D8%AA-%D8%A8%DB%8C%D9%84%D9%88.jpg",
+                "https://www.jabama.com/mag/wp-content/uploads/2021/11/%D8%AF%D8%B4%D8%AA-%D8%A8%DB%8C%D9%84%D9%88.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "به دشت‌های اطراف روستای بیلو در ۱۵ کیلومتری شمال شرق شهر مریوان دشت لک‌لک‌های بیلو گفته ‌می‌شود",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک کوهستانی پیرمراد",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/06/Balad-%D9%BE%D8%A7%D8%B1%DA%A9-%DA%A9%D9%88%D9%87%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D9%BE%DB%8C%D8%B1%D9%85%D8%B1%D8%A7%D8%AF.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "کوه آربابا پارک تفریحی پیرمراد قرار دارد که محل مناسبی حتی برای سکونت چند روزه شماست",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "غار سنگی حسین کوه کن",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "غار سنگی حسین کوه‌کن یکی دیگر از جاذبه‌های طبیعی کردستان واقع در شهر بانه است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کوه آربابا",
+            "images": [
+                "https://emroozkojaberim.com/mi_ax/Original/1402/10/379.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "کوه آربابا در بانه، یکی از خاطره‌انگیز‌ترین مکان‌های تاریخی در کردستان بوده و امروزه به عنوان یک جاذبه طبیعی گردشگری مهم به شمار می‌رود",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کوه چهل چشمه",
+            "images": [
+                "https://emroozkojaberim.com/mi_ax/Original/1402/10/366.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از مرتفع‌ترین کوه‌های استان کردستان کوه چهل چشمه است که با ارتفاع ۳۱۷۳ متر از سطح آب‌های آزاد و در ۵۳ کیلومتری جنوب شرقی شهرستان سقز قرار گرفته است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پارک جنگلی آبیدر سنندج",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "جالب است بدانید این پارک را به دلیل تراوش فراوان آب، آبیدر (آب به در) می‌خوانند",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "رودخانه سیروان",
+            "images": [
+                "https://emroozkojaberim.com/mi_ax/Original/1402/10/362.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "بخشی از رودخانه سیروان که در منطقه هورامان جریان دارد، یکی از مهم‌ترین و زیباترین رودخانه‌های غرب ایران در استان کردستان است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چشمه بابا گرگر",
+            "images": [
+                "https://emroozkojaberim.com/mi_ax/Original/1402/10/369.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "چشمه بابا گرگر، یکی از چشمه‌های معدنی شناخته‌شده و جذاب در نزدیکی شهر قروه است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "زرینه رود",
+            "images": [
+                "https://emroozkojaberim.com/mi_ax/Original/1402/10/371.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از مهم‌ترین و طولانی‌ترین رودهای استان کردستان زرینه‌رود است که از کوه‌های زاگرس سرچشمه می‌گیرد و از میان مناظر کوهستانی و دشت‌های سرسبز این استان جاری می‌شود",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "رود سیروان",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "رودخانه سیروان یکی از جاهای دیدنی کردستان است که از به هم پیوستن رودهای بخش‌های غربی، مرکزی و جنوب غربی استان کردستان شامل قشلاق، گردلان و گاوه‌رود به وجود آمده است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه سد قشلاق وحدت",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سد قشلاق یا وحدت که روی رودخانه‌ی قشلاق ساخته شده آب آشامیدنی و کشاورزی منطقه را تامین می‌کند اما جذابیت این سد به دریاچه‌ای که پشت آن قرار دارد و فضای سبز اطراف آن برمی‌گردد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چهل چشمه",
+            "images": [
+                "https://tishineh.com/tour/Pictures/Item/1556/18555.jpg",
+                "https://last-cdn.com/2020/01/23/VszfDZAgPyvNzWXASVx4RvM3RfzqwLT6Bixil9e0.jpeg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "اگر اهل کوه‌نوردی باشید این منطقه در کردستان انتخاب اول شما خواهد بود",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چشمه بل",
+            "images": [
+                "https://www.jabama.com/mag/wp-content/uploads/2021/11/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%DB%8C-%D8%B3%D9%86%D9%86%D8%AF%D8%AC.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "چشمی پل یکی از چشمه‌های طبیعی استان کرمانشاه است که از کوه‌های شاهو سرچشمه گرفته و حوضه آبریز آن در استان کرمانشاه واقع شده است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کوه آبیدر",
+            "images": [
+                "https://last-cdn.com/2020/01/22/xJrkAnfXJyG9ZdhLqDe6NMRiMfiY940crHHRTlar.jpeg",
+                "https://last-cdn.com/2020/01/22/K0UNJGo6tbcxSDQlqG3PgGZkP2UyuhjK9fvawo8w.jpeg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبیدر کوهی با ارتفاع بیش از 2۵۵۰ متر از سطح دریاست که در رشته کوه‌های زاگرس غربی واقع شده است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "عمارت سالار سعید سنندج",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1694/عمارت-سالار-سعید2.jpg",
+                "https://fa.tripyar.com/uploads/picture/1694/s4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1694/عمارت-سالار-سعید19.jpg",
+                "https://fa.tripyar.com/uploads/picture/1694/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1694/s1.jpg",
+                "https://fa.tripyar.com/uploads/picture/1694/s3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1694/mooze_sanandaj_2.jpg",
+                "https://fa.tripyar.com/uploads/picture/1694/banner.en.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": "عمارت سفارش «ملا لطف الله شیخ الاسلام» است.",
+            "description": "این عمارت در خیابان امام کوچه حبیبی و در بخش برونی عمارت ملالطف اله شیخ الاسلام قرار دارد و اکنون موزه سنندج میباشد که در آن آثار و اشیائ تاریخی کشف شده از استان و سایر نقاط ایرا ن به نمایش گذاشته شده است. این بنا در اواخر حکومت ناصرالدین‌شاه قاجار به وسیله ملا لطف اللّه شیخ‌الاسلام که یکی از علمای معروف اهل سنت در دوره ی قاجاریه بوده، احداث شده و بعدها به مالکیت سالار سعید سنندجی درآمده و به نام ایشان معروف شده است. ارسی تالار تشریفات این عمارت از بزرگترین ارسیهای ایران است که توسط استاد کار معروف کردستانی «استاد حبیب الله سنندجی» معروف به استاد نسائ همراه دوپسرش میباشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "خانه جواهری کوهپایه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1765/khaneh-javaheri-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1765/khaneh-javaheri-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/1765/khaneh-javaheri-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1765/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1765/khaneh-javaheri.jpg",
+                "https://fa.tripyar.com/uploads/picture/1765/banner.en.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "خانه جواهری مربوط به دوره قاجار است. این اثر در تاریخ 7 مهر 1381 با شمارهٔ ثبت 6411 به‌عنوان یکی از آثار ملی ایران به ثبت رسیده است. مساحت این خانه حدود 1000 متر با معماری سنتی وقدیمی با خشت وگل وآجر بوده و در نوع خود بی نظیر است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "عمارت مشیر دیوان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1691/emarat-moshir-(6)-1411475220.jpg",
+                "https://fa.tripyar.com/uploads/picture/1691/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1691/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1691/40645.jpg",
+                "https://fa.tripyar.com/uploads/picture/1691/banner.en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1691/مشیر.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": "میرزا یوسف مشیردیوان",
+            "description": "این عمارت در خیابان شهدا قرار دارد و شامل هفت حیاط با فضاهای مرتبط است و یک حمام خصوصی در داخل مجموعه دارد. هر یک از حیاط ها نیز دارای آبنما می باشند. عمارت توسط میرزا یوسف مشیردیوان در دوره قاجار ساخته شده است و زیباترین ایوان با طرح کلاه فرنگ در سنندج متعلق به این بنا است. در این عمارت نیز اروسی های پرکار، تزئینات آجری، کاربندی ها و گچبری جهت تزئین استفاده شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "عمارت آصف خان وزیری",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1692/21.jpg",
+                "https://fa.tripyar.com/uploads/picture/1692/103923_330.jpg",
+                "https://fa.tripyar.com/uploads/picture/1692/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1692/emarat-asef-(1)-1411479841.jpg",
+                "https://fa.tripyar.com/uploads/picture/1692/banner.en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1692/emarat-asef-(2)-1411479841.jpg",
+                "https://fa.tripyar.com/uploads/picture/1692/2272.jpg"
+            ],
+            "year_built": "دوران صفویه، قاجاریه پهلوی",
+            "architect": null,
+            "constructor": "آصف اعظم",
+            "description": "عمارت آصف که با نام خانه کرد در سنندج معروف است، به عنوان نمادی از هویت فرهنگی اقوام کرد و گنجینه مردم‌شناسی مردم کرد از با ارزشترین آثار فرهنگی و تاریخی کردستان است. این عمارت توسط «آصف اعظم» در دوره صفویه بنا نهاده شده است. شکل گیری عمارت آصف به چهار دوره تقسیم می‌شود که دوره اول آن مربوط به بخش شمالی شامل تالار تشریفات، اتاق‌ها و راهروهای طرفین و قسمتی از فضاهای بخش شرقی مربوط به دوره صفویه‌است. دوره دوم شکل گیری عمارت آصف مربوط به نیمه نخست دوره قاجار است، در این دوره ضلع‌های شرقی و غربی حیاط بیرونی و حمام عمارت ساخته شده‌است. دوره سوم که شامل احداث فضاهای اندرونی، سردر ورودی نیم هشتی و بازسازی بخش غربی تالار تشریفات می‌شود مربوط به سال‌های 1312 تا 1316 هجری شمسی است. دوره چهارم شکل گیری عمارت آصف مربوط به سال‌های 1378 تا 1382 است که شامل مرمت کلیه قسمت‌های عمارت، تعویض سنگفرش کف حیاط، ساخت دوباره حیاط مستخدمان به شکل امروزی است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "عمارت خسروآباد کردستان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1689/217312.jpg",
+                "https://fa.tripyar.com/uploads/picture/1689/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1689/591949_kjonsxkq.jpg",
+                "https://fa.tripyar.com/uploads/picture/1689/banner.en.jpg"
+            ],
+            "year_built": "دوره زندیه قاجاریه",
+            "architect": null,
+            "constructor": "الله‌خان اردلان والی، حاکم شهیر کردستان",
+            "description": "عمارت خسروآباد در بلوار خسرو آباد «شبلی» شهر سنندج قرار دارد. این عمارت در نوع خود بی نظیر و مرکز. حکومت اردلان به ویژه خسروخان اردلان بوده است. مجموعه عمارت و باغ خسروآباد افزون بر دو بخش اصلی، یعنی قصر سلطنتی با ورودی ستون دار، باغ خسرو آباد نیز از اهمیت خاصی برخوردار بوده است این باغ که بوسیله 4 خیابان روبرو و اطراف عمارت خسرو آباد عملاً به 4 باغ خسرو اباد تبدیل شده و اطراف آن بوسیله 4 خندق در طرفین باغ و کاخ خسرو آباد با انواع درختان مختلف احاطه شده جلوه خاصی را به این مجموعه داده است. در حال حاضر تنها درختان 4 باغ و بخش هایی از 4 خیابان آن باقی‌مانده است. عمارت خسروآباد کتیبه ای دارد که اسم فتحعلی شاه قاجار و والی کردستان امان الله خان و تاریخ 1223 ه. ق بر روی آن حک شده است. عمارت خسروآباد شاخص‌ترین بنای استان کردستان است که به عنوان مقر حکومت والیان اردلان مورد استفاده قرار می گرفت. از سال 1373 عملیات مرمت این بنای تاریخی آغاز گردید اگر چه در سال 1379 بیشترین مرمت و باز سازی این بنا انجام گردید. تزئینات معماری این بنا شامل گچبری، آجرکاری، اروسی های زیبا و حوض چلیپا شکل داخل عمارت است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "حمام خان سنندج",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1690/8977.thumbst.jpg",
+                "https://fa.tripyar.com/uploads/picture/1690/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1690/watermark.php.jpg",
+                "https://fa.tripyar.com/uploads/picture/1690/banner.en.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": "الله خان اردلان",
+            "description": "این حمام در ضلع شمالی بازار قدیم سنندج در خیابان انقلاب واقع شده است. تزئینات داخل حمام و نقوش موجود بر روی دیوار آن در نوع خود بی نظیر و جالب می باشد. حمام در سال 1220 هجری قمری به دستور امان الله خان اردلان ساخته شده و در بین حمام های باقی مانده از گذشته بزرگ ترین و زیباترین حمام شهر است. وجود آب‌نماهای متعدد در حمام سرد و گرم و تزئینات وابسته به معماری شامل آهک‌بری پرکار و کاشی‌کاری‌های هفت رنگ که نقوش رومی و محلی دارند از جمله مشخصات بارز این بنای با ارزش است. حمام خان سنندج در سال 1377 از سوی اداره کل میراث فرهنگی وقت تملک گردید و کار مرمت و حفاظ آن از سال 1378 آغاز شد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد جامع سنندج",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1743/dar_al_ehsan_7.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/jameh-mosque-of-sanandaj.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/85745_965.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/jameh-mosque-of-sanandaj-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/darehsan_1.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/jameh-mosque-of-sanandaj-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/dar_al_ehsan_5.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/dar_al_ehsan_6.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/jameh-mosque-of-sanandaj-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/dar_al_ehsan_2.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/591949_u0przncs.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/jameh-mosque-of-sanandaj-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/dar_al_ehsan_8.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/jameh-mosque-of-sanandaj-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/jameh-mosque-of-sanandaj-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/jameh-mosque-of-sanandaj-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/darehsan_2.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/jameh-mosque-of-sanandaj-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/banner.en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/dar_al_ehsan_panorma.jpg",
+                "https://fa.tripyar.com/uploads/picture/1743/-جامع-قدیم-سنندج-1380283564.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": "الله خان اردلان والی وقت کردستان",
+            "description": "مسجد جامع سنندج یا دار الاحسان در دوره قاجار ساخته شده و در قلب شهر سنندج قرار دارد. این مسجد که شکوه عینی معماری اسلامی دوره قاجار است، توسط والی وقت این شهر بنا شد و به دلیل ویژگیهای خاص یکی از آثار تاریخی و دیدنی استان کردستان به شمار میرود. بر اساس کتیبه‌ های موجود، بنای مسجد در سال 1227 هجری قمری توسط امان‌ الله خان اردلان والی کردستان ساخته شد. مسجد جامع سنندج باشکوهترین و زیباترین مسجد استان کردستان است که استفاده از عالی‌ ترین مصالح ساختمانی در ساخت و تزیینات و کاشیکاری خشتی وسیع توام با کتیبه و نوشته ویژگی بارز این مسجد است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بازار بیجار",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3291/bijar-bazaar-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3291/bijar-bazaar.jpg",
+                "https://fa.tripyar.com/uploads/picture/3291/bijar-bazaar-4.jpg"
+            ],
+            "year_built": "دوره صفوی",
+            "architect": null,
+            "constructor": null,
+            "description": "بازار بیجار که در مرکز شهر واقع‌ شده بافت قدیمی شهر محسوب می ‌گردد. این بازار که در دوره صفوی ساخته شده شامل راسته‌ شمالی، جنوبی، تیمچه‌ ای به نام حاج شهباز و سرایی به نام سرای امیر تومان است. بازار تاریخی بیجار به همراه دو تیمچه حاج شهباز و امیر تومان در تاریخ 27 بهمن 1378 با شمارهٔ ثبت 2591 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده‌ است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "امامزاده عقیل بیجار",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3934/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3934/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3934/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3934/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3934/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3934/6.jpg"
+            ],
+            "year_built": "قدمت بنا مربوط دوره سلجوقی است.",
+            "architect": null,
+            "constructor": null,
+            "description": "بقعه امامزاده عقیل در شهر حسن ‌آباد یاسوکند، از توابع بیجار قرار دارد. بنای امامزاده عقیل از قدیمی ‌ترین آثار معماری کردستان در دوره اسلامی است و احتمالاً به دوره سلجوقی تعلّق دارد. امامزاده عقیل حسن آباد یاسوکند نماد فرهنگی و مذهبی شهرستان بیجار است که بنای آن در یک محوّطه قدیمی وسیع قرار گرفته و آثار سفالینه‌ هایی از دوره سلجوقی و ایلخانی در این منطقه به جای مانده است. این مکان تاریخی در 12 مهر 1376 با شمارهٔ ثبت 1931 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه قمچای، بیجار",
+            "images": [],
+            "year_built": "قرن میلاد",
+            "architect": null,
+            "constructor": null,
+            "description": "قلعه قمچای یکی از این بناهای کهن و باستانی است که در 12 کیلومتری روستای قمچقای از توابع بیجار، بر بلندای کوهی مشرف به دره‌هایی عمیق قرار گرفته است. قلعه‌ای که در بین محلی‌ها، به قلعه آیتوس نیز مشهور است. داستان‌ها و افسانه‌هایی که درباره آیتوس و جنگ‌های وی و همچنین موقعیت وهم‌آلود درون و بیرون قلعه از زبان‌ مردم محلی نقل می‌شود، قلعه را به بنایی اسرارآمیز تبدیل کرده است. بنای‌ این‌ قلعه‌ به‌ سده‌های‌ 9-8 پیش‌ از میلاد می‌رسد. در حاشیه‌ شمالی‌ دژ، حفره‌ای‌ به‌ زیبایی‌ تمام‌ تراشیده‌ شده‌ است‌. در شمال‌ غربی‌، پلکان‌ طویلی‌ وجود دارد که‌ سه‌ دوره‌ سکونت‌مادها، پارت‌ها و اشکانیان‌ را مسلم‌ می‌دارد. در عصر مغول‌، محراب‌ کوچکی‌ با چهار پلکان‌ ساخته‌ شده‌ است‌ که ‌در نوع‌ خود جالب‌ توجه‌ است‌.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پل گل قشلاق کردستان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3935/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3935/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3935/11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3935/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3935/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3935/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3935/9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3935/6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3935/10.jpg"
+            ],
+            "year_built": "دوران ایلخانی صفوی",
+            "architect": null,
+            "constructor": null,
+            "description": "پل گل قشلاق مربوط به اواخر دوره ایلخانی تا اوائل دوره صفوی است و در شهرستان بیجار، بخش کرانی، روستای گل قشلاق بر روی رود قزل اوزن واقع شده است. این در تاریخ 24 فروردین 1382 با شمارهٔ ثبت 8043 به ‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تالاب زریوار",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1612/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1612/zarivarlake.jpg",
+                "https://fa.tripyar.com/uploads/picture/1612/banner.en.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "تالاب زریوار یکی از تالاب های با ارزش غرب ایران واز قطبهای گردشگری کشور محسوب میشود. این اکوسیستم زیبا با مساحتی در حدود 3000 هکتار ترکیبی از آب- نیزار- و حیات وحش مرتبط در حاشیه غربی شهر مریوان قرار دارد. با تلاش و پیگیری مستمر اداره کل محیط زیست کردستان و بر اساس مصوبات هیئت دولت این تالاب درمراحل قرار گرفتن در فهر ست تالابهای بین المللی میباشد. گونه­ های مار ماهی وگونه ای شنگ از جانوران شاخص تالاب محسوب می شوند. همچنین گونه های متعددی از ماهیان بومی مانند: سیاه ماهی خالدار، سیاه ماهی معمولی، عروس ماهی، سس ماهی، شاکولی، گامبوزیا در این تالاب زیست می نمایند. تالاب به دلیل مهاجرت فصلی تعدادی از پرندگان به عنوان یک اکوسیستم آبی مهم در چرخه حیات منطقه اهمیت داشته و به مثابه یک نگین زیبا، دارای توان بالقوه­ای از نظر اکوتوریسم محسوب می گردد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مراکز خرید مریوان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3296/marivan-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3296/marivan-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3296/marivan.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "شهرستان مریوان مهم ‌ترین شهرستان استان کردستان از نظر گردشگری بوده و موقعیت جغرافیائی مریوان در مجاورت مرز عراق و وجود اجناس و کالاهای خارجی ارزان قیمت، فاصله نزدیک با مرکز استان، آب‌ و هوای مطبوع و محیطی طبیعی جنگلی و کوهستانی به همراه زیبایی و شکوه منحصر به ‌فرد، مریوان را به مهم‌ ترین شهر توریستی کردستان تبدیل نموده به‌ طوریکه در تمام ایام سال به علت وجود مرکز خرید ارزان قیمت کالا، این شهر مملو از مهمان و مسافر است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "سد سنگ سیاه دهگلان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3292/8.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سدهای شهرستان دهگلان تفرجگاه مردم این شهرستان هستند که می توان به سد سنگ سیاه اشاره کرد. هنوز امکانات رفاهی در این منطقه اجرا نشده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "شیدای نازار",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3006/5.jpg"
+            ],
+            "year_built": "نامشخص",
+            "architect": null,
+            "constructor": null,
+            "description": "کوه شیدا در شمال شرقی دهگلان به عنوان یک زیارتگاه مطرح است. کوه شیدا؛ آرامگاه «جد امان الله خان» والی کردستان در دوره نادرشاه افشار است، در عین حال این منطقه به «شیدای نازار» نیز معروف است. اهالی دهگلان کوه شیدا را به کوه شیطه و یا شیبا، که به معنی کوه نور است، می ‌شناسند. بالای کوه بنایی گنبدی ‌شکل وجود دارد که در سال 1381 در فهرست آثار ملی ایران ثبت شد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "سراب قروه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-25.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab24.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorve-sarab-30.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-27.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/banner.en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2344/qorveh-sarab-20.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سراب قُروِه که سراب کوثر نیز نامیده می شود، دریاچه ای طبیعی و زیبا در استان کردستان است و در جنوب شهر قروه واقع شده است. آب خنک این دریاچه که توسط 12 دهانه چشمه تامین میشود در تمام سال جریان دارد، چشمه های جوشان سراب از سطح آب قابل دیدن نیستند و گیاهان آبی دریاچه نیز به زیبایی آن افزوده است. در میان دریاچه یک جزیره کوچک دیده میشود که به نحو زیبایی نور پردازی شده و با عبور از پلی آهنی می ‌توان به آن دسترسی یافت. آب این سراب گواراست و به همین دلیل شهر قروه در کنار آن شکل گرفته است. بخشی از آب آشامیدنی و کشاورزی قروه نیز از این آب تامین می شود. تا حدود سی سال پیش، مردم روستا در ماه خرداد مراسم شکرگزاری و قربانی برای \"سراب\" برگزار می کردند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "غار کرفتو",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/937/karaftu-cave-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/937/karaftu-cave.jpg",
+                "https://fa.tripyar.com/uploads/picture/937/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/937/karaftu-cave-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/937/banner.en.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "غار کَرَفتو، غاری است که در 67 کیلومتری شمال شهر دیواندره در استان کردستان ایران. این غار، یک غار آهکی است که در دوران سوم زمین‌شناسی شکل گرفته‌است. بخش‌هایی از این غار، دست‌کَند است و کتیبه‌ و نقش های مختلفی از حیوانات در آن دیده میشود. کتیبه‌ای یونانی بر سردر یکی از اتاق‌های طبقهٔ سوم این غار وجود دارد که از این غار به عنوان معبد هراکلس نام برده‌است. این غار در تاریخ 20 بهمن 1318 با شمارهٔ ثبت 330 به‌عنوان یکی از آثار ملی ایران به ثبت رسیده‌است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منطقه‌ شکار ممنوع زرینه اوباتو",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "منطقه شکار ممنوع زرینه اوباتو که در زبان کردی به آن \"زرینه هوه تو\" می ‌گویند، در بخش کرفتو شهرستان دیواندره کردستان قرار دارد. این منطقه به مساحت 24000 هکتار در 16 کیلومتری شمال دیواندره زیستگاه مناسبی جهت گونه‌ پرنده حمایت شده و رو به انقراض میش‌ مرغ است. این ‌گونه یکی از پرندگان نادر ایران محسوب می ‌شود که در سال 1346 از سوی کانون شکار و صید آن زمان و سازمان حفاظت محیط‌ زیست فعلی «حمایت شده» اعلام شد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد دومناره سقز",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-20.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-26.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-31.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-37.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-32.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-24.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-30.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-28.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-22.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-46.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-19.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-38.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-25.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-27.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-47.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-23.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-33.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-29.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-36.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare.jpg",
+                "https://fa.tripyar.com/uploads/picture/3008/domenare-39.jpg"
+            ],
+            "year_built": "دوره افشاریه",
+            "architect": null,
+            "constructor": "مسجد تقاضای شیخ حسن مولان دستور نادرشاه افشار است.",
+            "description": "مسجد دومناره که در بافت قدیمی سقز واقع است، از آثار تاریخی سقز محسوب می شود. تاریخ دقیق ساخت مسجد مشخص نسیت، ولی از آنجا که مردم این شهر ساخت آن را به شیخ حسن مولان آباد نسبت میدهند، ‌ احتمال دارد در اواخر دوره افشاریه و اوایل زندیه ساخته شده باشد. این مسجد در سال 1380 با شماره ثبتی 2600، جزو آثار ملی به ثبت رسید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه زیویه سقز",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-28.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-49.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-41.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-37.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-42.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-24.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-46.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-30.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-25.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-22.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-39.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-15.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/naghsh_barjeste_-_abidar.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-33.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-35.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-40.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/2222.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-48.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-47.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-23.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-21.jpg",
+                "https://fa.tripyar.com/uploads/picture/3007/ziviye-50.jpg"
+            ],
+            "year_built": "700 سال میلاد",
+            "architect": null,
+            "constructor": "مانایی",
+            "description": "قلعه زیویه بروی یکی از کوه‌ های نسبتاً مرتفع در نزدیکی شهر سقز در روستای زیویه واقع شده و حدود 700 سال پیش از میلاد در دوره‌ حکومت اقوام ماد و ماننائی ساخته شده است. زیویه هم از نظر معماری و هم از نظر آثار هنری از شاخص‌ ترین و ارزشمندترین مکان‌ های دوره‌ تاریخی محسوب می‌ گردد. طی کاوش‌ های علمی و باستانشناسی که مابین 1354 تا سال 1380 ادامه یافت، نتایج و آثار قابل توجهی در زیویه به دست آمد. از مهم ‌ترین اشیائ به دست آمده می ‌توان به سر عقاب طلائی و گردنبند طلایی اشاره کرد که در موزه آثار ملی نگهداری می‌ شود. این قلعه‌ عظیم شامل سالن‌ ها، حیاط ‌ها، اتاق‌ های متعدد، تالار ستون ‌دار، انبار غله ورودی اصلی با پلکان سنگی و قسمت‌ های مختلف دیگر می باشد. موقعیت کوهستانی و صخره‌ ای زیویه، دسترسی به آنرا بسیار سخت کرده است. تپه قلعه زیویه در تاریخ 10 مهر 1380 به‌عنوان یکی از آثار ملی ایران به ثبت رسید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "سنگ‌ نبشته اورامان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/935/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/935/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/935/banner.en.jpg"
+            ],
+            "year_built": "دوره آشور",
+            "architect": null,
+            "constructor": "سارگون شاه آشور",
+            "description": "در45 کیلومتری شمال غربی کامیاران، در حدود500 متری شمال غرب روستای \" تنگیور\" در تنگه کوه های \" زینانه\"، در بلندترین نقطه صخره ی کوه، بقایای کتیبه و نقش برجسته ای به چشم می خورد که به خط میخی آشوری است و در یک طاق نما به ارتفاع 120 و پهنای 170 و عمق 35 سانتی متر حجاری و نقش شده است. درون طاق نما و در غرب آن، نقش برجسته انسانی به طول نیم متر و عرض 35 سانتی متر حک شده که احتمالاً تصویر \"سارگن دوم\" پادشاه آشوری است. نقش شاه به صورت نیم رخ، با کلاهی استوانه ای، پای راست خود را در جلو و پای چپ را عقب قرار داده است. دست راست شاه به طرف بالا بلند شده و دست چپ در مقابل شکم قرار دارد. در کنار این نقش برجسته، کتیبه ای به خط میخی با حدود50 سطر، در کادری به ابعاد 120×120 سانتی متر دیده می شود. این کتیبه به خط میخی و به زبان آشوری باستان است که پس از ستایش خدایان آشوری مانند خدای آشور، مردوک، نابو، سین، شمش و ایشتار به شرح پیروزی های خود پرداخته است و در ادامه به نقاط مختلف شهرها، روستاها و مناطقی که در این جنگ، تصرف و ویران نموده، اشاره دارد. تاریخ کتیبه احتمالاً مربوط به اواخر هزاره دوم و اوایل هزاره اول پیش از میلاد است. این اثر در تاریخ 25 اسفند 1380 با شمارهٔ ثبت 5117 به‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "additional_info": [
+        "http://af.samta.ir",
+        "http://jamshideghbalpana.blogfa.com",
+        "http://woodwood.blogfa.com",
+        "https://atacg.ir",
+        "https://bariteco.ir",
+        "https://cafeerent.com",
+        "https://donya-e-eqtesad.com",
+        "https://emroozkojaberim.com",
+        "https://fa.wikipedia.org",
+        "https://geographyhashemi.blogsky.com",
+        "https://geographyofkordestan.blogfa.com",
+        "https://kgmidco.com",
+        "https://kurdistan.areeo.ac.ir",
+        "https://kurdtourism.com",
+        "https://lastsecond.ir",
+        "https://mehrzadtrade.com",
+        "https://roozgasht.com",
+        "https://safarmarket.com",
+        "https://vista.ir",
+        "https://www.alibaba.ir",
+        "https://www.bultannews.com",
+        "https://www.isna.ir",
+        "https://www.jabama.com",
+        "https://www.mehrnews.com",
+        "https://www.nfag.basu.ac.ir",
+        "https://www.niksalehi.com",
+        "https://www.pateh.com"
+    ]
+}

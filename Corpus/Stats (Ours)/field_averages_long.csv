@@ -1,0 +1,100 @@
+province,field,avg_word_count,samples
+Chahar Mahal Bakhtiari,geographical_features.name,2.0,5
+Chahar Mahal Bakhtiari,geographical_features.description.name,2.26,50
+Chahar Mahal Bakhtiari,geographical_features.description.images,0.9737,38
+Chahar Mahal Bakhtiari,geographical_features.description.description,10.84,50
+Chahar Mahal Bakhtiari,topography.name,1.5,4
+Chahar Mahal Bakhtiari,topography.description.name,2.8387,31
+Chahar Mahal Bakhtiari,topography.description.description,38.3871,31
+Chahar Mahal Bakhtiari,natural_resources.name,2.0,2
+Chahar Mahal Bakhtiari,natural_resources.description.name,2.56,25
+Chahar Mahal Bakhtiari,natural_resources.description.description,46.32,25
+Chahar Mahal Bakhtiari,tourist_attractions.name,2.3793,29
+Chahar Mahal Bakhtiari,tourist_attractions.images,1.0,24
+Chahar Mahal Bakhtiari,tourist_attractions.description,42.9655,29
+Chahar Mahal Bakhtiari,tourist_attractions.year_built,4.0,2
+Chahar Mahal Bakhtiari,tourist_attractions.constructor,5.0,2
+Chahar Mahal Bakhtiari,tourist_attractions.architect,5.0,1
+Kohgiluyeh and Boyerahmad,geographical_features.name,1.75,4
+Kohgiluyeh and Boyerahmad,geographical_features.description.name,2.3125,16
+Kohgiluyeh and Boyerahmad,geographical_features.description.images,1.0,11
+Kohgiluyeh and Boyerahmad,geographical_features.description.description,49.875,16
+Kohgiluyeh and Boyerahmad,topography.name,1.5,2
+Kohgiluyeh and Boyerahmad,topography. description,1.0,2
+Kohgiluyeh and Boyerahmad,topography. description.name,2.3043,46
+Kohgiluyeh and Boyerahmad,topography. description.description,39.1739,46
+Kohgiluyeh and Boyerahmad,topography.ویژگی‌های زمین‌شناسی.name,2.8333,48
+Kohgiluyeh and Boyerahmad,topography.ویژگی‌های زمین‌شناسی.description,16.2708,48
+Kohgiluyeh and Boyerahmad,natural_resources.name,2.0,2
+Kohgiluyeh and Boyerahmad,natural_resources.description.name,3.814,43
+Kohgiluyeh and Boyerahmad,natural_resources.description.description,19.5116,43
+Kohgiluyeh and Boyerahmad,tourist_attractions.name,2.7273,22
+Kohgiluyeh and Boyerahmad,tourist_attractions.images,1.0,17
+Kohgiluyeh and Boyerahmad,tourist_attractions.description,46.9091,22
+Kohgiluyeh and Boyerahmad,tourist_attractions.year_built,2.0,1
+Kohgiluyeh and Boyerahmad,tourist_attractions.constructor,7.0,1
+Boushehr,geographical_features.name,1.3333,3
+Boushehr,geographical_features.description.name,2.7037,27
+Boushehr,geographical_features.description.images,1.0,18
+Boushehr,geographical_features.description.description,12.6667,27
+Boushehr,topography.name,2.3333,3
+Boushehr,topography.description.name,2.16,25
+Boushehr,topography.description.description,35.16,25
+Boushehr,natural_resources.name,2.0,2
+Boushehr,natural_resources.description.name,2.2727,11
+Boushehr,natural_resources.description.description,24.9091,11
+Boushehr,tourist_attractions.name,2.5111,45
+Boushehr,tourist_attractions.images,1.0,42
+Boushehr,tourist_attractions.description,32.8889,45
+Boushehr,tourist_attractions.year_built,5.4706,17
+Boushehr,tourist_attractions.architect,4.0,1
+Boushehr,tourist_attractions.constructor,1.7647,17
+Fars,geographical_features.name,1.4,10
+Fars,geographical_features.description.name,2.1591,44
+Fars,geographical_features.description.images,1.0,25
+Fars,geographical_features.description.description,38.1136,44
+Fars,topography.name,1.5,2
+Fars,topography.description,26.3333,3
+Fars,topography.description.name,2.0263,38
+Fars,topography.description.description,53.0,38
+Fars,natural_resources.name,2.0,2
+Fars,natural_resources.description.name,1.54,50
+Fars,natural_resources.description.description,37.52,50
+Fars,tourist_attractions.name,2.2143,28
+Fars,tourist_attractions.images,1.0,22
+Fars,tourist_attractions.year_built,3.4,15
+Fars,tourist_attractions.architect,2.4,15
+Fars,tourist_attractions.constructor,2.2,15
+Fars,tourist_attractions.description,44.4286,28
+Isfahan,geographical_features.name,1.1667,6
+Isfahan,geographical_features.description.name,2.48,25
+Isfahan,geographical_features.description.images,1.0,24
+Isfahan,geographical_features.description.description,26.52,25
+Isfahan,topography.name,2.0,2
+Isfahan,topography.description.name,2.1053,19
+Isfahan,topography.description.description,20.1053,19
+Isfahan,natural_resources.name,2.0,4
+Isfahan,natural_resources.description.name,3.7714,35
+Isfahan,natural_resources.description.description,17.1429,35
+Isfahan,tourist_attractions.name,2.6286,35
+Isfahan,tourist_attractions.images,1.0,33
+Isfahan,tourist_attractions.year_built.start,6.0,7
+Isfahan,tourist_attractions.year_built.end,6.0,4
+Isfahan,tourist_attractions.architect,2.3333,18
+Isfahan,tourist_attractions.constructor,3.5806,31
+Isfahan,tourist_attractions.description,21.1429,35
+Isfahan,tourist_attractions.year_built,2.5833,24
+Hormozgan,geographical_features.name,1.1429,7
+Hormozgan,geographical_features.description.name,1.9667,30
+Hormozgan,geographical_features.description.images,1.0,26
+Hormozgan,geographical_features.description.description,39.4,30
+Hormozgan,topography.name,1.9804,51
+Hormozgan,topography.description,29.6613,62
+Hormozgan,natural_resources.name,2.0,2
+Hormozgan,natural_resources.description.name,2.4545,11
+Hormozgan,natural_resources.description.description,44.7273,11
+Hormozgan,tourist_attractions.name,2.2174,46
+Hormozgan,tourist_attractions.images,1.0,36
+Hormozgan,tourist_attractions.description,43.7174,46
+Hormozgan,tourist_attractions.year_built,4.75,20
+Hormozgan,tourist_attractions.constructor,4.0833,12

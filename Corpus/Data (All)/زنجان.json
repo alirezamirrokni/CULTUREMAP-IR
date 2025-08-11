@@ -1,0 +1,1986 @@
+{
+    "title": "استان زنجان",
+    "location": {
+        "province": "زنجان",
+        "city": null
+    },
+    "geographical_features": [
+        {
+            "category": "رودخانه‌ها",
+            "description": [
+                {
+                    "name": "رودخانه قزل اوزن",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ابهررود",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ایجرود",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "سجاس رود",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "خرارود",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "بزینه رود",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه چمل گین",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه شور",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رود شو",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه آقبلاغ چای",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه چسب",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه خویین",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه شور چای",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه شو",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه قره قوش",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه لار",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "سیاوه رود",
+                    "images": [
+                        "http://s8.picofile.com/file/8278576368/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B7%D8%A7%D8%B1%D9%85.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "رودخانه قزل اوزن",
+                    "images": [
+                        "https://toptourist.ir/wp-content/uploads/2022/04/4-67.jpg",
+                        "https://www.touristgah.com/Media/PlaceMedia-sliderimages/4707/22bcc168_pic-(4)-min.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "خر رود",
+                    "images": [
+                        "https://ts15.tarafdari.com/contents/user830611/content-article/screenshot_20231019_141314_chrome.jpg",
+                        "https://dl.daneshchi.ir/2023/09/Donkey.webp"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب",
+                    "images": [
+                        "http://ilamtoday.com/img_bank/21397411-ilam-fountain1.jpg",
+                        "https://cdn.yjc.ir/files/fa/news/1397/8/3/8851996_456.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "کوه‌ها",
+            "description": []
+        },
+        {
+            "category": "دریاچه‌ها",
+            "description": [
+                {
+                    "name": "دریاچه پری",
+                    "images": [
+                        "https://jazebeha.com/wp-content/uploads/2019/08/%DA%AF%D8%B1%D8%AF%D8%B4%DB%8C-%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%B2%D9%86%D8%AC%D8%A7%D9%86-16.jpg",
+                        "https://kite.ir/UploadData/Gallery/pictures-template-3(45).jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "دریاچه پری خندقلو",
+                    "images": [
+                        "https://safarmarket.com/blog/data/uploaded_files/46fa0ea125622dd81753a7d4.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "معرفی دریاچه خندقلو",
+                    "images": [
+                        "https://mrbilit.com/mag/wp-content/uploads/2021/08/3.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "چشمه‌ها",
+            "description": [
+                {
+                    "name": "چشمه معدنى وننق",
+                    "images": [
+                        "https://telegra.ph/file/cd45183b756d14543f780.jpg",
+                        "https://www.safarbazi.com/mag/wp-content/uploads/2023/02/14-3.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه هاى آب گرم آب معدنى ",
+                    "images": [
+                        "https://images.kojaro.com/2016/12/7c1e3933-17b3-4945-9575-f4d2810a96f6.jpg",
+                        "https://anyja.ir/zftpusers/artuser2/1401/06/09/Cheshme-1.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب گرم روستاى گرماب ",
+                    "images": [
+                        "https://images.kojaro.com/2016/12/33bf35e4-63ed-4184-9ecf-53c9b44a1bd3.jpg",
+                        "https://images.kojaro.com/2016/12/7c1e3933-17b3-4945-9575-f4d2810a96f6.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ـ چشمه آب گرم میانج حلب انگوران",
+                    "images": [
+                        "https://images.kojaro.com/2018/11/67c2250a-4586-4335-95c5-1a69daa72f96.jpg",
+                        "https://davatonline.ir/Content/LargSize/1398/10/26/IMG637147929716282378.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ـ چشمه آب معدنى روستاى مینگجه ماه نشان",
+                    "images": [
+                        "https://irs01.wisgoon.com/irs01/6b/84/09/81/irs01_s3old_10531514704596191977.jpg",
+                        "https://www.ilamtoday.com/img_bank/21397411-ilam-fountain1.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": " چشمه علی بلاغی",
+                    "images": [
+                        "https://mrbilit.com/mag/wp-content/uploads/2021/12/1-4.jpg",
+                        "https://mrbilit.com/mag/wp-content/uploads/2021/12/2-3.jpg",
+                        "https://mrbilit.com/mag/wp-content/uploads/2021/12/5-2.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "needs_verification"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "چشمه آب گرم ابدال",
+                    "images": [
+                        "https://safarmarket.com/blog/data/uploaded_files/cb1258b745717a2e6b946da0.jpg"
+                    ],
+                    "vote": [
+                        {
+                            "labels": [
+                                "relevant",
+                                "verified"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "آبشارها",
+            "description": []
+        },
+        {
+            "category": "دشت‌ها",
+            "description": []
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آب",
+            "description": [
+                "حوضه های آبریز قزل اوزن و شور",
+                "رود قزل اوزن، زنجان چای (زنجان رود)، ابهرچای (ابهر رود)، سجاس چای (سجاس رود)",
+                "سد های استان"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "کانسار سرب و روی انگوران",
+                "بر قره گل",
+                "فلدسپات مغانلو",
+                "سیلیس قزلجه",
+                "سیلیس شیورین",
+                "گرانیت خلیفه لو",
+                "گرانیت خراسانلو",
+                "کائولن مرسون",
+                "خاک صنعتی خراسانلو",
+                "آهن مروارید",
+                "نمک سیدلر",
+                "فلدسپات دوران",
+                "مس بایچه باغ"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "معادن",
+            "description": [
+                "کلسیت",
+                "مارن رسی",
+                "سولفات منیزیم",
+                "بنتونیت",
+                "نمک سنگی خوراکی",
+                "فلدسپات پتاسیک",
+                "کانسنگ سرب",
+                "مارن آهکی",
+                "سلستین",
+                "منیزیت",
+                "سنگ تزئینی",
+                "سنگ لاشه",
+                "شن ماسه",
+                "خاک صنعتی",
+                "فلزی آهنی",
+                "پتاس",
+                "سرب"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": [
+                "مناطق کوهستانی و دشت‌های حاصلخیز",
+                "تغییرات اقلیمی با ارتفاع"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ارتفاعات",
+            "description": [
+                "تاقدیس‌ها (کوه‌های جوان)",
+                "ناودیس‌ها (چاله های تکتونیکی)",
+                "کوه های تالش، طارم، سلطانیه"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "تپه ماهورهای کرسف سعید آباد",
+                "دشت‌های طارم و زنجان ابهر",
+                "کوه های سلطانیه"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "وجود رخدادهای گوناگون زمین شناسی",
+                "کانسارهای متنوع معادن (سرب، روی، آهن، سیلیس، منگنز، و...)",
+                "گسل‌های آلپ و هیمالیا"
+            ],
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "کوه های آلاداغ لار",
+            "images": [
+                "https://www.pateh.com/blog/wp-content/uploads/2025/02/Zanjan-6.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "تپه‌های آلاداغ‌لار یکی از شگفتی‌های طبیعی در ایران و حتی جهان به شمار می‌روند که در شهرستان ماهنشان در استان زنجان واقع شده‌اند",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار شارشار",
+            "images": [
+                "https://blog.rahbal.com/wp-content/uploads/2021/08/Zanjan-sharshar-waterfall.jpg",
+                "https://www.eneshat.com/images/2018/09/sharshar-waterfall-3.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار شارشار یکی از جاذبه‌های طبیعی و منحصربه‌فرد استان زنجان، به عنوان یک مقصد گردشگری محبوب شناخته می‌شود",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "رودخانه قزل اوزن",
+            "images": [
+                "https://toptourist.ir/wp-content/uploads/2022/04/4-67.jpg",
+                "https://www.touristgah.com/Media/PlaceMedia-sliderimages/4707/22bcc168_pic-(4)-min.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "رودخانه قزل‌اوزن به عنوان یکی از طولانی‌ترین رودخانه‌های کشور ایران، نقشی برجسته در تأمین آب و حیات بخشیدن به اراضی کشاورزی منطقه دارد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه پری",
+            "images": [
+                "https://last-cdn.com/2025/04/05/wx05ViFP6ZCUklDCvVuLyqOXpDPq7yP8CPBhOW54.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دریاچه پری یا خندقلو، یکی از جاذبه‌های طبیعی و بکر استان زنجان است که در دل کوه‌های البرز مرکزی قرار دارد",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه پری دریاچه ای زیبایی پری های افسانه ای",
+            "images": [
+                "https://saednews.com/storage/files/post/4f6af01e-727b-4f2a-86df-d3e91405ccb2-MsaShX41Y1CgGvdk/5.png",
+                "https://rastakhome.com/blog/wp-content/uploads/2024/07/دریاچه.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دریاچه پری که به خندقلو و شورگلی هم معروف است، تنها دریاچه طبیعی در میان جاهای دیدنی زنجان است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "خدابنده شهری کوهستانی",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "خدابنده به دلیل ارتفاع زیادی که از سطح دریا دارد، دارای زمستان‌هایی زیبا و سرد است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "needs_image",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چشمه آب گرم ابدال",
+            "images": [
+                "https://safarmarket.com/blog/data/uploaded_files/cb1258b745717a2e6b946da0.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "بی‌تردید چشمه‌های آب گرم از جمله محبوبترین دیدنی‌های هر شهری محسوب می‌شوند",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار آرانا",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "یکی از تماشایی‌ترین جاذبه‌های طبیعی در استان زنجان را می‌توان آبشار آرانا دانست که در فاصله ۲۷ کیلومتری ناحیه شمالی خرمدره قرار گرفته‌است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "needs_image",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار آرانا",
+            "images": [
+                "https://last-cdn.com/uploads/lastgram/2021/04/04/xsVscWf597tOEfR8oFgwY8wmupXEfOfVp3jZVlrm.jpeg",
+                "https://toptourist.ir/wp-content/uploads/2022/05/2017-09-14.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار آرانا یکی از زیباترین جاهای دیدنی زنجان است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار شارشار",
+            "images": [
+                "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2020/02/14-min.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار شارشار یکی از زیباترین جاهای دیدنی زنجان است که در ۵ کیلومتری دریاچه سد تهم قرار گرفته است",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "میل خویین ایجرود",
+            "images": [],
+            "year_built": "قرون هجری قمری",
+            "architect": null,
+            "constructor": null,
+            "description": "میل خوئین مربوط به سدهٔ 5 تا 7 ه. ق است در شهرستان ایجرود و واقع شده‌ است. این بنای برج مانند بر فراز ارتفاعات ضلع غربی روستا قرار گرفته ‌است. بنای مزبور در تاریخ 10/10/1379 به شماره 2874 در فهرست آثار تاریخی کشور به ثبت رسیده ‌است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد گلابر ایجرود",
+            "images": [],
+            "year_built": "دوره سلجوقی",
+            "architect": null,
+            "constructor": null,
+            "description": "مسجد تاریخی گلابر از روستاهای ایجرود، از قدیمی ترین مساجد استان زنجان است. این مسجد تاریخی مربوط به دوره سلجوقی می باشد و از ویژگی های آن محراب سنگی و کتیبه های سنگی به خط کوفی آن است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دژمنده خویین",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "ایجرود که در 60 کیلومتری جاده زنجان-بیجار قرارگرفته دارای آثار تاریخی بسیاری است؛ علاوه بر جاذبه‌ های طبیعی آثار تاریخی متعددی مانند حمام باستانی، آسیاب، مسجد تاریخی و شهر زیرزمینی دژمند در این روستا قرار دارند و آ نرا به یکی از مقصد های مهم گردشگری در استان زنجان و شهر ایجرود تبدیل کرده‌ اند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چشمه آرکویین ایجرود",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "چشمه و آبگرم آرکویین در شهرستان ایجرود و در رروستایی به همین نام واقع شده است. این آبگرم از جاذبه های منطقه در استان زنجان بوده و با خواص درمانی و طبیعتی دل انگیز مورد توجه گردشگران است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "سد گلابر ایجرود",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3190/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3190/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3190/dam.jpg",
+                "https://fa.tripyar.com/uploads/picture/3190/8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3190/7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3190/dam-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3190/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3190/9.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "گلابر روستایی زیبا و تاریخی با طبیعتی چشم نواز در ایجرود زنجان است که سد زیبای آن تفرجگاه مردم شهرستان می باشد. این روستای پلکانی با چهل ‌پله ساسانیان،،، باغ‌ ها و کوچه باغ‌ ها مقصد مناسبی برای گردشگری است. سد گلابر در این منطقه جاذبه بی ‌نظیری است که وجود صخره ‌ها و دیوارهای بلند در اطراف آن چشم‌ انداز منحصر به‌ فردی به آن بخشیده است، در سد گلابر شرایط برای ورزش‌ های آبی، صخره نوردی و ماهیگیری نیز فراهم شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد میرزایی زنجان",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "مسجد میرزایی نجفی که در گذشته به مسجد مسگرها و آهنگرها معروف بوده در مجموعه بازار پایین این شهر قرار دارد. این مسجد به شماره 29972 در فهرست میراث ملی به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد چهل‌ ستون زنجان",
+            "images": [],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "مسجد چهل‌ ستون یکی از مساجد تاریخی و برجسته استان زنجان است که با معماری خاص و ستون ‌های قطور و مستحکم خود، جاذبه ‌ای دیدنی برای علاقه‌ مندان به تاریخ و فرهنگ ایران محسوب می ‌شود. این مسجد که در مرکز شهر زنجان واقع شده در سال 1284 هجری قمری ساخته شده است. این بنا در مجمومه ثبتی بازار زنجان قرار دارد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "امامزاده سید ابراهیم زنجان",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "بنای امامزاده سید ابراهیم یکی از زیباترین و قدیمی ‌ترین بناهای مذهبی شهر زنجان است. این آرامگاه در داخل شهر زنجان در قبرستان متروکه واقع در منتهی الیه سمت شرقی شهر قدیم، مشرف به دیوار حصار شهر قرار گرفته است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "سد تهم زنجان",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سد تهم در جنوب روستای تهم و در فاصله 15 کیلومتری شمال غربی شهر زنجان در استان زنجان است که بر روی رودخانه سارمساقلو ساخته شده ‌است. علاقه‌ مندان به طبیعت گردی، عکاسی، ماهیگیری و قایق‌ سواری از این منطقه استفاده می کنند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "کاروانسرای سنگی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/306/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/306/کاروانسرای-سنگی(داش-کاروانسرا)-زنجان1.jpg",
+                "https://fa.tripyar.com/uploads/picture/306/کاروانسرای-سنگی(داش-کاروانسرا)-زنجان.jpg",
+                "https://fa.tripyar.com/uploads/picture/306/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/306/کاروانسرای-سنگی(داش-کاروانسرا)-زنجان6.jpg",
+                "https://fa.tripyar.com/uploads/picture/306/کاروانسرای-سنگی(داش-کاروانسرا)-زنجان3.jpg",
+                "https://fa.tripyar.com/uploads/picture/306/کاروانسرای-سنگی(داش-کاروانسرا)-زنجان2.jpg",
+                "https://fa.tripyar.com/uploads/picture/306/کاروانسرای-سنگی(داش-کاروانسرا)-زنجان4.jpg",
+                "https://fa.tripyar.com/uploads/picture/306/کاروانسرای-سنگی(داش-کاروانسرا)-زنجان5.jpg"
+            ],
+            "year_built": "دوره صفوی",
+            "architect": null,
+            "constructor": null,
+            "description": "کاروانسرای سنگی به ترکی در جاده کمربندی زنجان-میانه روبروی ایستگاه قطار زنجان واقع شده است. قدمت این کاروانسرا به دوره صفویه باز می‌گردد و هم اکنون به عنوان رستوران سنتی مورد استفاده است. پلان این کاروانسرا به سبک چهار ایوانی است، حجره‌های آن در یک طبقه قرار گرفته‌اند و سقف‌‌ها از نوع قوسی هستند. استفاده از سنگ به عنوان مصالح اصلی در ساخت کاروانسرا باعث شده است که این بنا با عنوان کاروانسرای سنگی و در زبان محاوره ای داش کاروانسرا معروف شود. این بنا از لحاظ این که تنها بنای باقی مانده از کاروانسراهای زنجان است دارای اهمیت فراوانی است. این کاروانسرادر سال 1377 توسط سازمان میراث فرهنگی با شماره 2128 در فهرست آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بازار زنجان",
+            "images": [],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "بازار زنجان طولانی ترین بازار سرپوشیده ایران است. این بازار در دوران آقا محمد خان قاجار آغاز و در سال 1213 در زمان فتحعلی شاه قاجار خاتمه یافته و مساجد و سراها و گرمابه ‌ها نیز در سال 1324 هجری قمری به آن افزوده شده‌ است. این مجموعه در فهرست آثار ملی کشور به شماره 444 در سال 1374 به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "رختشویخانه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2/rakhtshooy-khaneh-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/2/rakhtshooy-khaneh-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/2/rakhtshooy-khaneh-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/2/rakhtshooy-khaneh-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/2/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2/rakhtshooy-khaneh-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2/rakhtshooy-khaneh-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2/rakhtshooy-khaneh.jpg",
+                "https://fa.tripyar.com/uploads/picture/2/rakhtshooy-khaneh-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/2/3740.jpg",
+                "https://fa.tripyar.com/uploads/picture/2/rakhtshooy-khaneh-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/2/rakhtshooy-khaneh-9.jpg"
+            ],
+            "year_built": "1307",
+            "architect": null,
+            "constructor": null,
+            "description": null,
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مردان نمکی زنجان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/305/مردان-نمکی-زنجان5.jpg",
+                "https://fa.tripyar.com/uploads/picture/305/مردان-نمکی-زنجان6.jpg",
+                "https://fa.tripyar.com/uploads/picture/305/مردان-نمکی-زنجان.jpg",
+                "https://fa.tripyar.com/uploads/picture/305/مردان-نمکی-زنجان1.jpg",
+                "https://fa.tripyar.com/uploads/picture/305/مردان-نمکی4.jpg",
+                "https://fa.tripyar.com/uploads/picture/305/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/305/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/305/مردان-نمکی-زنجان3.jpg",
+                "https://fa.tripyar.com/uploads/picture/305/مردان-نمکی-زنجان4.jpg",
+                "https://fa.tripyar.com/uploads/picture/305/مردان-نمکی-زنجان2.jpg",
+                "https://fa.tripyar.com/uploads/picture/305/نفشه-زنجان.png"
+            ],
+            "year_built": "بهمن ماه 1387",
+            "architect": null,
+            "constructor": null,
+            "description": "مردان نمکی نامی است که به شش مومیایی کشف‌شده در زمستان سال 1372 در معدن نمک چهرآباد استان زنجان داده شده‌است. در میان آن‌ها جسد یک زن و یک پسر نوجوان نیز وجود دارد. تعدادی از مردان نمکی بر اثر ادامهٔ کار معدن با بولدوزر، به‌شدت آسیب دیده‌اند. در سال 2008 بهره‌برداری از معدن متوقف شد و جسد ششمین مرد نمکی به دلیل کمبود امکانات لازم برای نگهداری از آن، دست نخورده در معدن باقی ماند. از میان مردان نمکی یافت شده، سه مرد نمکی مربوط به زمان هخامنشیان و دو مرد نمکی دیگر نیز مربوط به اواخر دوران ساسانی هستند. عمارت ذوالفقاری بنایی تاریخی است که در یکی از محلات قدیمی شهر زنجان موسوم به محله \"دالان آلتی\"در ضلع شمالی سبزه میدان و مسجد جامع قرار دارد. با انتقال مجموعه آثار بدست آمده از معدن نمک چهر آباد در سال 1386 موزه موقت مومیایی ها در این مکان بوجود آمد و در سال 1388 اولین موزه باستانشناسی استان زنجان در عمارت ذوالفقاری افتتاح گردید. این بنا در تاریخ 1375/12/25 به شماره 1852 در فهرست آثار ملی کشور به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد خانم زنجان",
+            "images": [],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": "جمیله خانم ذوالفقاری",
+            "description": "مسجد خانم مربوط به دوره قاجار است و در زنجان، خیابان امام، کوچه فخیم الدوله واقع شده است. این بنای تاریخی در 10 اردیبهشت 1354 با شمارهٔ ثبت 1055 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده ‌است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پل سردار زنجان",
+            "images": [],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "پل سردار با قدمتی که به دوره قاجار بازمی ‌گردد، از دیدنی های زنجان است و روی رودخانه زنجان رود قرار دارد. از نکات قابل توجه پل سردار، تزیینات کاشی و آجری در نمای شرقی آن است که در پل‌ های دیگر کمتر مشاهده می شود. این اثر در تاریخ 18 مهر 1356 با شماره‌ ثبت 1485 به ‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "خانه توفیقی زنجان",
+            "images": [],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "بنای توفبقی در اواخر دوران قاجار و اوایل پهلوی ساخته شده و به شماره 2664 در تاریخ 78/12/25 به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد جامع زنجان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/1680/seyed-zanjan.jpg",
+                "https://fa.tripyar.com/uploads/picture/1680/35.jpg",
+                "https://fa.tripyar.com/uploads/picture/1680/21.jpg",
+                "https://fa.tripyar.com/uploads/picture/1680/img_0121a.jpg",
+                "https://fa.tripyar.com/uploads/picture/1680/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/1680/مسجدجامعزنجان(مسجدسید)thumb.jpg",
+                "https://fa.tripyar.com/uploads/picture/1680/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/1680/689271.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": "پسران فتحعلی شاه قاجار عبدالله میرزا",
+            "description": "مسجد جامع زنجان با چهار ایوان یکی از مساجد مهم استان زنجان و زیبا در نوع خود است که چشم هر بیننده‌ای را می‌نوازد. مسجد جامع زنجان به همراه یک مدرسه بوده که در قرن سیزدهم هجری قمری توسط یکی از پسران فتحعلی شاه قاجار به نام عبدالله میرزا دارا که یکی از مریدان آیت ‌الله سید محمد مجتهد سردانی بود ساخته شده است. مسجد جامع زنجان به نام‌های مسجد دارا، مسجد سید، مسجد سلطانی و مسجد جمعه نیز نامگذاری شده بود و اکنون با عنوان مسجد جامع معروف است. مسجد جامع زنجان که در گذشته به همراه یک مدرسه بوده و در شمار بزرگ‌ترین و زیباترین مساجد زنجان است که دارای چهار ایوان است و وجود این چهار ایوان در صحن مسجد بیش از هر چیزی خود را نمایان می‌کند. ایوان‌های مسجد جامع زنجان با یکدیگر قرینه هستند. تک تک قسمت‌های این مسجد نشان‌دهنده هنرنمایی هنرمندان ماهر ایرانی است. این اثر در تاریخ 10 اردیبهشت 1342 با شماره ثبت 1056 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "پل حاج میربها الدین زنجان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2280/baha-aldin-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2280/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2280/baha-aldin-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/2280/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2280/baha-aldin-6.jpg"
+            ],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": "حاج میر بهائالدین زنجانی",
+            "description": "پل میر بهائالدین مربوط به دوره قاجار است و در شهرستان زنجان، روی رودخانه زنجان رود واقع شده ‌است. این پل توسط یکی از خیرین شهر زنجان به نام حاج میر بهائالدین در زمان ناصرالدین‌ شاه قاجار احداث گردیده است و قدیمی ترین و بزرگترین پل بر روی زنجان رود میباشد. این اثر در تاریخ 18 مهر 1356 با شمارهٔ ثبت 1484 به‌عنوان یکی از آثار ملی ایران به ثبت رسیده ‌است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بقعه پیر احمد زهرنوش ابهر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-20.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-12.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-28.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-16.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-26.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-19.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-18.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-27.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3189/pir-ahmad-15.jpg"
+            ],
+            "year_built": "قرن هجری قمری",
+            "architect": null,
+            "constructor": null,
+            "description": "آرامگاه معروف به پیراحمد زهرنوش محل دفن سه تن از عرفا و بزرگان تاریخ ابهر است و امروزه به یکی از جاهای دیدنی ابهر در استان زنجان تبدیل شده است. بقعه پیر احمد زهرنوش مربوط به سدهٔ 6 و 7 ه. ق است که در مجاورت آن خانقاهی وجود داشته که امروزه به عنوان موزه‌ ابهر شناخته می شود. این بنا که در حاشیه جنوبی شهر ابهر واقع شده است در تاریخ 1 مهر 1353 با شمارهٔ ثبت 981 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد جامع قروه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3188/ghorveh-mosque-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3188/ghorveh-mosque.jpg",
+                "https://fa.tripyar.com/uploads/picture/3188/ghorveh-mosque-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3188/4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3188/3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3188/ghorveh-mosque-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3188/ghorveh-mosque-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3188/5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3188/ghorveh-mosque-10.jpg",
+                "https://fa.tripyar.com/uploads/picture/3188/ghorveh-mosque-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3188/ghorveh-mosque-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3188/ghorveh-mosque-3.jpg"
+            ],
+            "year_built": "قرن پنجم هجری قمری",
+            "architect": null,
+            "constructor": null,
+            "description": "مسجد جامع قروه، از بناهای تاریخی روستای قروه در کیلومتر 15 جاده ترانزیتی ابهرـتاکستان است. این مسجد که به مسجد جمعه نیز معروف است از آثار دوران سلجوقی است که همانند مساجد این دوران به سبک چهار ایوانی ساخته شده و گنبد زیبای آن بر چهار فیلپوش استوار است. این مسجد یکی از مهم ‌ترین مساجد ایران از لحاظ تزیینات خطی و کتیبه ‌ای به حساب می ‌آید. بنای مسجد جامع در تاریخ 1341/12/05 به شماره 433 در فهرست آثار تاریخی کشور به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "چشمه علی بلاغی ابهر",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "چشمه علی بلاغی از جاهای دیدنی ابهر به شمار می‌ رود و در یکی از زیباترین مناطق دست نخورده طبیعی با آب و هوای عالی واقع شده است. طبیعت منطقه و غارهای اطراف برای گردشگران از جذابیت ویژه برخوردار است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "امامزاده اسماعیل شناط ابهر",
+            "images": [],
+            "year_built": "قدمت بنا متعلق قرن هجری است.",
+            "architect": null,
+            "constructor": null,
+            "description": "بقعه امامزاده اسماعیل، بنای تاریخی و زیارتی بسیار زیبایی است که در شناط ابهر خیابان طالقانی شمالی در استان زنجان قراردارد. بنای این عمارت با توجه به معماری آن مربوط به قرن نهم هجری و تزئینات آن مربوط به دوره صفویه است. این اثر در سال 1353 به شماره 1014 در فهرست آثار ملی کشورثبت شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "امامزاده زیدالکبیر ابهر",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3601/emamzade-zeydolkabir-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/3601/emamzade-zeydolkabir.jpg",
+                "https://fa.tripyar.com/uploads/picture/3601/emamzade-zeydolkabir-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3601/emamzade-zeydolkabir-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3601/emamzade-zeydolkabir-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3601/emamzade-zeydolkabir-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/3601/emamzade-zeydolkabir-7.jpg"
+            ],
+            "year_built": "قرن هجری قمری",
+            "architect": null,
+            "constructor": null,
+            "description": "امامزاده زیدالکبیر از آرامگاههای معروف و جاهای دیدنی استان زنجان در ابهر است که در شرق شهر و در انتهای خیابان استاد مطهری ابهر واقع شده است. شجره‌ نامه زیدالکبیر به حضرت علی بن ابیطالب می‌ رسد و از صوفیان منطقه بوده است. این بنای تاریخی که در میان میدانی پر از گل ‌های رنگارنگ قرار گرفته گنبد مخروطی شکل زیبایی دارد و از نظر سبک معماری در این ناحیه بی نظیر است. اطراف زیارتگاه در گذشته گورستانی وجود داشت که در حال حاضر به خارج از شهر منتقل شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "امامزاده یعقوب صایین قلعه",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "امامزاده یعقوب از اولاد بلا واسطه حضرت موسی‌ بن جعفر است. بقعه آن حضرت در شهرستان ابهر و در شهر صائین ‌قلعه قرار دارد که سالانه و در مناسبت‌ های مختلف زائران از اقصی نقاط کشور به این مکان سفر می کنند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه تپه ابهر",
+            "images": [],
+            "year_built": "عصر مفرغ",
+            "architect": null,
+            "constructor": null,
+            "description": "جایگاه نخستین خانه‌ های شهر ابهر، تپه‌ ای باستانی به نام تپه قلعه است و در کنار ابهر رود جای دارد. این محل یکی از نخستین زیستگاه‌ های انسانی منطقه زنجان به شمار می ‌رود و حداقل از اوایل هزاره چهارم پیش از میلاد مورد استفاده و محل سکونت اجتماعات آغازین بوده است. این اثر در تاریخ 7 مهر 1381 با شمارهٔ ثبت 6170 به ‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "سد کینه ورس ابهر",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سد کینه ورس در شهرستان ابهر قرار گرفته و علاوه بر تامین آب شرب شهرهای ابهر و خرمدره، با خلق منظره بی ‌بدیل در کوهستان به یکی از نقاط گردشگری استان زنجان تبدیل شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ییلاق قارقالان",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "ییلاقات علم کندی جزئ زیباترین مناطق شهرستان ماهنشان بوده که هر سال جمع کثیری را در دامان خود پذیرا می باشد. طبیعت منطقه در فصل تابستان به قدری زیباست که به تابلو نقاشی بیشتر شباهت دارد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "یاستی قلعه ماه",
+            "images": [],
+            "year_built": "دوره ساسانی",
+            "architect": null,
+            "constructor": null,
+            "description": "یاستی قلعه مربوط به دوره ساسانیان است و در شهرستان ماه ‌نشان روستای یاستی قلعه واقع شده است. این اثر در تاریخ 22 فروردین 1356 با شمارهٔ ثبت 1365 به ‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه بهستان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/304/behestan-(4).jpg",
+                "https://fa.tripyar.com/uploads/picture/304/the-behestan-castle-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/304/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/304/behestan-castle.jpg",
+                "https://fa.tripyar.com/uploads/picture/304/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/304/the-behestan-castle-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/304/behestan-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/304/behestan-5.jpg"
+            ],
+            "year_built": "دوره ماد دوره هخامنشی است.",
+            "architect": null,
+            "constructor": null,
+            "description": "شهرستان ماهنشان که در باختر استان زنجان واقع شده یکی از آبادترین و بکرترین مناطق استان زنجان است و از جاذبه های تاریخی و طبیعی فراوانی چون دریاچه طبیعی، رودخانه‌ های متعدد دایمی و فصلی، کوههای سر‌به‌ فلک‌ کشیده، چشمه‌ها، باغ‌ها و کشتزارهای زیبا و دیدنی برخوردار است. شهرستان ماهنشان، را می توان از جمله نقاط استان زنجان عنوان کرد که به لحاظ برخورداری از آثار تاریخی و گردشگری دارای پتانسیل های ویژه گردشگری است. 184 اثر تاریخی گردشگری در شهرستان ماهنشان وجود دارد که بخشی از این آثار تاریخی مربوط به دوران عصر «مفرغ» با قدمت پنج هزار سال است. روستای قوزلو و قلعه بهستان بیشتر از دیگر آثار تاریخی در جهت جذب گردشگران نوروزی به شهرستان ماهنشان معرفی شده اند. قلعه بهستان یا کهن دژ در شهرستان ماه‌ نشان در استان زنجان و در نزدیکی روستای بهستان، در کنار رود قزل اوزن جای گرفته است. دیرینگی این دژ به دوره مادها باز می‌ گردد. تاکنون قدمت آن تا دوره هخامنشی به اثبات رسیده است. قلعه بهستان به شماره 1458 در فهرست آثار ملی کشور به ثبت رسیده‌ است. ولی به علت بی توجهی و ناشناخته بودن و همچنین عوامل انسانی و طبیعی در حال نابودی است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه پری ماه",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دریاچه پری که با نامهای دریاچه خندقلو و شورگلی نیز شناخته می ‌شود، تنها دریاچه طبیعی استان زنجان و یکی از زیباترین جاذبه‌ های گردشگری ماهنشان است. این دریاچه علاوه بر چشم ‌انداز زیبا، تاثیر مهمی در اقتصاد منطقه دارد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "غار روستای میانج ماه",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "از آثار طبیعی شهرستان ماهنشان در روستای میانج واقع شده که یک غار طبیعی می باشد. این غار که بین مردم محل \"کورپو کوهلو\" نامیده میشود، مورد توجه غارنوردان منطقه قرار گرفته است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آلاداغلار استان زنجان",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/316/آلاداغلار-استان-زنجان4.jpg",
+                "https://fa.tripyar.com/uploads/picture/316/آلاداغلار-استان-زنجان2.jpg",
+                "https://fa.tripyar.com/uploads/picture/316/آلاداغلار-استان-زنجان5.jpg",
+                "https://fa.tripyar.com/uploads/picture/316/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/316/آلاداغلار-استان-زنجان1.jpg",
+                "https://fa.tripyar.com/uploads/picture/316/آلاداغلار-استان-زنجان3.jpg",
+                "https://fa.tripyar.com/uploads/picture/316/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/316/آلاداغلار-استان-زنجان.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "شهر های بتنی خاکستری چنان انسانها را در خود غرق کرده اند که گویا خلقت زمین از ابتدا چنین بی رنگ و تصنعی بوده است. وقتی نقاش بزرگ دست به قلم شود طیف های مهمانی رنگش را نمی توان شمرد. در فاصله نه چندان دور تابلو های خداوندی را می توان با جان و دل دید. یکی از این نقش های طراح دو عالم آلاداغ لار می باشد که گشت در آنها وعکاسی بی وقفه در آن روحی تازه به بیننده خود خواهد داد. آلاداغ لار، نام محلی کوه‌ها و تپه‌های رنگارنگی است، که در بخشهایی از آذربایجان و زنجان قرار گرفته اند. کوههای رنگی یا آلاداغ لار یکی از مناظر زیبای روی زمین به شمار می‌آید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دودکش جن",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/307/دودکش-جن-ماه-نشان-زنجان4.jpg",
+                "https://fa.tripyar.com/uploads/picture/307/دودکش-جن-ماه-نشان-زنجان.jpg",
+                "https://fa.tripyar.com/uploads/picture/307/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/307/دودکش-جن-ماه-نشان-زنجان6.jpg",
+                "https://fa.tripyar.com/uploads/picture/307/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/307/دودکش-جن-ماه-نشان-زنجان3.jpg",
+                "https://fa.tripyar.com/uploads/picture/307/دودکش-جن-ماه-نشان-زنجان5.jpg",
+                "https://fa.tripyar.com/uploads/picture/307/دودکش-جن-ماه-نشان-زنجان7.jpg",
+                "https://fa.tripyar.com/uploads/picture/307/دودکش-جن-ماه-نشان-زنجان2.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "در مناطق مختلف ایران همچون شهرستان ماهنشان واقع در استان زنجان پدیده ای به نام دودکش جن قابل مشاهده است که یکی از جاذبه های گردشگری محسوب می شود. دودکش جن در 20 کیلومتری شهر ماهنشان و 120 کیلومتری زنجان قرار دارد. این پدیده طبیعی در اصطلاح زمین‌شناسی «هودو» نامیده می‌شود و در اصل نوعی سنگ به شکل قارچ می‌باشد که بر اثر فرسایش پدید آمده و شبیه به مناره بلند و نازکی است که سنگ دیگری روی آن قرار گرفته است. دودکش جن و قلعه بهستان یا قلعه ماه‌نشان از جاذبه‌های گردشگری زنجان هستند که تاکنون کمتر شناخته شده‌اند. این دو در نزدیکی روستای بهستان و شهرستان ماه‌نشان در حدود 110 کیلوتری زنجان واقع شده‌اند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دربند قاطرچی ماه",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دربند قاطرچی که مهد تمدن انسان ‌های پیش از تاریخ است از جاهای دیدنی ماهنشان در استان زنجان به شمار می‌ رود. این دربند تاریخی یکی از مناطق حفاظت شده شهرستان ماه نشان از لحاظ سکونت حیوانات وحش است و دارای قلعه ای تاریخی نیز می باشد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "قلعه قشلاق ماه",
+            "images": [],
+            "year_built": "دورره اشکانی",
+            "architect": null,
+            "constructor": null,
+            "description": "بقایای قلعه قشلاق مربوط به دوره اشکانیان است و در شهرستان ماه نشان، بخش مرکزی، دهستان قزل گچیلو، 7 کیلومتری شمال شرق روستای قره گل، چسبیده به رودخانه قزل اوزن واقع شده است. این اثر در تاریخ 28 شهریور 1386 با شمارهٔ ثبت 19740 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منطقه حفاظت انگوران",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/308/منطقه-حفاظت-شده-انگوران،-استان-زنجان4.jpg",
+                "https://fa.tripyar.com/uploads/picture/308/banne-ren.jpg",
+                "https://fa.tripyar.com/uploads/picture/308/منطقه-حفاظت-شده-انگوران،-استان-زنجان.jpg",
+                "https://fa.tripyar.com/uploads/picture/308/منطقه-حفاظت-شده-انگوران،-استان-زنجان1.jpg",
+                "https://fa.tripyar.com/uploads/picture/308/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/308/منطقه-حفاظت-شده-انگوران،-استان-زنجان6.jpg",
+                "https://fa.tripyar.com/uploads/picture/308/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/308/منطقه-حفاظت-شده-انگوران،-استان-زنجان5.jpg",
+                "https://fa.tripyar.com/uploads/picture/308/قوچ-و-میش-نژاد-خالص-ارمنی-در-منطقه-حفاظت-شده-و-پناهگاه-انگوران.jpg",
+                "https://fa.tripyar.com/uploads/picture/308/279841330708.jpg",
+                "https://fa.tripyar.com/uploads/picture/308/منطقه-حفاظت-شده-انگوران،-استان-زنجان7.jpg",
+                "https://fa.tripyar.com/uploads/picture/308/منطقه-حفاظت-شده-انگوران،-استان-زنجان2.jpg",
+                "https://fa.tripyar.com/uploads/picture/308/منطقه-حفاظت-شده-انگوران،-استان-زنجان3.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "این منطقه حفاظت شده که به شکل کرگدن شباهت دارد، منطقه ای است کوهستانی و تپه ماهوری در شهرستان ماهنشان است. داخل منطقه حفاظت شده انگوران سه ایستگاه اقلیم شناسی وجود دارد که شامل ایستگاههای سینوپتیک و باران سنجی است. منطقه حفاظت شده انگوران از سال 1349 تحت حفاظت بوده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "لاله واژگون ماه",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "لاله های واژگون در شهرستان ماهنشان از جاذبه های دیدنی فصل بهار در استان زنجان است که به صورت پراکنده و فقط 2 گونه سرخ و زرد در ارتفاعات روستای خورجهان و برخی ارتفاعات دیگر این شهرستان می روید.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منطقه حفاظت سرخ طارم",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "منطقه حفاظت شده سرخ آباد، در 18 کیلومتری جنوب شرق زنجان قرار گرفته ‌است. این منطقه به دلیل شرایط اکولوژیکی خاص و دارا بودن زیستگاه های متنوع و کوهستانی، دشتی و محیط های آبی از تنوع گیاهی و جانوری بالایی برخوردار است. دشت سهرین در داخل منطقه بعنوان یکی از زیستگاه های با ارزش آهو محسوب می شود. منطقه سرخ آباد طی مصوبه شماره 149 شورای عالی محیط زیست مورخ 1375/11/27 بعنوان منطقه حفاظت شده سرخ آباد به مناطق تحت مدیریت سازمان حفاظت محیط زیست پیوسته است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "دریاچه سد طارم",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "دریاچه و سد کرد آباد طارم در استان زنجان واقع است. این منطقه شامل دو دریاچه بزرگ و کوچکی است که بر اثر زلزله خرداد 1369 و ریزش کوه و بسته شدن مسیر رود ایجاد شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "تپه سانسیز طارم",
+            "images": [],
+            "year_built": "عصر آهن دوران اسلام",
+            "architect": null,
+            "constructor": null,
+            "description": "تپه تاریخی سانسیز مربوط به دوره آهن تا دوران تاریخی پس از اسلام است و در شهرستان طارم روستای سانسیز واقع شده است. این مکان در تاریخ 26 آذر 1356 با شمارهٔ ثبت 1510 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "سد پاوه رود طارم",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سد تنظیمی پاوه رود یک سد بتونی بر روی رود قزل اوزن در 50 کیلومتری شمال شرقی زنجان ساخته شده است. این پروژه برای شهرستان طارم از نظر کشاورزی و اقتصادی حائز اهمیت است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "سد میرزاخانلو طارم",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "سد میرزاخانلو در استان زنجان و به فاصله 24 کیلومتری غرب شهرستان طارم در روستای میرزاخانلو قرار دارد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشار کله سیران طارم",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "آبشار کله سیران طارم از زیباترین آبشارهای استان زنجان بشمار می رود و هنگام بارش باران به اوج شکوه و زیبایی خود می ‌رسد. این آبشار در ساحل رودخانه قزل اوزن واقع شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آتشکده پیرچم طارم",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2660/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2660/22.jpg",
+                "https://fa.tripyar.com/uploads/picture/2660/pircham-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/2660/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/2660/pircham.jpg"
+            ],
+            "year_built": "دوران ساسانی بنا آخرین دوره اسلام میانی",
+            "architect": null,
+            "constructor": null,
+            "description": "آتشکده پیرچم مربوط به دوران پیش از اسلام یا دوره اسلام میانی است و در شهرستان طارم، بخش مرکزی، دهستان آببر واقع شده است. این مکان تاریخی در تاریخ 1 مهر 1353 با شمارهٔ ثبت 984 با نام آتشکده پیرچم به ثبت آثار ملی رسیده است. روستای پیرچم در کنار جاده آببر به گیلوان قرار گرفته است. این آتشکده نیز در جنوب روستا بر روی تپه ای قرار دارد که پلان آن به شکل چلیپا است. امروزه از این بنا فقط دیوارهای آن باقی مانده است. روستاییان این بنا را به نام پیر میشناسند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آبشارهای وزنه طارم",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "از آبشارهای زیبای ایران، آبشارهای وزنه سر هستند که در استان زنجان و شهرستان طارم قرار گرفته اند. در اطراف روستای وزنه سر در هفده کیلومتری شهر آببر استان زنجان این آبشارهای زیبا خودنمایی می کنند و در طبیعت ناب این منطقه بسیار چشم نواز هستند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "طاقی الزین طارم",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "شهرستان طارم را با نام شهر آتشکده ها می شناسند. چهار طاقی های این شهرستان با عناوین: الزین،، گیلانکشه، گیلوان و در سال 1353 با نام آتشکده های ساسانی در فهرست آثار ملی به ثبت رسیده اند.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "آتشکده تشویر طارم",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/2656/fire-temple-of-taram-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/2656/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/2656/tashvir.jpg",
+                "https://fa.tripyar.com/uploads/picture/2656/banner.jpg"
+            ],
+            "year_built": "ساسانی",
+            "architect": null,
+            "constructor": null,
+            "description": "شهرستان طارم از شهرستان ‎های زیبا و تاریخی استان زنجان است که دارای قدمت دیرینه بوده و جاذبه‎ های تاریخی بی ‌شمار آن نشان از قدمت این شهرستان دارد. بناهای عظیم تاریخی و فرهنگی در این شهرستان موج می‎ زند و اشیای کشف شده تاریخی عظمت «هندوستان ایران» را بیشتر نمایان می ‎کند. در واقع طارم را می ‎توان شهرستان چهار طاقی های زیبا و تاریخی دانست. آتشکده تشویر نیز که مربوط به دوره ساسانیان است، در شهرستان طارم، بخش مرکزی، روستای تشویر واقع شده است. این مکان در تاریخ 1 مهر 1353 با شمارهٔ ثبت 983 به‌عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "منطقه شکار ممنوع خرمنه",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "منطقه شکار ممنوع خرمنه سر که از آبان سال 81 جزو مناطق شکار ممنوع اعلام شد در شمال استان زنجان و دامنه جنوبی سلسله جبال البرز واقع شده است. این منطقه پوشش گیاهی و جانوری متنوعی دارد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "غار زرین رود خدابنده",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "غار زرین رود یا غار دود زا یکی از زیباترین غارهای استان زنجان است که در نزدیکی شهر زرین ‌رود از توابع شهرستان خدابنده قرار دارد که دارای دالان ‌ها و دهلیزهای مختلف، پیچ‌ و خمهای زیاد، شیب‌ های تند و مسیرهای تنگ و باریک است. این غار در زمره غارهای خشکی و آبی است و برخی نقاط بدون قایق قابل پیمودن نیست. زرین غار در فهرست آثار ملی به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد جامع قیدار نبی خدابنده",
+            "images": [],
+            "year_built": "دوره قاجار",
+            "architect": null,
+            "constructor": null,
+            "description": "مسجد جامع قیدار که دارای سبک شبستانی است، در ضلع خاوری بقعه قیدار نبی در محدوده شهرستان خدابنده و چهل کیلومتری شهر زنجان واقع شده است. قدمت این مسجد به دوره قاجار می رسد و از محل موقوفات بقعه قیدار نبی ساخته شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مسجد جامع سجاس",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/3193/jame-mosque-13.jpg",
+                "https://fa.tripyar.com/uploads/picture/3193/jame-mosque-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/3193/jame-mosque-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/3193/jame-mosque-11.jpg",
+                "https://fa.tripyar.com/uploads/picture/3193/jame-mosque-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/3193/jame-mosque-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/3193/jame-mosque-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/3193/jame-mosque-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/3193/jame-mosque-17.jpg",
+                "https://fa.tripyar.com/uploads/picture/3193/jame-mosque-14.jpg",
+                "https://fa.tripyar.com/uploads/picture/3193/jame-mosque-2.jpg"
+            ],
+            "year_built": "قرن پنجم هجری قمری",
+            "architect": null,
+            "constructor": null,
+            "description": "سجاس یک شهر قدیمی است که پس از حمله مغول ویران شد و هیچ ‌وقت نتوانست شکوه و بزرگی قبل از مغول را به دست آورد. از بین آثار متعدد تاریخی در این شهر، ‌ مسجد جامع هزار ساله آن است که توانسته از خرابی‌ های حمله مغول در امان بماند. مسجد جامع سجاس مربوط به دوره سلجوقیان است و از جاهای دیدنی استان زنجان در خدابنده به شمار می ‌رود. این اثر در تاریخ 12 بهمن 1353 با شماره‌ ثبت 1019 به‌‌ عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بقعه قیدار نبی زنجان",
+            "images": [],
+            "year_built": "بنای آرامگاه مربوط سده 7 8 ه‍.",
+            "architect": null,
+            "constructor": null,
+            "description": "بنای آرامگاهی قیدار نبی در جنوب غربی شهرستان قیدار و در دامنه ارتفاعات با همین نام قرار دارد. این بنا متعلق به قیداربن اسماعیل بن ابراهیم از پیامبران الهی است. بنای آرامگاه مربوط به سدهٔ 7 و 8 ه‍. ق است. این اثر در تاریخ 21 آبان 1317 با شمارهٔ ثبت 321 به ‌عنوان یکی از آثار ملی ایران به ثبت رسیده ‌است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "امامزاده ابراهیم سجاس",
+            "images": [],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "بقعه امامزاده ابراهیم بزرگترین و باشکوه ‎ترین بقعه موجود در سطح شهرستان خدابنده است که در بخش غربی شهر سجاس قرار گرفته است. ضریح چوبی این اما‎مزاده از آثار گرانبها و ارزشمند عصر شاه طهماسب دوم صفوی است. لازم به ذکر است که در مورد محل شهادت و شجره ایشان اختلاف نظر وجود دارد.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "سد کرسف خدابنده",
+            "images": [],
+            "year_built": "دوره ساسانی",
+            "architect": null,
+            "constructor": null,
+            "description": "سد تاریخی کرسف تنها سازه آبی تاریخی در شمال غرب کشور می باشد که در شهرسرسبز کرسف در حوزه شهرستان خدابنده قرار گرفته است. قدمت سد را با توجه به سفال ‌های کشف شده در منطقه به دوره ساسانیان نسبت می ‌دهند که در دوره قاجار مرمت شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "غار کتله خور",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/970/11-1526337613.jpg",
+                "https://fa.tripyar.com/uploads/picture/970/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/970/caving.jpg",
+                "https://fa.tripyar.com/uploads/picture/970/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/970/11-2082618929.jpg",
+                "https://fa.tripyar.com/uploads/picture/970/ش.jpg",
+                "https://fa.tripyar.com/uploads/picture/970/11-171303486.jpg"
+            ],
+            "year_built": null,
+            "architect": null,
+            "constructor": null,
+            "description": "طبق نظریه های علمی و نقشه های زمین شناسی غار کتله خور غاری است آبی-خشکی که در دل کوه ساقیزلو در آهکهای الیگومیوسن مربوط به دوران سوم زمین شناسی بوجود آمده و تقریبا حدود 30 میلیون سال می تواند قدمت داشته باشد ولی بنظر برخی بیش از 120 میلیون سال عمر دارد. این غار که محل سکونت انسانهای اولیه نیز بوده دارای هفت طبقه میباشد که سه طبقه آن شناسایی شده و در طبقات آن آبشار هایی هم وجود دارد. قندیل های این غار اشکال زیبایی بخود گرفته اند که بعضی از آنها به اشکال مشابه نام گذاری شده اند. از معروف ترین تندیس های طبیعی غار میتوان به تندسی های عروس و داماد، سفره عقد، شیر خوابیده، سگ شکاری، پنجه شیر و پای فیل اشاره کرد. این غار به غار علیصدر نیز متصل میشود. این غار در سال 1330 به ثبت رسیده است ولی کاوش های آن در سال 1365 انجام شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "مجموعه تاریخی شیخ براق چلبی اوغلی",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/303/chalabi-oghli-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/303/chalabi-oghli-1.jpg",
+                "https://fa.tripyar.com/uploads/picture/303/chalabi-oghli-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/303/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/303/chalabi-oghli-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/303/chalabi-oghli-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/303/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/303/chalabi-oghli-5.jpg"
+            ],
+            "year_built": "728 هجری قمری",
+            "architect": null,
+            "constructor": "بنای تاریخی بنا بروایتی متعلّق عارف زمان، شیخ براق بابا است، محقّقان، مجموعه سلطان چلپی منسوب",
+            "description": "این بنای تاریخی متعلّق به عارف بنام این زمان، شیخ براق بابا از بزرگان مسلک مولویه و از خاصان در بار سلطان محمد خدابنده در دوره ایلخانی است. همچنین باستان شناسان و محقّقان، این مجموعه را به سلطان چلبی منسوب نموده و تاریخ احداث بنا را سال 728 هجری قمری بیان نموده اند. مقبره شیخ براق یا چلپی اوغلو که در کنار آن خانقاهی مربوط به همین دوره وجود دارد از نوع مقابر برجی شکل قرون میانی اسلامی است و قابل مقایسه با مقبره امام زاده جعفر اصفهان می باشد. عدّه ای از محققان و باستان شناسان بنای خانقاه را مقدّم بر مقبره سلطان چلبی می دانند و بعضی از آنان، تاریخ احداث مقبره را مقدّم بر خانقاه اعلام نموده اند. این اثر به شماره 167 در فهرست آثار ملّی به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "گنبد سلطانیه",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/267/نقوش-و-اجرکاری-های-سلطانیه-۲.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/شهر_سلطانیه4.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/soltaniye-dome-5.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/مرمت-مسجد-سلطانیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/soltaniye-dome-2.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/نقوش-و-اجرکاری-های-سلطانیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/شهر_سلطانیه1.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/soltaniye-dome-6.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/soltaniye-dome-4.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/soltaniye-dome-9.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/شهر_سلطانیه5.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/soltaniye.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/شهر_سلطانیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/نمایی-از-سلطانیه-از-مسجد-سلطانیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/شهر_سلطانیه3.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/soltaniye-dome-8.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/soltaniye-dome-7.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/سردابه-سلطانیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/soltaniye-dome-3.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/گچکاری-آیات-قران-در-سلطانیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/نقوش-و-اجرکاری-های-سلطانیه-۴.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/سلطانیه-سال-۱۲۲۰-شمسی.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/کندکاری-بر-روی-چوب-در-سلطانیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/267/soltaniye-dome.jpg"
+            ],
+            "year_built": "عهد ایلخانی",
+            "architect": null,
+            "constructor": "سلطان محمد خدابنده",
+            "description": "شهر سُلطانیه یکی از شهرهای استان زنجان است که در 43 کیلومتری شهر زنجان واقع است. گنبد سلطانیه و مقبرهٔ اولجایتو در این شهر قرار دارند. از دیگر آثار تاریخی این شهر می‌ توان به آرامگاه ملا حسن کاشی و خانقاه حسام‌ الدین حسن چلبی اشاره کرد. گنبد سلطانیه مقبرهٔ اُلجایتو است که در 1302 تا 1312 میلادی در شهر سلطانیه ساخته شد و از آثار مهم معماری ایرانی و اسلامی از شیوه معماری آذری به شمار می‌ رود. گنبد سلطانیه یکی از مهترین نمونه ­های معماری ایلخانی می­باشد که تاثیر بسزایی در معماری بناهای تاریخی جهان گذاشته است و می­توان نمونه بارز این تاثیر را در معماری کلیسای سانتاماریا دلفیوره در فلورانس دید. بنای گنبد سلطانیه بعد از گنبدهای سانتاماریا دلفیوره در ایتالیا و ایاصوفیه ترکیه، سومین گنبد بزرگ دنیاست. گنبد سلطانیه در سال 1310 جزئ آثار ملی ایران شناخته شد و در 24 تیرماه 1384 نیز به عنوان هفتمین اثر ماندگار ایرانی در فهرست جهانی یونسکو ثبت شده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "معبد داش کسن، چین ایران",
+            "images": [
+                "https://fa.tripyar.com/uploads/picture/269/معبد-داش-کسن،-چین-ایران-سلطانیه6.jpg",
+                "https://fa.tripyar.com/uploads/picture/269/معبد-داش-کسن،-چین-ایران-سلطانیه1.jpg",
+                "https://fa.tripyar.com/uploads/picture/269/banner-en.jpg",
+                "https://fa.tripyar.com/uploads/picture/269/معبد-داش-کسن،-چین-ایران-سلطانیه2.jpg",
+                "https://fa.tripyar.com/uploads/picture/269/banner.jpg",
+                "https://fa.tripyar.com/uploads/picture/269/معبد-داش-کسن،-چین-ایران-سلطانیه4.jpg",
+                "https://fa.tripyar.com/uploads/picture/269/معبد-داش-کسن،-چین-ایران-سلطانیه3.jpg",
+                "https://fa.tripyar.com/uploads/picture/269/معبد-داش-کسن،-چین-ایران-سلطانیه.jpg",
+                "https://fa.tripyar.com/uploads/picture/269/معبد-داش-کسن،-چین-ایران-سلطانیه5.jpg",
+                "https://fa.tripyar.com/uploads/picture/269/معبد-داش-کسن،-چین-ایران-سلطانیه7.jpg"
+            ],
+            "year_built": "دوره ایلخانی",
+            "architect": null,
+            "constructor": "الجای خاتون خواهر سلطان محمد خدابنده",
+            "description": null,
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "بقعه ملا حسن کاشی زنجان",
+            "images": [],
+            "year_built": "قدمت بنا متعلق دوره صفوی است.",
+            "architect": null,
+            "constructor": null,
+            "description": "بنای آرامگاه ملاحسن کاشی یا مقبره مولانا حسن کاشی مربوط به آغازین دوره‌ های صفویه است که در سلطانیه، جنوب شهر واقع شده است. این بنا در تاریخ 15 دی 1310 با شمارهٔ ثبت 168 به‌ عنوان یکی از آثار ملی ایران به ثبت رسیده است.",
+            "vote": [
+                {
+                    "labels": [
+                        "relevant",
+                        "verified"
+                    ]
+                }
+            ]
+        }
+    ],
+    "additional_info": [
+        "http://www.zwd.ir",
+        "http://zanjanfrommerss.blogfa.com",
+        "https://af.samta.ir",
+        "https://arsacamp.com",
+        "https://borna.news",
+        "https://fa.wikipedia.org",
+        "https://geographyhashemi.blogsky.com",
+        "https://iranianutopia.ir",
+        "https://jahanesanat.ir",
+        "https://jstnar.iut.ac.ir",
+        "https://jzpm.marvdasht.iau.ir",
+        "https://kite.ir",
+        "https://lastsecond.ir",
+        "https://magirans.com",
+        "https://mehrzadtrade.com",
+        "https://mrbilit.com",
+        "https://safarmarket.com",
+        "https://safarzon.com",
+        "https://vista.ir",
+        "https://www.alibaba.ir",
+        "https://www.azmc.ir",
+        "https://www.flytoday.ir",
+        "https://www.isna.ir",
+        "https://www.mehrnews.com",
+        "https://www.pateh.com",
+        "https://www.tahlilbazaar.com",
+        "https://www.tasnimnews.com",
+        "https://www.znrw.ir"
+    ]
+}
