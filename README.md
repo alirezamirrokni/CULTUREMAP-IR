@@ -44,8 +44,6 @@
 ---
 
 ## What’s in the Repo
-> Directory names below mirror the report; yours may differ slightly. Adjust paths as needed.
-
 - `data/`  
   - Normalized, schema-controlled JSON per province (entries with names, optional images, and short evidence-tied descriptions).
 - `retrieval/`  
