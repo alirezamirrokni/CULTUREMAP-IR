@@ -6,7 +6,6 @@
 [![Status](https://img.shields.io/badge/status-active-success)](#)
 [![Language](https://img.shields.io/badge/lang-Persian%20(Fa)-blue)](#)
 [![Retrieval](https://img.shields.io/badge/retriever-GLOT500%20%2B%20LoRA-7f52ff)](#)
-[![License](https://img.shields.io/badge/license-See%20LICENSE-informational)](#)
 
 </div>
 
