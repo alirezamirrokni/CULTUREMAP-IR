@@ -275,7 +275,7 @@ If you use **CULTUREMAP-IR**, please cite the repo/report:
 ---
 
 ## Authors
-**[Asal Meskin](https://github.com/asalmskin)** • **[Alireza Mirrokni](https://github.com/alirezamirrokni)**
+**[Asal Meskin](https://github.com/asalmskin)** • **[Alireza Mirrokni](https://github.com/alirezamirrokni)** 
 Computer Engineering Department, **Sharif University of Technology**  
 *Equal contribution.*
 
