@@ -27,7 +27,6 @@
 - [Contributing](#contributing)
 - [Citing](#citing)
 - [Authors](#authors)
-- [License](#license)
 
 ---
 
@@ -276,11 +275,7 @@ If you use **CULTUREMAP-IR**, please cite the repo/report:
 ---
 
 ## Authors
-**Asal Meskin** (401106511) • **Alireza Mirrokni** (401106617)  
+**[Asal Meskin](https://github.com/asalmskin)** • **[Alireza Mirrokni](https://github.com/alirezamirrokni)**
 Computer Engineering Department, **Sharif University of Technology**  
 *Equal contribution.*
 
----
-
-## License
-This project is released under the terms of the license in `LICENSE` (see file for details).
